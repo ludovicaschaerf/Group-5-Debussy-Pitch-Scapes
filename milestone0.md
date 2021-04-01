@@ -5,7 +5,7 @@ Debussy played a crucial role in the turning point from the 19th to the 20th cen
 
 Harmonic analysis of post-tonal music in which diatonicism and experimental sonorities coexist is a complex issue, which often results in different and controversial interpretations.
 
-The aim of this project is to investigate the harmonic construction of Debussy’s piano works, trying to identify the main compositional techniques that he applies to achieve this sense of ambiguity and to find a structural coherence between them. Additionally, through the harmonic analysis of his work, we will trace the gradual shift from clarity of tonality towards tonal ambiguity in Debussy’s piano music.
+The aim of this project is to investigate the harmonic construction of Debussy’s piano works, trying to identify the main compositional techniques that he applies to achieve this sense of ambiguity and to find a structural coherence between them. Additionally, through our harmonic analysis,  we will trace the gradual shift from clarity of tonality towards tonal ambiguity in Debussy’s piano music.
 
 Among the factors that concur to define Debussy’s harmonic practice, we expect to find:
 -scales: whole tone scales, pentatonic scales, modal scales, chromatic scales, octatonic scales
