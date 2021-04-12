@@ -2,7 +2,8 @@
 
 ### Research Question
 Debussy played a crucial role in the turning point from the 19th to the 20th century in Western music. Many of his works are characterized by innovative sonorities which cannot be associated with functional harmony or tonality. His style emphasizes color, texture and mood, accomplishing a feat of floating and elusive vagueness. [0]
-Throughout the 20th century, musicians have indeed recognized Debussy's contribution to compositional practice with the development of several new techniques that constitute an important change in the essence of pitch structuring. Hallmarks of his harmonic style [1] are: 
+Throughout the 20th century, musicians have indeed recognized Debussy's contribution to compositional practice with the development of several new techniques that constitute an important change in the essence of pitch structuring. Hallmarks of his harmonic style [1] are:
+
 -scales: whole tone scales, pentatonic scales, modal scales, unusual scales, chromatic scales, octatonic scales
 -interval types: whole tone chords(major triads, augmented triads), extended chords, open fourths, fifths and chords without thirds
 -harmonic progressions: parallelism, third related progressions, root progressions by step, polytonality, polymodality, unusual dominant resolutions, modal cadences.
@@ -33,7 +34,6 @@ Differently from keyscapes, the detection is extended to non-diatonic scales. Th
 
 DFT performs the extraction of regular collections of pitch classes. It does so by decomposing the original score signal into sinusoidal waves, each with varying amplitudes and phases. Furthermore, each wave was given a musical interpretation: most of them represent specific chord/scale types [9]. With this method, we plan to close-read some pieces of interest, investigating the structure of their harmony through the identification of sections based on the detected chords and scales. We will then interpret the found sections to find harmonic progressions and discuss whether the detected features raise a sense of ‘stasis’ or ‘tonal ambiguity’.
 Additionally, if manageable, we plan to extract other chord types and progressions tweaking the method itself. For instance, we will look at what frequencies might identify extended chords, open fourths, fifths and chords without thirds using the methodology explained in the Masters’ thesis’ section 2.3. 
-
 For the evaluation, we will manually annotate on musescore a subsample of the data into the found scales and harmonic progressions and compare the annotations with the DFT results. We will also manually annotate all progressions and intervals that we cannot reliably extract using DFT. 
 
 With the results of the DFT and the manual annotations, we will plot the features we identify as the most characterizing of the composer’s harmonic practice and the ones possibly establishing ‘tonal ambiguity’. The evaluation of these features will be based on the recurrence of appearance of the extracted chords, scales, or progressions in the pieces. Through this recurrence, we will distant-read the pieces by plotting over time. This will allow us to assess the temporal progression of the composer’s style.
