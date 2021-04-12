@@ -1,4 +1,4 @@
-# Milestone 0
+# Milestone 1
 
 ### Research Question
 Debussy played a crucial role in the turning point from the 19th to the 20th century in Western music. Many of his works are characterized by innovative sonorities which cannot be associated with functional harmony or tonality. His style emphasizes color, texture and mood, accomplishing a feat of floating and elusive vagueness. [0]
