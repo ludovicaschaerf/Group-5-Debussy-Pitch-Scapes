@@ -22,7 +22,7 @@ Observing the development of Debussy’s harmonic practice through our analysis,
 ### Concepts and Data
 Using the DFT coefficients and the concept of wavescapes as explained in the Methods section, we will analyze the usage of pitch sets(different scales) and interval/chord sets, identifying sections and hierarchies of the pieces. Through this analysis, we will be able to observe the harmonic progressions present in those pieces.
 
-In terms of the dataset, we would like to extract the MIDI representation of some of Debussy’s works, collecting the MIDI files from [this website] (http://www.kunstderfuge.com/debussy.htm).
+In terms of the dataset, we would like to extract the MIDI representation of some of Debussy’s works, collecting the MIDI files from [this website](http://www.kunstderfuge.com/debussy.htm).
 We will focus on the piano works which are commonly considered as the most representative of his reaction to tonal harmony [1], such as his Etampes, Preludes and Images, but we will also examine examples of a more traditional repertoire to make relevant comparisons. In general, we will ensure to have a good temporal coverage through our selections, so that we can investigate the evolution of his music.
 If needed, we will annotate some scores manually to verify the reliability of the data and provide the ground truth of those pieces.
 
