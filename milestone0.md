@@ -4,11 +4,9 @@
 Debussy played a crucial role in the turning point from the 19th to the 20th century in Western music. Many of his works are characterized by innovative sonorities which cannot be associated with functional harmony or tonality. His style emphasizes color, texture and mood, accomplishing a feat of floating and elusive vagueness. [0]
 Throughout the 20th century, musicians have indeed recognized Debussy's contribution to compositional practice with the development of several new techniques that constitute an important change in the essence of pitch structuring. Hallmarks of his harmonic style [1] are:
 
--scales: whole tone scales, pentatonic scales, modal scales, unusual scales, chromatic scales, octatonic scales 
-
--interval types: whole tone chords(major triads, augmented triads), extended chords, open fourths, fifths and chords without thirds
-
--harmonic progressions: parallelism, third related progressions, root progressions by step, polytonality, polymodality, unusual dominant resolutions, modal cadences.
+- scales: whole tone scales, pentatonic scales, modal scales, unusual scales, chromatic scales, octatonic scales 
+- interval types: whole tone chords(major triads, augmented triads), extended chords, open fourths, fifths and chords without thirds
+- harmonic progressions: parallelism, third related progressions, root progressions by step, polytonality, polymodality, unusual dominant resolutions, modal cadences.
 
 Considering tonality as a “system for interpreting pitches or chords through their relationship to a reference pitch (tonic)” (Huron, 2006: 143), many scholars attribute to these practices the destabilization of a unifying referential tonic in Debussy’s music [1,2].
 According to Salzmari E. [3], Debussy was the first composer to successfully put forward an alternative to the traditional paradigm, a musical thought based on symmetrical patterns and structures with a highly weakened directional motion and thus a very ambiguous sense of tonal organization. Moreover, Leydon R.V.[4], describes “Debussyism” by illustrating some of the aforementioned techniques, stating:
