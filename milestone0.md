@@ -50,9 +50,13 @@ With the results of the DFT and the manual annotations, we will plot the feature
 [3]  Salzman, E. (1974). Twentieth-Century Music; An Introduction, p.22 (2nd edition). Published by Prentice-Hall, Englewood Cliffs
 
 [4] Leydon, R.V. (1996). Narrative strategies and Debussy's late style. McGill University
+
 [5] Brown, M. (1993). Tonality and Form in Debussy's Prélude à l'après-midi d'un faune. Music Theory Spectrum 15 Vol. 2. pp 127-143. Published by the Society for Music Theory, Inc.
+
 [6] Forte A. (1991). Debussy and the Octatonic. Music Analysis, Vol. 10 No. 1/2 pp 125- 169. Published by Wiley.
+
 [7] Parks R.S. (1989). The Music of Claude Debussy. Music and Letters, Vol.72 No.1, pp 144-149. Published by Oxford University Press.
+
 [8] Wenk, A. (1983). Claude Debussy and twentieth-century music (Twayne’s Music Series). Twayne Publishers. 
 
 [9] Yust, J. (2015). Schubert’s harmonic language and Fourier phase space. Journal of Music Theory, 59(1), pp 121-181.
