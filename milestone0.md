@@ -6,11 +6,15 @@ Throughout the 20th century, musicians have indeed recognized Debussy's contribu
 -scales: whole tone scales, pentatonic scales, modal scales, unusual scales, chromatic scales, octatonic scales
 -interval types: whole tone chords(major triads, augmented triads), extended chords, open fourths, fifths and chords without thirds
 -harmonic progressions: parallelism, third related progressions, root progressions by step, polytonality, polymodality, unusual dominant resolutions, modal cadences.
+
 Considering tonality as a “system for interpreting pitches or chords through their relationship to a reference pitch (tonic)” (Huron, 2006: 143), many scholars attribute to these practices the destabilization of a unifying referential tonic in Debussy’s music [1,2].
 According to Salzmari E. [3], Debussy was the first composer to successfully put forward an alternative to the traditional paradigm, a musical thought based on symmetrical patterns and structures with a highly weakened directional motion and thus a very ambiguous sense of tonal organization. Moreover, Leydon R.V.[4], describes “Debussyism” by illustrating some of the aforementioned techniques, stating:
+
 “Debussy's saturation of the musical surface with such devices radically undermines unitary tonal identity. Their aim is to complicate the binary oppositions of tension and resolution, structure and ornament, departure and return, consonance and dissonance oppositions which are defining characteristics of the tonal idiom. Yet while Debussy certainly obscures functional tonality, he does not entirely abandon it either“
+
 Debussy’s harmonic practice can be positioned midway in the spectrum between extended tonality and extreme atonality, which often leads to controversial interpretations. Considering the broader context of this research, analysis of this kind of music has indeed tended to privilege either Shenkerian paradigms[5] or atonal pitch-class set theory[6], while fewer are the attempts to overcome this traditional division.[4,7]
 Being this music neither exclusively tonal or atonal, we want to examine how, in absence of a unifying tonal framework, harmonic structural coherence arises from seeming discontinuities and in which ways the techniques mentioned above account for the impression of ‘weightlessness', ‘statis’[8] and ‘tonal ambiguity’ that many scholars identify. 
+
 We will investigate in particular the harmonic construction of Debussy’s piano music, observing the main compositional frameworks exploited by the composer and tracing the gradual shift from clarity of tonality towards tonal ambiguity in his works.
 Observing the development of Debussy’s harmonic practice through our analysis, we expect to find an increase of the exploitation of the techniques precedently described over time and to find some recurrent patterns that characterize his personal way of ‘rearranging familiar and unusual sonorities’ [4].
 
