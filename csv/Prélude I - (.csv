@@ -1,0 +1,810 @@
+﻿,score_name,pitch_name,pitch_onset,pitch_offset
+0,Prélude I - (,B-,0,1
+1,Prélude I - (,B,1,1 3/4
+2,Prélude I - (,C,1 3/4,2
+3,Prélude I - (,C,2,3
+4,Prélude I - (,B-,3,4
+5,Prélude I - (,B,4,4 3/4
+6,Prélude I - (,C,4 3/4,5
+7,Prélude I - (,C,5,5 3/4
+8,Prélude I - (,F,5 3/4,6
+9,Prélude I - (,D,6,7
+10,Prélude I - (,D,7,8
+11,Prélude I - (,E-,8,9
+12,Prélude I - (,E,9,10
+13,Prélude I - (,F,10,10 1/2
+14,Prélude I - (,F,10 1/2,11
+15,Prélude I - (,B-,10 1/2,11
+16,Prélude I - (,F,10 1/2,11
+17,Prélude I - (,D,11,11 1/2
+18,Prélude I - (,A,11,11 1/2
+19,Prélude I - (,D,11,11 1/2
+20,Prélude I - (,A,11 1/2,11 3/4
+21,Prélude I - (,D,11 1/2,11 3/4
+22,Prélude I - (,A,11 1/2,11 3/4
+23,Prélude I - (,F,12,12 1/4
+24,Prélude I - (,A,12,12 1/4
+25,Prélude I - (,D,12,12 1/4
+26,Prélude I - (,F,12,12 1/4
+27,Prélude I - (,G,12 1/2,12 3/4
+28,Prélude I - (,B-,12 1/2,12 3/4
+29,Prélude I - (,D,12 1/2,12 3/4
+30,Prélude I - (,G,12 1/2,12 3/4
+31,Prélude I - (,E,13,13 1/2
+32,Prélude I - (,G,13,13 1/2
+33,Prélude I - (,C,13,13 1/2
+34,Prélude I - (,E,13,13 1/2
+35,Prélude I - (,D,13 1/2,14
+36,Prélude I - (,F,13 1/2,14
+37,Prélude I - (,A,13 1/2,14
+38,Prélude I - (,D,13 1/2,14
+39,Prélude I - (,D,14,14 1/2
+40,Prélude I - (,F,14,14 1/2
+41,Prélude I - (,B-,14,14 1/2
+42,Prélude I - (,D,14,14 1/2
+43,Prélude I - (,C,14 1/2,15
+44,Prélude I - (,E,14 1/2,15
+45,Prélude I - (,G,14 1/2,15
+46,Prélude I - (,C,14 1/2,15
+47,Prélude I - (,F,15,16
+48,Prélude I - (,A,15,16
+49,Prélude I - (,C,15,16
+50,Prélude I - (,F,15,16
+51,Prélude I - (,B-,16,17
+52,Prélude I - (,G,17,17 3/4
+53,Prélude I - (,C,17 3/4,18
+54,Prélude I - (,C#,18,19
+55,Prélude I - (,B-,19,20
+56,Prélude I - (,B,20,20 1/2
+57,Prélude I - (,G,20 1/2,21 1/2
+58,Prélude I - (,B,20 1/2,21 1/2
+59,Prélude I - (,E-,20 1/2,21 1/2
+60,Prélude I - (,G,20 1/2,21 1/2
+61,Prélude I - (,A,21 1/2,22
+62,Prélude I - (,C#,21 1/2,22
+63,Prélude I - (,F,21 1/2,22
+64,Prélude I - (,A,21 1/2,22
+65,Prélude I - (,D,22,22 1/2
+66,Prélude I - (,G,22,22 1/2
+67,Prélude I - (,F,22 1/2,23 1/2
+68,Prélude I - (,G,22 1/2,23 1/2
+69,Prélude I - (,G,22 1/2,23 1/2
+70,Prélude I - (,F,23 1/2,24 1/2
+71,Prélude I - (,G,23 1/2,24 1/2
+72,Prélude I - (,G,23 1/2,24 1/2
+73,Prélude I - (,F,24 1/2,25
+74,Prélude I - (,G,24 1/2,25
+75,Prélude I - (,G,24 1/2,25
+76,Prélude I - (,E,25,25 1/2
+77,Prélude I - (,G,25,25 1/2
+78,Prélude I - (,F,25 1/2,26 1/2
+79,Prélude I - (,G,25 1/2,26 1/2
+80,Prélude I - (,G,25 1/2,26 1/2
+81,Prélude I - (,D,26 1/2,27
+82,Prélude I - (,F,26 1/2,27
+83,Prélude I - (,B-,26 1/2,27
+84,Prélude I - (,D,26 1/2,27
+85,Prélude I - (,F,26 1/2,27
+86,Prélude I - (,B-,26 1/2,27
+87,Prélude I - (,F,26 1/2,27
+88,Prélude I - (,D,27,27 1/2
+89,Prélude I - (,F,27,27 1/2
+90,Prélude I - (,A,27,27 1/2
+91,Prélude I - (,D,27,27 1/2
+92,Prélude I - (,A,27,27 1/2
+93,Prélude I - (,D,27,27 1/2
+94,Prélude I - (,A,27 1/2,28
+95,Prélude I - (,D,27 1/2,28
+96,Prélude I - (,A,27 1/2,28
+97,Prélude I - (,F,28,28 1/2
+98,Prélude I - (,A,28,28 1/2
+99,Prélude I - (,D,28,28 1/2
+100,Prélude I - (,F,28,28 1/2
+101,Prélude I - (,G,28 1/2,29
+102,Prélude I - (,B-,28 1/2,29
+103,Prélude I - (,D,28 1/2,29
+104,Prélude I - (,G,28 1/2,29
+105,Prélude I - (,E,29,29 1/2
+106,Prélude I - (,G,29,29 1/2
+107,Prélude I - (,C,29,29 1/2
+108,Prélude I - (,E,29,29 1/2
+109,Prélude I - (,D,29 1/2,30
+110,Prélude I - (,F,29 1/2,30
+111,Prélude I - (,A,29 1/2,30
+112,Prélude I - (,D,29 1/2,30
+113,Prélude I - (,D,30,30 1/2
+114,Prélude I - (,F,30,30 1/2
+115,Prélude I - (,B-,30,30 1/2
+116,Prélude I - (,D,30,30 1/2
+117,Prélude I - (,C,30 1/2,31
+118,Prélude I - (,E,30 1/2,31
+119,Prélude I - (,G,30 1/2,31
+120,Prélude I - (,C,30 1/2,31
+121,Prélude I - (,F,31,33
+122,Prélude I - (,A,31,33
+123,Prélude I - (,C,31,33
+124,Prélude I - (,F,31,33
+125,Prélude I - (,G,33,34
+126,Prélude I - (,G,33,34
+127,Prélude I - (,F,34,34 3/4
+128,Prélude I - (,F,34,34 3/4
+129,Prélude I - (,D,34 3/4,35
+130,Prélude I - (,D,34 3/4,35
+131,Prélude I - (,C,35,35 3/4
+132,Prélude I - (,C,35,35 3/4
+133,Prélude I - (,B-,35 3/4,36
+134,Prélude I - (,B-,35 3/4,36
+135,Prélude I - (,E-,36,36 1/2
+136,Prélude I - (,G,36,36 1/2
+137,Prélude I - (,G,36,36 1/2
+138,Prélude I - (,B-,36,36 1/2
+139,Prélude I - (,E-,36,36 1/2
+140,Prélude I - (,F,36 1/2,37
+141,Prélude I - (,A,36 1/2,37
+142,Prélude I - (,C,36 1/2,37
+143,Prélude I - (,F,36 1/2,37
+144,Prélude I - (,D,37,39
+145,Prélude I - (,C,39,40
+146,Prélude I - (,C,39,40
+147,Prélude I - (,B-,40,40 3/4
+148,Prélude I - (,B-,40,40 3/4
+149,Prélude I - (,G,40 3/4,41
+150,Prélude I - (,G,40 3/4,41
+151,Prélude I - (,F,41,41 3/4
+152,Prélude I - (,F,41,41 3/4
+153,Prélude I - (,E-,41 3/4,42
+154,Prélude I - (,E-,41 3/4,42
+155,Prélude I - (,E-,42,42 3/4
+156,Prélude I - (,C,42,42 3/4
+157,Prélude I - (,B-,42 3/4,43
+158,Prélude I - (,B-,42 3/4,43
+159,Prélude I - (,G,43,43 1/4
+160,Prélude I - (,G,43,43 1/4
+161,Prélude I - (,B-,43,43 1/4
+162,Prélude I - (,E-,43,43 1/4
+163,Prélude I - (,G#,43 1/2,43 3/4
+164,Prélude I - (,C,43 1/2,43 3/4
+165,Prélude I - (,F,43 1/2,43 3/4
+166,Prélude I - (,G,44,44 1/4
+167,Prélude I - (,B,44,44 1/4
+168,Prélude I - (,D,44,44 1/4
+169,Prélude I - (,G,44,44 1/4
+170,Prélude I - (,B-,44 1/2,44 3/4
+171,Prélude I - (,C#,44 1/2,44 3/4
+172,Prélude I - (,F,44 1/2,44 3/4
+173,Prélude I - (,B-,44 1/2,44 3/4
+174,Prélude I - (,G,45,46
+175,Prélude I - (,G,45,46
+176,Prélude I - (,E,46,46 3/4
+177,Prélude I - (,E,46,46 3/4
+178,Prélude I - (,F,46 3/4,47
+179,Prélude I - (,F,46 3/4,47
+180,Prélude I - (,F#,47,47 3/4
+181,Prélude I - (,F#,47,47 3/4
+182,Prélude I - (,B,47 3/4,48
+183,Prélude I - (,B,47 3/4,48
+184,Prélude I - (,G,48,48 3/4
+185,Prélude I - (,G,48,48 3/4
+186,Prélude I - (,C,48 3/4,49
+187,Prélude I - (,C,48 3/4,49
+188,Prélude I - (,C,49,50 1/2
+189,Prélude I - (,D,49,50 1/2
+190,Prélude I - (,C,49,50 1/2
+191,Prélude I - (,D,49,50 1/2
+192,Prélude I - (,E,50 1/2,51
+193,Prélude I - (,E,50 1/2,51
+194,Prélude I - (,G,51,51 3/4
+195,Prélude I - (,G,51,51 3/4
+196,Prélude I - (,C,51 3/4,52
+197,Prélude I - (,C,51 3/4,52
+198,Prélude I - (,B-,52,52 3/4
+199,Prélude I - (,E,52 3/4,53
+200,Prélude I - (,E,52 3/4,53
+201,Prélude I - (,G,53,54
+202,Prélude I - (,A,53,54
+203,Prélude I - (,C,54,54 1/2
+204,Prélude I - (,G#,55 1/2,58
+205,Prélude I - (,C,55 1/2,58
+206,Prélude I - (,E-,55 1/2,58
+207,Prélude I - (,G#,55 1/2,58
+208,Prélude I - (,C,58,59 1/2
+209,Prélude I - (,C,58,59 1/2
+210,Prélude I - (,D,59 1/2,60 1/2
+211,Prélude I - (,D,59 1/2,60 1/2
+212,Prélude I - (,F,60 1/2,61
+213,Prélude I - (,F,60 1/2,61
+214,Prélude I - (,C,61,64
+215,Prélude I - (,C,61,64
+216,Prélude I - (,D,64,65
+217,Prélude I - (,F,65,66
+218,Prélude I - (,C,66,67
+219,Prélude I - (,E-,67,69
+220,Prélude I - (,G,69,70
+221,Prélude I - (,D,70,71
+222,Prélude I - (,D,70,71
+223,Prélude I - (,F,71,71 1/2
+224,Prélude I - (,G#,71 1/2,72 1/2
+225,Prélude I - (,C#,71 1/2,72 1/2
+226,Prélude I - (,C,72 1/2,73
+227,Prélude I - (,F,72 1/2,73
+228,Prélude I - (,C#,73,74
+229,Prélude I - (,C#,73,74
+230,Prélude I - (,E,74,75
+231,Prélude I - (,E,74,75
+232,Prélude I - (,G#,75,76
+233,Prélude I - (,G#,75,76
+234,Prélude I - (,F,76 1/2,76 3/4
+235,Prélude I - (,B-,76 1/2,76 3/4
+236,Prélude I - (,D,76 1/2,76 3/4
+237,Prélude I - (,F,76 1/2,76 3/4
+238,Prélude I - (,G,77,77 3/4
+239,Prélude I - (,B,77,77 3/4
+240,Prélude I - (,E-,77,77 3/4
+241,Prélude I - (,G,77,77 3/4
+242,Prélude I - (,G#,77 3/4,78
+243,Prélude I - (,C,77 3/4,78
+244,Prélude I - (,E,77 3/4,78
+245,Prélude I - (,G#,77 3/4,78
+246,Prélude I - (,A,78,79
+247,Prélude I - (,C#,78,79
+248,Prélude I - (,F,79 1/2,79 3/4
+249,Prélude I - (,B-,79 1/2,79 3/4
+250,Prélude I - (,D,79 1/2,79 3/4
+251,Prélude I - (,F,79 1/2,79 3/4
+252,Prélude I - (,G,80,80 3/4
+253,Prélude I - (,B,80,80 3/4
+254,Prélude I - (,E-,80,80 3/4
+255,Prélude I - (,G,80,80 3/4
+256,Prélude I - (,G#,80 3/4,81
+257,Prélude I - (,C,80 3/4,81
+258,Prélude I - (,E,80 3/4,81
+259,Prélude I - (,G#,80 3/4,81
+260,Prélude I - (,A,81,82
+261,Prélude I - (,C#,81,82
+262,Prélude I - (,G,82 1/2,85
+263,Prélude I - (,A,82 1/2,85
+264,Prélude I - (,A,82 1/2,85
+265,Prélude I - (,G,85 1/2,88
+266,Prélude I - (,A,85 1/2,88
+267,Prélude I - (,A,85 1/2,88
+268,Prélude I - (,D,88,91
+269,Prélude I - (,F,88,91
+270,Prélude I - (,B-,88,91
+271,Prélude I - (,D,88,91
+272,Prélude I - (,D,91,96
+273,Prélude I - (,F,91,96
+274,Prélude I - (,B-,91,96
+275,Prélude I - (,D,91,96
+276,Prélude I - (,D,0,1/2
+277,Prélude I - (,F,0,1/2
+278,Prélude I - (,E-,1,1 1/2
+279,Prélude I - (,G,1,1 1/2
+280,Prélude I - (,F,2,2 1/2
+281,Prélude I - (,A,2,2 1/2
+282,Prélude I - (,D,3,3 1/2
+283,Prélude I - (,F,3,3 1/2
+284,Prélude I - (,E-,4,4 1/2
+285,Prélude I - (,G,4,4 1/2
+286,Prélude I - (,F,5,5 1/2
+287,Prélude I - (,A,5,5 1/2
+288,Prélude I - (,G,6,6 3/4
+289,Prélude I - (,G,6,6 3/4
+290,Prélude I - (,A,6 3/4,7
+291,Prélude I - (,G,7,7 3/4
+292,Prélude I - (,G,7,7 3/4
+293,Prélude I - (,A,7 3/4,8
+294,Prélude I - (,G,8,8 3/4
+295,Prélude I - (,G,8,8 3/4
+296,Prélude I - (,A,8 3/4,9
+297,Prélude I - (,G,9,9 3/4
+298,Prélude I - (,G,9,9 3/4
+299,Prélude I - (,B-,9 3/4,10
+300,Prélude I - (,F,16 1/2,17 1/2
+301,Prélude I - (,B-,16 1/2,17 1/2
+302,Prélude I - (,D,16 1/2,17 1/2
+303,Prélude I - (,F,16 1/2,17 1/2
+304,Prélude I - (,C,17 1/2,18
+305,Prélude I - (,A,18 1/2,19
+306,Prélude I - (,C#,18 1/2,19
+307,Prélude I - (,F,18 1/2,19
+308,Prélude I - (,A,18 1/2,19
+309,Prélude I - (,F,19 1/2,20 1/2
+310,Prélude I - (,B-,19 1/2,20 1/2
+311,Prélude I - (,D,19 1/2,20 1/2
+312,Prélude I - (,F,19 1/2,20 1/2
+313,Prélude I - (,C,20 3/4,21
+314,Prélude I - (,C#,21,21 1/2
+315,Prélude I - (,F,21 3/4,22
+316,Prélude I - (,A,22 3/4,23
+317,Prélude I - (,D,23,23 1/2
+318,Prélude I - (,G,23,23 1/2
+319,Prélude I - (,A,23 3/4,24
+320,Prélude I - (,E-,24,24 1/2
+321,Prélude I - (,G,24,24 1/2
+322,Prélude I - (,A,24 3/4,25
+323,Prélude I - (,B-,25 3/4,26
+324,Prélude I - (,F,26,26 1/2
+325,Prélude I - (,C,33 1/2,34 1/2
+326,Prélude I - (,E-,33 1/2,34 1/2
+327,Prélude I - (,G,33 1/2,34 1/2
+328,Prélude I - (,C,33 1/2,34 1/2
+329,Prélude I - (,D,34 1/2,35 1/2
+330,Prélude I - (,F,34 1/2,35 1/2
+331,Prélude I - (,A,34 1/2,35 1/2
+332,Prélude I - (,E-,35 1/2,36
+333,Prélude I - (,G,35 1/2,36
+334,Prélude I - (,B-,35 1/2,36
+335,Prélude I - (,E-,35 1/2,36
+336,Prélude I - (,G,36,36 3/4
+337,Prélude I - (,F,36 3/4,37
+338,Prélude I - (,F,36 3/4,37
+339,Prélude I - (,G,37,37 1/2
+340,Prélude I - (,B-,37,37 1/2
+341,Prélude I - (,D,37,37 1/2
+342,Prélude I - (,D,37,37 1/2
+343,Prélude I - (,G,37,37 1/2
+344,Prélude I - (,A,37 1/2,38
+345,Prélude I - (,C,37 1/2,38
+346,Prélude I - (,E,37 1/2,38
+347,Prélude I - (,A,37 1/2,38
+348,Prélude I - (,B-,38,38 1/2
+349,Prélude I - (,D,38,38 1/2
+350,Prélude I - (,F,38,38 1/2
+351,Prélude I - (,B-,38,38 1/2
+352,Prélude I - (,C,38 1/2,39
+353,Prélude I - (,E-,38 1/2,39
+354,Prélude I - (,G,38 1/2,39
+355,Prélude I - (,C,38 1/2,39
+356,Prélude I - (,G#,39 1/2,40
+357,Prélude I - (,C,39 1/2,40
+358,Prélude I - (,E-,39 1/2,40
+359,Prélude I - (,G#,39 1/2,40
+360,Prélude I - (,B-,40 1/2,41
+361,Prélude I - (,D,40 1/2,41
+362,Prélude I - (,F,40 1/2,41
+363,Prélude I - (,B-,40 1/2,41
+364,Prélude I - (,C,41 1/2,42 1/4
+365,Prélude I - (,E-,41 1/2,42 1/4
+366,Prélude I - (,G,41 1/2,42 1/4
+367,Prélude I - (,C,41 1/2,42 1/4
+368,Prélude I - (,C#,42 1/2,42 3/4
+369,Prélude I - (,F,42 1/2,42 3/4
+370,Prélude I - (,G#,42 1/2,42 3/4
+371,Prélude I - (,C#,42 1/2,42 3/4
+372,Prélude I - (,G,43,44 1/4
+373,Prélude I - (,E,45 1/2,46
+374,Prélude I - (,C,45 1/2,46
+375,Prélude I - (,E,45 1/2,46
+376,Prélude I - (,C#,46 1/2,47
+377,Prélude I - (,A,46 1/2,47
+378,Prélude I - (,C#,46 1/2,47
+379,Prélude I - (,E-,47 1/2,47 3/4
+380,Prélude I - (,B,47 1/2,47 3/4
+381,Prélude I - (,E-,47 1/2,47 3/4
+382,Prélude I - (,E,48 1/2,48 3/4
+383,Prélude I - (,C,48 1/2,48 3/4
+384,Prélude I - (,E,48 1/2,48 3/4
+385,Prélude I - (,G,49 1/2,50 1/2
+386,Prélude I - (,A,49 1/2,50 1/2
+387,Prélude I - (,A,51,51 1/2
+388,Prélude I - (,C,51 1/2,52
+389,Prélude I - (,D,51 1/2,52
+390,Prélude I - (,C,52,52 1/2
+391,Prélude I - (,D,52,52 1/2
+392,Prélude I - (,C,52,52 1/2
+393,Prélude I - (,D,52,52 1/2
+394,Prélude I - (,D,52 1/2,53
+395,Prélude I - (,G,52 1/2,53
+396,Prélude I - (,A,52 1/2,53
+397,Prélude I - (,A,52 1/2,53
+398,Prélude I - (,G,53,53 1/2
+399,Prélude I - (,C,53 1/2,54 1/2
+400,Prélude I - (,D,53 1/2,54 1/2
+401,Prélude I - (,D,56 1/2,57 1/2
+402,Prélude I - (,D,56 1/2,57 1/2
+403,Prélude I - (,F,57 1/2,58
+404,Prélude I - (,F,57 1/2,58
+405,Prélude I - (,G,58 1/2,61
+406,Prélude I - (,B-,58 1/2,61
+407,Prélude I - (,D,58 1/2,61
+408,Prélude I - (,G,58 1/2,61
+409,Prélude I - (,F,61 1/2,64
+410,Prélude I - (,A,61 1/2,64
+411,Prélude I - (,C,61 1/2,64
+412,Prélude I - (,F,61 1/2,64
+413,Prélude I - (,F,70 1/2,71 1/2
+414,Prélude I - (,B-,70 1/2,71 1/2
+415,Prélude I - (,A,72,73
+416,Prélude I - (,A,72,73
+417,Prélude I - (,E,73 1/2,74
+418,Prélude I - (,A,73 1/2,74
+419,Prélude I - (,G,74 1/2,75
+420,Prélude I - (,C,74 1/2,75
+421,Prélude I - (,B,75 1/2,75 3/4
+422,Prélude I - (,E,75 1/2,75 3/4
+423,Prélude I - (,F,78,78 3/4
+424,Prélude I - (,A,78,78 3/4
+425,Prélude I - (,F,81,81 3/4
+426,Prélude I - (,A,81,81 3/4
+427,Prélude I - (,F,84,84 1/2
+428,Prélude I - (,F,84,84 1/2
+429,Prélude I - (,F,87,87 1/2
+430,Prélude I - (,F,87,87 1/2
+431,Prélude I - (,B,17,17 1/2
+432,Prélude I - (,G,17 1/2,18 1/2
+433,Prélude I - (,B,17 1/2,18 1/2
+434,Prélude I - (,E-,17 1/2,18 1/2
+435,Prélude I - (,G,17 1/2,18 1/2
+436,Prélude I - (,D,34 1/2,35
+437,Prélude I - (,G,49 1/2,50 1/4
+438,Prélude I - (,A,49 1/2,50 1/4
+439,Prélude I - (,A,49 1/2,50 1/4
+440,Prélude I - (,C,51 1/2,51 3/4
+441,Prélude I - (,C,51 1/2,51 3/4
+442,Prélude I - (,G,52 1/2,53 1/2
+443,Prélude I - (,A,52 1/2,53 1/2
+444,Prélude I - (,C#,52 1/2,53 1/2
+445,Prélude I - (,C,53 1/2,54
+446,Prélude I - (,D,53 1/2,54
+447,Prélude I - (,C,53 1/2,54
+448,Prélude I - (,C,54,56 1/2
+449,Prélude I - (,F,71,72
+450,Prélude I - (,F,78 1/2,78 3/4
+451,Prélude I - (,A,78 1/2,78 3/4
+452,Prélude I - (,C#,78 1/2,78 3/4
+453,Prélude I - (,F,78 1/2,78 3/4
+454,Prélude I - (,F,81 1/2,81 3/4
+455,Prélude I - (,A,81 1/2,81 3/4
+456,Prélude I - (,C#,81 1/2,81 3/4
+457,Prélude I - (,F,81 1/2,81 3/4
+458,Prélude I - (,B-,0,1/2
+459,Prélude I - (,B-,0,1/2
+460,Prélude I - (,A,1,1 1/2
+461,Prélude I - (,A,1,1 1/2
+462,Prélude I - (,F,2,2 1/2
+463,Prélude I - (,F,2,2 1/2
+464,Prélude I - (,B-,3,3 1/2
+465,Prélude I - (,B-,3,3 1/2
+466,Prélude I - (,A,4,4 1/2
+467,Prélude I - (,A,4,4 1/2
+468,Prélude I - (,F,5,5 1/2
+469,Prélude I - (,F,5,5 1/2
+470,Prélude I - (,B-,6,6 1/2
+471,Prélude I - (,B-,6,6 1/2
+472,Prélude I - (,B,7,7 1/2
+473,Prélude I - (,B,7,7 1/2
+474,Prélude I - (,C,8,8 1/2
+475,Prélude I - (,C,8,8 1/2
+476,Prélude I - (,C#,9,9 1/2
+477,Prélude I - (,C#,9,9 1/2
+478,Prélude I - (,D,10,11
+479,Prélude I - (,D,10,11
+480,Prélude I - (,F,10,11
+481,Prélude I - (,B-,10,11
+482,Prélude I - (,A,11,11 1/4
+483,Prélude I - (,D,11,11 1/4
+484,Prélude I - (,F,11,11 1/4
+485,Prélude I - (,A,11,11 1/4
+486,Prélude I - (,F,11 1/2,11 3/4
+487,Prélude I - (,A,11 1/2,11 3/4
+488,Prélude I - (,D,11 1/2,11 3/4
+489,Prélude I - (,F,11 1/2,11 3/4
+490,Prélude I - (,D,12,12 1/4
+491,Prélude I - (,A,12,12 1/4
+492,Prélude I - (,D,12,12 1/4
+493,Prélude I - (,G,12 1/2,12 3/4
+494,Prélude I - (,B-,12 1/2,12 3/4
+495,Prélude I - (,D,12 1/2,12 3/4
+496,Prélude I - (,C,13,13 1/2
+497,Prélude I - (,G,13,13 1/2
+498,Prélude I - (,C,13,13 1/2
+499,Prélude I - (,D,13 1/2,14
+500,Prélude I - (,A,13 1/2,14
+501,Prélude I - (,B-,14,14 1/2
+502,Prélude I - (,F,14,14 1/2
+503,Prélude I - (,B-,14,14 1/2
+504,Prélude I - (,C,14 1/2,15
+505,Prélude I - (,G,14 1/2,15
+506,Prélude I - (,F,15,16
+507,Prélude I - (,C,15,16
+508,Prélude I - (,A,15,16
+509,Prélude I - (,B-,16,17
+510,Prélude I - (,B-,16,17
+511,Prélude I - (,A,17,18
+512,Prélude I - (,A,17,18
+513,Prélude I - (,F,18,19
+514,Prélude I - (,F,18,19
+515,Prélude I - (,C#,18,19
+516,Prélude I - (,B-,19,20
+517,Prélude I - (,B-,19,20
+518,Prélude I - (,A,20,21
+519,Prélude I - (,A,20,21
+520,Prélude I - (,F,21,22
+521,Prélude I - (,F,21,22
+522,Prélude I - (,B-,22,23
+523,Prélude I - (,B-,22,23
+524,Prélude I - (,B,23,24
+525,Prélude I - (,B,23,24
+526,Prélude I - (,C,24,25
+527,Prélude I - (,C,24,25
+528,Prélude I - (,C,25,26
+529,Prélude I - (,C,25,26
+530,Prélude I - (,D,26,28
+531,Prélude I - (,D,26,28
+532,Prélude I - (,D,28,28 1/2
+533,Prélude I - (,F,28,28 1/2
+534,Prélude I - (,A,28,28 1/2
+535,Prélude I - (,D,28,28 1/2
+536,Prélude I - (,G,28 1/2,29
+537,Prélude I - (,B-,28 1/2,29
+538,Prélude I - (,D,28 1/2,29
+539,Prélude I - (,C,29,29 1/2
+540,Prélude I - (,G,29,29 1/2
+541,Prélude I - (,C,29,29 1/2
+542,Prélude I - (,D,29 1/2,30
+543,Prélude I - (,A,29 1/2,30
+544,Prélude I - (,B-,30,30 1/2
+545,Prélude I - (,F,30,30 1/2
+546,Prélude I - (,B-,30,30 1/2
+547,Prélude I - (,C,30 1/2,31
+548,Prélude I - (,G,30 1/2,31
+549,Prélude I - (,F,31,33
+550,Prélude I - (,C,31,33
+551,Prélude I - (,A,31,33
+552,Prélude I - (,F,33,39
+553,Prélude I - (,F,33,39
+554,Prélude I - (,F,39,45
+555,Prélude I - (,F,39,45
+556,Prélude I - (,G,45,46
+557,Prélude I - (,E,46,46 3/4
+558,Prélude I - (,F,46 3/4,47
+559,Prélude I - (,F#,47,47 3/4
+560,Prélude I - (,B,47 3/4,48
+561,Prélude I - (,G,48,48 3/4
+562,Prélude I - (,C,48 3/4,49
+563,Prélude I - (,F,49,51
+564,Prélude I - (,E,51,52
+565,Prélude I - (,A,51,52
+566,Prélude I - (,F,52,53
+567,Prélude I - (,E,53,54
+568,Prélude I - (,G,53,54
+569,Prélude I - (,A,53,54
+570,Prélude I - (,C,54,56 1/2
+571,Prélude I - (,D,56 1/2,57 1/2
+572,Prélude I - (,F,57 1/2,58
+573,Prélude I - (,C,58,59 1/2
+574,Prélude I - (,D,59 1/2,60 1/2
+575,Prélude I - (,F,60 1/2,61
+576,Prélude I - (,C,61,64
+577,Prélude I - (,D,64,65
+578,Prélude I - (,F,65,66
+579,Prélude I - (,C,66,67
+580,Prélude I - (,E-,67,69
+581,Prélude I - (,G,69,70
+582,Prélude I - (,D,70,71
+583,Prélude I - (,F,71,72
+584,Prélude I - (,A,72,73
+585,Prélude I - (,C#,73,74
+586,Prélude I - (,E,74,75
+587,Prélude I - (,G#,75,76
+588,Prélude I - (,B-,76,77
+589,Prélude I - (,B-,76,77
+590,Prélude I - (,G,77,77 3/4
+591,Prélude I - (,B,77,77 3/4
+592,Prélude I - (,E-,77,77 3/4
+593,Prélude I - (,G#,77 3/4,78
+594,Prélude I - (,C,77 3/4,78
+595,Prélude I - (,E,77 3/4,78
+596,Prélude I - (,A,78,79
+597,Prélude I - (,C#,78,79
+598,Prélude I - (,F,78,79
+599,Prélude I - (,B-,79,80
+600,Prélude I - (,B-,79,80
+601,Prélude I - (,G,80,80 3/4
+602,Prélude I - (,B,80,80 3/4
+603,Prélude I - (,E-,80,80 3/4
+604,Prélude I - (,G#,80 3/4,81
+605,Prélude I - (,C,80 3/4,81
+606,Prélude I - (,E,80 3/4,81
+607,Prélude I - (,A,81,82
+608,Prélude I - (,C#,81,82
+609,Prélude I - (,F,81,82
+610,Prélude I - (,B-,82,84
+611,Prélude I - (,B-,82,84
+612,Prélude I - (,F,84,84 1/2
+613,Prélude I - (,F,84,84 1/2
+614,Prélude I - (,B-,85,87
+615,Prélude I - (,B-,85,87
+616,Prélude I - (,F,87,87 1/2
+617,Prélude I - (,F,87,87 1/2
+618,Prélude I - (,B-,88,91
+619,Prélude I - (,F,88,91
+620,Prélude I - (,B-,88,91
+621,Prélude I - (,B-,91,96
+622,Prélude I - (,F,91,96
+623,Prélude I - (,B-,91,96
+624,Prélude I - (,F,0,1
+625,Prélude I - (,G,1,2
+626,Prélude I - (,A,2,3
+627,Prélude I - (,F,3,4
+628,Prélude I - (,G,4,5
+629,Prélude I - (,A,5,6
+630,Prélude I - (,F,6,7
+631,Prélude I - (,G,6,7
+632,Prélude I - (,F,7,8
+633,Prélude I - (,G,7,8
+634,Prélude I - (,F,8,9
+635,Prélude I - (,G,8,9
+636,Prélude I - (,F,9,10
+637,Prélude I - (,G,9,10
+638,Prélude I - (,D,10 1/2,10 3/4
+639,Prélude I - (,F,10 1/2,10 3/4
+640,Prélude I - (,B-,10 1/2,10 3/4
+641,Prélude I - (,D,10 1/2,10 3/4
+642,Prélude I - (,F,16 1/2,17 1/2
+643,Prélude I - (,B-,16 1/2,17 1/2
+644,Prélude I - (,D,16 1/2,17 1/2
+645,Prélude I - (,G,17 1/2,18 1/2
+646,Prélude I - (,B,17 1/2,18 1/2
+647,Prélude I - (,E-,17 1/2,18 1/2
+648,Prélude I - (,A,18 1/2,19
+649,Prélude I - (,C#,18 1/2,19
+650,Prélude I - (,F,18 1/2,19
+651,Prélude I - (,F,19 1/2,20 1/2
+652,Prélude I - (,B-,19 1/2,20 1/2
+653,Prélude I - (,D,19 1/2,20 1/2
+654,Prélude I - (,G,20 1/2,21 1/2
+655,Prélude I - (,B,20 1/2,21 1/2
+656,Prélude I - (,E-,20 1/2,21 1/2
+657,Prélude I - (,A,21 1/2,22
+658,Prélude I - (,C#,21 1/2,22
+659,Prélude I - (,F,21 1/2,22
+660,Prélude I - (,F,22,22 3/4
+661,Prélude I - (,G,22,22 3/4
+662,Prélude I - (,A,22 3/4,23
+663,Prélude I - (,F,23,23 3/4
+664,Prélude I - (,G,23,23 3/4
+665,Prélude I - (,A,23 3/4,24
+666,Prélude I - (,F,24,24 3/4
+667,Prélude I - (,G,24,24 3/4
+668,Prélude I - (,A,24 3/4,25
+669,Prélude I - (,F,25,25 3/4
+670,Prélude I - (,G,25,25 3/4
+671,Prélude I - (,B-,25 3/4,26
+672,Prélude I - (,F,26,27
+673,Prélude I - (,B-,26,27
+674,Prélude I - (,A,27,27 1/2
+675,Prélude I - (,F,27 1/2,28
+676,Prélude I - (,A,27 1/2,28
+677,Prélude I - (,D,27 1/2,28
+678,Prélude I - (,F,27 1/2,28
+679,Prélude I - (,C,33 1/2,34 1/2
+680,Prélude I - (,E-,33 1/2,34 1/2
+681,Prélude I - (,G,33 1/2,34 1/2
+682,Prélude I - (,D,34 1/2,35 1/2
+683,Prélude I - (,F,34 1/2,35 1/2
+684,Prélude I - (,A,34 1/2,35 1/2
+685,Prélude I - (,E-,35 1/2,36 1/2
+686,Prélude I - (,G,35 1/2,36 1/2
+687,Prélude I - (,B-,35 1/2,36 1/2
+688,Prélude I - (,F,36 1/2,37
+689,Prélude I - (,A,36 1/2,37
+690,Prélude I - (,C,36 1/2,37
+691,Prélude I - (,G,37,37 1/2
+692,Prélude I - (,B-,37,37 1/2
+693,Prélude I - (,D,37,37 1/2
+694,Prélude I - (,A,37 1/2,38
+695,Prélude I - (,C,37 1/2,38
+696,Prélude I - (,E,37 1/2,38
+697,Prélude I - (,B-,38,38 1/2
+698,Prélude I - (,D,38,38 1/2
+699,Prélude I - (,F,38,38 1/2
+700,Prélude I - (,C,38 1/2,39
+701,Prélude I - (,E-,38 1/2,39
+702,Prélude I - (,G,38 1/2,39
+703,Prélude I - (,G#,39 1/2,40
+704,Prélude I - (,C,39 1/2,40
+705,Prélude I - (,E-,39 1/2,40
+706,Prélude I - (,B-,40 1/2,41
+707,Prélude I - (,D,40 1/2,41
+708,Prélude I - (,F,40 1/2,41
+709,Prélude I - (,C,41 1/2,42 1/4
+710,Prélude I - (,E-,41 1/2,42 1/4
+711,Prélude I - (,G,41 1/2,42 1/4
+712,Prélude I - (,C#,42 1/2,42 3/4
+713,Prélude I - (,F,42 1/2,42 3/4
+714,Prélude I - (,G#,42 1/2,42 3/4
+715,Prélude I - (,E-,43,43 1/4
+716,Prélude I - (,G,43,43 1/4
+717,Prélude I - (,B-,43,43 1/4
+718,Prélude I - (,E-,43,43 1/4
+719,Prélude I - (,F,43 1/2,43 3/4
+720,Prélude I - (,G#,43 1/2,43 3/4
+721,Prélude I - (,C,43 1/2,43 3/4
+722,Prélude I - (,F,43 1/2,43 3/4
+723,Prélude I - (,G,44,44 1/4
+724,Prélude I - (,B,44,44 1/4
+725,Prélude I - (,D,44,44 1/4
+726,Prélude I - (,B-,44 1/2,44 3/4
+727,Prélude I - (,C#,44 1/2,44 3/4
+728,Prélude I - (,F,44 1/2,44 3/4
+729,Prélude I - (,C,45 1/2,46
+730,Prélude I - (,C,45 1/2,46
+731,Prélude I - (,A,46 1/2,47
+732,Prélude I - (,A,46 1/2,47
+733,Prélude I - (,B,47 1/2,47 3/4
+734,Prélude I - (,B,47 1/2,47 3/4
+735,Prélude I - (,C,48 1/2,49
+736,Prélude I - (,C,49,50 1/2
+737,Prélude I - (,D,49,50 1/2
+738,Prélude I - (,E,50 1/2,51
+739,Prélude I - (,G,51,51 3/4
+740,Prélude I - (,C,51 3/4,52
+741,Prélude I - (,C,52,52 3/4
+742,Prélude I - (,D,52,52 3/4
+743,Prélude I - (,E,52 3/4,53
+744,Prélude I - (,G#,55 1/2,58
+745,Prélude I - (,E-,55 1/2,58
+746,Prélude I - (,G#,55 1/2,58
+747,Prélude I - (,G,58 1/2,61
+748,Prélude I - (,D,58 1/2,61
+749,Prélude I - (,G,58 1/2,61
+750,Prélude I - (,F,61 1/2,64
+751,Prélude I - (,C,61 1/2,64
+752,Prélude I - (,F,61 1/2,64
+753,Prélude I - (,B-,64 1/2,65
+754,Prélude I - (,F,64 1/2,65
+755,Prélude I - (,B-,64 1/2,65
+756,Prélude I - (,C#,65 1/2,66
+757,Prélude I - (,G#,65 1/2,66
+758,Prélude I - (,C#,65 1/2,66
+759,Prélude I - (,G#,66 1/2,66 3/4
+760,Prélude I - (,E-,66 1/2,66 3/4
+761,Prélude I - (,G#,66 1/2,66 3/4
+762,Prélude I - (,B,67 1/2,68 1/4
+763,Prélude I - (,F#,67 1/2,68 1/4
+764,Prélude I - (,B,67 1/2,68 1/4
+765,Prélude I - (,E-,69 1/2,69 3/4
+766,Prélude I - (,B-,69 1/2,69 3/4
+767,Prélude I - (,E-,69 1/2,69 3/4
+768,Prélude I - (,B-,70 1/2,71
+769,Prélude I - (,F,70 1/2,71
+770,Prélude I - (,B-,70 1/2,71
+771,Prélude I - (,C#,71 1/2,72
+772,Prélude I - (,G#,71 1/2,72
+773,Prélude I - (,C#,71 1/2,72
+774,Prélude I - (,F,72 1/2,73
+775,Prélude I - (,C,72 1/2,73
+776,Prélude I - (,F,72 1/2,73
+777,Prélude I - (,A,73 1/2,74
+778,Prélude I - (,E,73 1/2,74
+779,Prélude I - (,A,73 1/2,74
+780,Prélude I - (,C,74 1/2,75
+781,Prélude I - (,G,74 1/2,75
+782,Prélude I - (,C,74 1/2,75
+783,Prélude I - (,E,75 1/2,75 3/4
+784,Prélude I - (,B,75 1/2,75 3/4
+785,Prélude I - (,E,75 1/2,75 3/4
+786,Prélude I - (,F,76 1/2,76 3/4
+787,Prélude I - (,B-,76 1/2,76 3/4
+788,Prélude I - (,D,76 1/2,76 3/4
+789,Prélude I - (,F,78 1/2,79
+790,Prélude I - (,F,78 1/2,79
+791,Prélude I - (,F,79 1/2,79 3/4
+792,Prélude I - (,B-,79 1/2,79 3/4
+793,Prélude I - (,D,79 1/2,79 3/4
+794,Prélude I - (,F,81 1/2,82
+795,Prélude I - (,F,81 1/2,82
+796,Prélude I - (,G,82 1/2,85
+797,Prélude I - (,C#,82 1/2,85
+798,Prélude I - (,F,82 1/2,85
+799,Prélude I - (,G,85 1/2,88
+800,Prélude I - (,C#,85 1/2,88
+801,Prélude I - (,F,85 1/2,88
+802,Prélude I - (,B-,94,94 1/2
+803,Prélude I - (,B,17,17 3/4
+804,Prélude I - (,C,17 3/4,18
+805,Prélude I - (,B,20,20 3/4
+806,Prélude I - (,C,20 3/4,21
+807,Prélude I - (,C#,21,21 3/4
+808,Prélude I - (,F,21 3/4,22

@@ -1,0 +1,585 @@
+﻿,score_name,pitch_name,pitch_onset,pitch_offset
+0,Prélude VIII - (,C#,0,1 1/2
+1,Prélude VIII - (,B-,1 1/2,1 3/4
+2,Prélude VIII - (,F#,1 3/4,2
+3,Prélude VIII - (,E-,2,2 1/2
+4,Prélude VIII - (,F#,2 1/2,2 3/4
+5,Prélude VIII - (,B-,2 3/4,3
+6,Prélude VIII - (,C#,3,3 1/2
+7,Prélude VIII - (,B-,3 1/2,3 3/4
+8,Prélude VIII - (,F#,3 3/4,4
+9,Prélude VIII - (,E-,4,4 1/2
+10,Prélude VIII - (,F#,4 1/2,4 3/4
+11,Prélude VIII - (,B-,4 3/4,5
+12,Prélude VIII - (,F#,5,5 1/2
+13,Prélude VIII - (,F#,5 1/2,6
+14,Prélude VIII - (,B,5 1/2,6
+15,Prélude VIII - (,F#,6,11
+16,Prélude VIII - (,B-,6,11
+17,Prélude VIII - (,E-,11,11 1/2
+18,Prélude VIII - (,F#,11 1/2,12
+19,Prélude VIII - (,C#,12,13 1/2
+20,Prélude VIII - (,F,12,13 1/2
+21,Prélude VIII - (,G#,12,13 1/2
+22,Prélude VIII - (,C#,13 1/2,14
+23,Prélude VIII - (,F,13 1/2,14
+24,Prélude VIII - (,C#,13 1/2,14
+25,Prélude VIII - (,E-,14,14 1/2
+26,Prélude VIII - (,F#,14,14 1/2
+27,Prélude VIII - (,B-,14,14 1/2
+28,Prélude VIII - (,C#,14 1/2,14 3/4
+29,Prélude VIII - (,F#,14 1/2,14 3/4
+30,Prélude VIII - (,B-,14 3/4,15
+31,Prélude VIII - (,C#,15,16
+32,Prélude VIII - (,F,15,16
+33,Prélude VIII - (,D,16,17
+34,Prélude VIII - (,F,16,17
+35,Prélude VIII - (,B-,16,17
+36,Prélude VIII - (,E-,17,19
+37,Prélude VIII - (,B-,17,19
+38,Prélude VIII - (,E-,17,19
+39,Prélude VIII - (,B-,19,20 1/2
+40,Prélude VIII - (,B,20 1/2,21
+41,Prélude VIII - (,C#,21,23
+42,Prélude VIII - (,E-,23,24
+43,Prélude VIII - (,C#,24,25
+44,Prélude VIII - (,E-,25,26
+45,Prélude VIII - (,B-,26,26 1/2
+46,Prélude VIII - (,C#,26,26 1/2
+47,Prélude VIII - (,F#,26,26 1/2
+48,Prélude VIII - (,G#,26 1/2,27
+49,Prélude VIII - (,B,26 1/2,27
+50,Prélude VIII - (,F#,27,30
+51,Prélude VIII - (,B-,32 1/2,32 3/4
+52,Prélude VIII - (,C#,32 3/4,33
+53,Prélude VIII - (,E-,33,33 1/2
+54,Prélude VIII - (,F#,33 1/2,33 3/4
+55,Prélude VIII - (,G#,33 3/4,34
+56,Prélude VIII - (,B,34,34 1/2
+57,Prélude VIII - (,C#,34 1/2,35
+58,Prélude VIII - (,E-,35,35 1/2
+59,Prélude VIII - (,F#,35 1/2,36 1/2
+60,Prélude VIII - (,F,36 1/2,36 3/4
+61,Prélude VIII - (,E-,36 3/4,37
+62,Prélude VIII - (,C#,37,38 1/4
+63,Prélude VIII - (,B,38 1/4,38 1/2
+64,Prélude VIII - (,B-,38 1/2,38 3/4
+65,Prélude VIII - (,G#,38 3/4,39
+66,Prélude VIII - (,E-,39,39 3/4
+67,Prélude VIII - (,F,39 3/4,40
+68,Prélude VIII - (,E-,40,40 3/4
+69,Prélude VIII - (,C#,40 3/4,41
+70,Prélude VIII - (,B,41,41 3/4
+71,Prélude VIII - (,B-,41 3/4,42
+72,Prélude VIII - (,G#,42,45
+73,Prélude VIII - (,B,45,48
+74,Prélude VIII - (,E-,45,48
+75,Prélude VIII - (,B,48,49
+76,Prélude VIII - (,F,49,51
+77,Prélude VIII - (,B,51,52
+78,Prélude VIII - (,F,52,54
+79,Prélude VIII - (,G#,52,54
+80,Prélude VIII - (,B-,52,54
+81,Prélude VIII - (,G,54,55 1/2
+82,Prélude VIII - (,C,56,56 1/2
+83,Prélude VIII - (,E-,56 1/2,56 3/4
+84,Prélude VIII - (,C,56 3/4,57
+85,Prélude VIII - (,G,57,58 1/2
+86,Prélude VIII - (,G,58 1/2,58 3/4
+87,Prélude VIII - (,B-,58 3/4,60
+88,Prélude VIII - (,G,60,61 1/2
+89,Prélude VIII - (,G,61 1/2,61 3/4
+90,Prélude VIII - (,B-,61 3/4,62
+91,Prélude VIII - (,E-,62,63 1/2
+92,Prélude VIII - (,F#,62,63 1/2
+93,Prélude VIII - (,B,62,63 1/2
+94,Prélude VIII - (,E-,62,63 1/2
+95,Prélude VIII - (,F,63 1/2,64
+96,Prélude VIII - (,G#,63 1/2,64
+97,Prélude VIII - (,E-,64,64 1/2
+98,Prélude VIII - (,F#,64,64 1/2
+99,Prélude VIII - (,G#,64 1/2,66
+100,Prélude VIII - (,C,64 1/2,66
+101,Prélude VIII - (,E-,66,66 1/2
+102,Prélude VIII - (,F#,66,66 1/2
+103,Prélude VIII - (,B,66,66 1/2
+104,Prélude VIII - (,E-,66,66 1/2
+105,Prélude VIII - (,F,66 1/2,67
+106,Prélude VIII - (,G#,66 1/2,67
+107,Prélude VIII - (,E-,67,67 1/2
+108,Prélude VIII - (,F#,67,67 1/2
+109,Prélude VIII - (,B-,67,67 1/2
+110,Prélude VIII - (,E-,67 1/2,68 1/2
+111,Prélude VIII - (,G#,67 1/2,68 1/2
+112,Prélude VIII - (,B,68 1/2,69
+113,Prélude VIII - (,B-,69,69 3/4
+114,Prélude VIII - (,E-,69,69 3/4
+115,Prélude VIII - (,B-,69,69 3/4
+116,Prélude VIII - (,F#,69 3/4,70
+117,Prélude VIII - (,C#,69 3/4,70
+118,Prélude VIII - (,F#,69 3/4,70
+119,Prélude VIII - (,E-,70,70 1/2
+120,Prélude VIII - (,B-,70,70 1/2
+121,Prélude VIII - (,E-,70,70 1/2
+122,Prélude VIII - (,F#,70 1/2,71
+123,Prélude VIII - (,C#,70 1/2,71
+124,Prélude VIII - (,F#,70 1/2,71
+125,Prélude VIII - (,B-,71,71 1/2
+126,Prélude VIII - (,E-,71,71 1/2
+127,Prélude VIII - (,B-,71,71 1/2
+128,Prélude VIII - (,C#,71 1/2,72
+129,Prélude VIII - (,F#,71 1/2,72
+130,Prélude VIII - (,C#,71 1/2,72
+131,Prélude VIII - (,B-,72,72 1/2
+132,Prélude VIII - (,E-,72,72 1/2
+133,Prélude VIII - (,B-,72,72 1/2
+134,Prélude VIII - (,F#,72 1/2,73
+135,Prélude VIII - (,C#,72 1/2,73
+136,Prélude VIII - (,F#,72 1/2,73
+137,Prélude VIII - (,E-,73,74
+138,Prélude VIII - (,B-,73,74
+139,Prélude VIII - (,E-,73,74
+140,Prélude VIII - (,F#,74,75
+141,Prélude VIII - (,B,74,75
+142,Prélude VIII - (,F#,74,75
+143,Prélude VIII - (,B-,75,75 3/4
+144,Prélude VIII - (,E-,75,75 3/4
+145,Prélude VIII - (,B-,75,75 3/4
+146,Prélude VIII - (,F#,75 3/4,76
+147,Prélude VIII - (,C#,75 3/4,76
+148,Prélude VIII - (,F#,75 3/4,76
+149,Prélude VIII - (,B-,76,76 1/2
+150,Prélude VIII - (,E-,76,76 1/2
+151,Prélude VIII - (,B-,76,76 1/2
+152,Prélude VIII - (,C#,76 1/2,77
+153,Prélude VIII - (,F#,76 1/2,77
+154,Prélude VIII - (,C#,76 1/2,77
+155,Prélude VIII - (,E-,77,77 1/2
+156,Prélude VIII - (,B-,77,77 1/2
+157,Prélude VIII - (,E-,77,77 1/2
+158,Prélude VIII - (,F#,77 1/2,78
+159,Prélude VIII - (,C#,77 1/2,78
+160,Prélude VIII - (,F#,77 1/2,78
+161,Prélude VIII - (,B-,78,78 1/2
+162,Prélude VIII - (,E-,78,78 1/2
+163,Prélude VIII - (,B-,78,78 1/2
+164,Prélude VIII - (,F#,78 1/2,79
+165,Prélude VIII - (,C#,78 1/2,79
+166,Prélude VIII - (,F#,78 1/2,79
+167,Prélude VIII - (,B,79,80
+168,Prélude VIII - (,B-,79,80
+169,Prélude VIII - (,G#,80,81
+170,Prélude VIII - (,C#,80,81
+171,Prélude VIII - (,F#,81,86 3/4
+172,Prélude VIII - (,B,81,86 3/4
+173,Prélude VIII - (,E-,81,86 3/4
+174,Prélude VIII - (,F#,81,86 3/4
+175,Prélude VIII - (,B-,86 3/4,87
+176,Prélude VIII - (,E-,87,89
+177,Prélude VIII - (,F#,87,89
+178,Prélude VIII - (,G#,89,90
+179,Prélude VIII - (,F#,90,93
+180,Prélude VIII - (,B-,90,93
+181,Prélude VIII - (,C#,93,96
+182,Prélude VIII - (,F#,93,96
+183,Prélude VIII - (,E-,96,96 3/4
+184,Prélude VIII - (,F,96 3/4,97
+185,Prélude VIII - (,E-,97,97 3/4
+186,Prélude VIII - (,C#,97 3/4,98
+187,Prélude VIII - (,B,98,98 3/4
+188,Prélude VIII - (,B-,98 3/4,99
+189,Prélude VIII - (,G#,99,99 3/4
+190,Prélude VIII - (,B-,99 3/4,100
+191,Prélude VIII - (,B,100,100 3/4
+192,Prélude VIII - (,B-,100 3/4,101
+193,Prélude VIII - (,G#,101,101 3/4
+194,Prélude VIII - (,B-,101 3/4,102
+195,Prélude VIII - (,B,102,105
+196,Prélude VIII - (,F#,105,110 2/3
+197,Prélude VIII - (,F#,105,110 2/3
+198,Prélude VIII - (,F#,111,112
+199,Prélude VIII - (,F#,5 1/2,5 3/4
+200,Prélude VIII - (,E-,5 3/4,6
+201,Prélude VIII - (,F#,6,6 1/2
+202,Prélude VIII - (,F,6 1/2,6 3/4
+203,Prélude VIII - (,E-,6 3/4,7
+204,Prélude VIII - (,C#,7,11
+205,Prélude VIII - (,G#,15,15 1/2
+206,Prélude VIII - (,C#,15 1/2,16
+207,Prélude VIII - (,C#,21,22 1/2
+208,Prélude VIII - (,B-,22 1/2,22 3/4
+209,Prélude VIII - (,F#,22 3/4,23
+210,Prélude VIII - (,F#,23 1/2,23 3/4
+211,Prélude VIII - (,B-,23 3/4,24
+212,Prélude VIII - (,C#,24,24 1/2
+213,Prélude VIII - (,B-,24 1/2,24 3/4
+214,Prélude VIII - (,F#,24 3/4,25
+215,Prélude VIII - (,F#,25 1/2,25 3/4
+216,Prélude VIII - (,B-,25 3/4,26
+217,Prélude VIII - (,F#,26 1/2,26 3/4
+218,Prélude VIII - (,E-,26 3/4,27
+219,Prélude VIII - (,B-,27,29 1/2
+220,Prélude VIII - (,B-,29 1/2,31 3/4
+221,Prélude VIII - (,F#,36,38
+222,Prélude VIII - (,B-,36,38
+223,Prélude VIII - (,F#,39,39 1/4
+224,Prélude VIII - (,G#,39 1/4,39 1/2
+225,Prélude VIII - (,B-,39 1/2,40 1/4
+226,Prélude VIII - (,G#,40 1/4,40 1/2
+227,Prélude VIII - (,F#,40 1/2,41 1/4
+228,Prélude VIII - (,F,41 1/4,41 1/2
+229,Prélude VIII - (,E-,41 1/2,42 1/4
+230,Prélude VIII - (,C#,42 1/4,42 1/2
+231,Prélude VIII - (,B,42 1/2,43 1/4
+232,Prélude VIII - (,C#,43 1/4,43 1/2
+233,Prélude VIII - (,E,43 1/2,43 3/4
+234,Prélude VIII - (,G#,43 3/4,44
+235,Prélude VIII - (,B,44,44 1/4
+236,Prélude VIII - (,C#,44 1/4,44 1/2
+237,Prélude VIII - (,E,44 1/2,44 3/4
+238,Prélude VIII - (,G#,44 3/4,45
+239,Prélude VIII - (,B,45,45 1/2
+240,Prélude VIII - (,B-,45 1/2,45 3/4
+241,Prélude VIII - (,G#,45 3/4,46
+242,Prélude VIII - (,F#,46,48
+243,Prélude VIII - (,B-,48,48 1/2
+244,Prélude VIII - (,G#,48 1/2,48 3/4
+245,Prélude VIII - (,F#,48 3/4,49
+246,Prélude VIII - (,E-,49,50 1/2
+247,Prélude VIII - (,C#,50 1/2,50 3/4
+248,Prélude VIII - (,B,50 3/4,51
+249,Prélude VIII - (,B-,51,51 1/2
+250,Prélude VIII - (,G#,51 1/2,51 3/4
+251,Prélude VIII - (,F#,51 3/4,52
+252,Prélude VIII - (,E-,52,53 1/2
+253,Prélude VIII - (,E-,53 1/2,53 3/4
+254,Prélude VIII - (,C,53 3/4,54
+255,Prélude VIII - (,B-,54,55 3/4
+256,Prélude VIII - (,B-,57,57 1/2
+257,Prélude VIII - (,B-,57 1/2,58 3/4
+258,Prélude VIII - (,F,59,60
+259,Prélude VIII - (,G#,59,60
+260,Prélude VIII - (,B-,60,60 1/2
+261,Prélude VIII - (,E-,60,60 1/2
+262,Prélude VIII - (,B-,60 1/2,61 3/4
+263,Prélude VIII - (,C#,63 1/2,63 3/4
+264,Prélude VIII - (,C#,63 3/4,64
+265,Prélude VIII - (,B-,64,64 1/4
+266,Prélude VIII - (,E-,64 1/2,65 3/4
+267,Prélude VIII - (,E-,65 3/4,66
+268,Prélude VIII - (,C#,66 1/2,66 3/4
+269,Prélude VIII - (,C#,66 3/4,67
+270,Prélude VIII - (,F#,68 1/2,68 3/4
+271,Prélude VIII - (,F,68 3/4,69
+272,Prélude VIII - (,G#,68 3/4,69
+273,Prélude VIII - (,C#,83,85 1/2
+274,Prélude VIII - (,B-,85 1/2,85 3/4
+275,Prélude VIII - (,F#,85 3/4,86
+276,Prélude VIII - (,E-,86,86 1/2
+277,Prélude VIII - (,F#,86 1/2,86 3/4
+278,Prélude VIII - (,C#,87,87 1/2
+279,Prélude VIII - (,B-,87 1/2,87 3/4
+280,Prélude VIII - (,F#,87 3/4,88
+281,Prélude VIII - (,E-,88,88 1/2
+282,Prélude VIII - (,F#,88 1/2,88 3/4
+283,Prélude VIII - (,B-,88 3/4,89
+284,Prélude VIII - (,F#,89,89 1/2
+285,Prélude VIII - (,F#,89 1/2,89 3/4
+286,Prélude VIII - (,E-,89 3/4,90
+287,Prélude VIII - (,F#,90,91
+288,Prélude VIII - (,F,91,92
+289,Prélude VIII - (,E-,92,93
+290,Prélude VIII - (,C#,93,94 1/2
+291,Prélude VIII - (,B,94 1/2,95
+292,Prélude VIII - (,B-,95,95 1/2
+293,Prélude VIII - (,G#,95 1/2,96
+294,Prélude VIII - (,F#,96,96 1/4
+295,Prélude VIII - (,G#,96 1/4,96 1/2
+296,Prélude VIII - (,B-,96 1/2,97 1/4
+297,Prélude VIII - (,G#,97 1/4,97 1/2
+298,Prélude VIII - (,F#,97 1/2,98 1/4
+299,Prélude VIII - (,F,98 1/4,98 1/2
+300,Prélude VIII - (,E-,98 1/2,99 1/4
+301,Prélude VIII - (,C#,99 1/4,99 1/2
+302,Prélude VIII - (,E-,99 1/2,100 1/4
+303,Prélude VIII - (,C#,100 1/4,100 1/2
+304,Prélude VIII - (,E-,100 1/2,101 1/4
+305,Prélude VIII - (,C#,101 1/4,101 1/2
+306,Prélude VIII - (,E-,101 1/2,102
+307,Prélude VIII - (,E-,102,102 1/4
+308,Prélude VIII - (,C#,102 1/4,102 1/2
+309,Prélude VIII - (,F#,102 1/4,102 1/2
+310,Prélude VIII - (,E-,102 1/2,102 3/4
+311,Prélude VIII - (,G#,102 1/2,102 3/4
+312,Prélude VIII - (,F#,102 3/4,103
+313,Prélude VIII - (,B,102 3/4,103
+314,Prélude VIII - (,G#,103,103 1/4
+315,Prélude VIII - (,C#,103,103 1/4
+316,Prélude VIII - (,B,103 1/4,103 1/2
+317,Prélude VIII - (,E-,103 1/4,103 1/2
+318,Prélude VIII - (,C#,103 1/2,103 3/4
+319,Prélude VIII - (,F#,103 1/2,103 3/4
+320,Prélude VIII - (,E-,103 3/4,104
+321,Prélude VIII - (,G#,103 3/4,104
+322,Prélude VIII - (,F#,104,104 1/4
+323,Prélude VIII - (,B,104,104 1/4
+324,Prélude VIII - (,G#,104 1/3,104 7/12
+325,Prélude VIII - (,C#,104 1/3,104 7/12
+326,Prélude VIII - (,B,104 2/3,104 11/12
+327,Prélude VIII - (,E-,104 2/3,104 11/12
+328,Prélude VIII - (,B-,105,114 1/2
+329,Prélude VIII - (,C#,105,114 1/2
+330,Prélude VIII - (,F#,27,27 1/2
+331,Prélude VIII - (,F,27 1/2,27 3/4
+332,Prélude VIII - (,E-,27 3/4,28
+333,Prélude VIII - (,C#,28,32
+334,Prélude VIII - (,E-,54,56
+335,Prélude VIII - (,E-,57,58
+336,Prélude VIII - (,E-,58,59
+337,Prélude VIII - (,C,59,59 1/2
+338,Prélude VIII - (,E-,59 1/2,59 3/4
+339,Prélude VIII - (,C,59 3/4,60
+340,Prélude VIII - (,C,60 3/4,61
+341,Prélude VIII - (,E-,61,61 1/4
+342,Prélude VIII - (,F,61 1/4,61 1/2
+343,Prélude VIII - (,E-,63 2/3,63 11/12
+344,Prélude VIII - (,G#,64 1/2,65 1/4
+345,Prélude VIII - (,F#,65 1/4,65 1/2
+346,Prélude VIII - (,F,65 1/2,65 3/4
+347,Prélude VIII - (,E-,66 2/3,66 11/12
+348,Prélude VIII - (,F#,111 1/4,112
+349,Prélude VIII - (,B,29 1/4,29 1/2
+350,Prélude VIII - (,G#,29 3/4,30
+351,Prélude VIII - (,C,57 3/4,58
+352,Prélude VIII - (,F,58 1/4,58 1/2
+353,Prélude VIII - (,B,5 1/2,6
+354,Prélude VIII - (,E-,5 1/2,6
+355,Prélude VIII - (,F#,6,11
+356,Prélude VIII - (,C#,6,11
+357,Prélude VIII - (,C#,12,13 1/2
+358,Prélude VIII - (,G#,12,13 1/2
+359,Prélude VIII - (,B-,13 1/2,14
+360,Prélude VIII - (,F,13 1/2,14
+361,Prélude VIII - (,B-,13 1/2,14
+362,Prélude VIII - (,E-,14,14 1/2
+363,Prélude VIII - (,B-,14,14 1/2
+364,Prélude VIII - (,F#,14 1/2,15
+365,Prélude VIII - (,B-,14 1/2,15
+366,Prélude VIII - (,C#,15,16
+367,Prélude VIII - (,G#,15,16
+368,Prélude VIII - (,B-,16,17
+369,Prélude VIII - (,F,16,17
+370,Prélude VIII - (,B-,16,17
+371,Prélude VIII - (,E-,17,19
+372,Prélude VIII - (,E,21,23
+373,Prélude VIII - (,F#,21,23
+374,Prélude VIII - (,B-,21,23
+375,Prélude VIII - (,F#,23,24
+376,Prélude VIII - (,G#,23,24
+377,Prélude VIII - (,C,23,24
+378,Prélude VIII - (,E,24,25
+379,Prélude VIII - (,F#,24,25
+380,Prélude VIII - (,B-,24,25
+381,Prélude VIII - (,F#,25,26
+382,Prélude VIII - (,G#,25,26
+383,Prélude VIII - (,C,25,26
+384,Prélude VIII - (,E-,26,27
+385,Prélude VIII - (,F#,27,32 3/4
+386,Prélude VIII - (,G#,32 3/4,33
+387,Prélude VIII - (,F#,33,37 3/4
+388,Prélude VIII - (,F#,38,39
+389,Prélude VIII - (,F#,39,39 3/4
+390,Prélude VIII - (,B,39,39 3/4
+391,Prélude VIII - (,G#,39 3/4,40
+392,Prélude VIII - (,C#,39 3/4,40
+393,Prélude VIII - (,F#,40,40 3/4
+394,Prélude VIII - (,B,40,40 3/4
+395,Prélude VIII - (,F,40 3/4,41
+396,Prélude VIII - (,B-,40 3/4,41
+397,Prélude VIII - (,E-,41,41 3/4
+398,Prélude VIII - (,G#,41,41 3/4
+399,Prélude VIII - (,C#,41 3/4,42
+400,Prélude VIII - (,F#,41 3/4,42
+401,Prélude VIII - (,B,42,44 3/4
+402,Prélude VIII - (,E,42,44 3/4
+403,Prélude VIII - (,B,45,45 1/4
+404,Prélude VIII - (,G#,48,49
+405,Prélude VIII - (,E-,48,49
+406,Prélude VIII - (,F#,48,49
+407,Prélude VIII - (,C#,49,51
+408,Prélude VIII - (,G#,49,51
+409,Prélude VIII - (,B,49,51
+410,Prélude VIII - (,G#,51,52
+411,Prélude VIII - (,E-,51,52
+412,Prélude VIII - (,F#,51,52
+413,Prélude VIII - (,B-,52,54
+414,Prélude VIII - (,E-,54,56 3/4
+415,Prélude VIII - (,E-,57,59
+416,Prélude VIII - (,E-,59,60
+417,Prélude VIII - (,E-,60,60 1/2
+418,Prélude VIII - (,B-,60,60 1/2
+419,Prélude VIII - (,E-,60,60 1/2
+420,Prélude VIII - (,B-,60 1/2,60 3/4
+421,Prélude VIII - (,C,60 3/4,61
+422,Prélude VIII - (,E-,61,61 1/4
+423,Prélude VIII - (,F,61 1/4,61 1/2
+424,Prélude VIII - (,G,61 1/2,61 5/6
+425,Prélude VIII - (,B,62,63 1/2
+426,Prélude VIII - (,E-,62,63 1/2
+427,Prélude VIII - (,F#,62,63 1/2
+428,Prélude VIII - (,B,62,63 1/2
+429,Prélude VIII - (,C#,63 1/2,64
+430,Prélude VIII - (,F,63 1/2,64
+431,Prélude VIII - (,G#,63 1/2,64
+432,Prélude VIII - (,C#,63 1/2,64
+433,Prélude VIII - (,E-,64,64 1/2
+434,Prélude VIII - (,F#,64,64 1/2
+435,Prélude VIII - (,B-,64,64 1/2
+436,Prélude VIII - (,E-,64 1/2,66
+437,Prélude VIII - (,G#,64 1/2,66
+438,Prélude VIII - (,C,64 1/2,66
+439,Prélude VIII - (,E-,64 1/2,66
+440,Prélude VIII - (,B,66,66 1/2
+441,Prélude VIII - (,F#,66,66 1/2
+442,Prélude VIII - (,B,66,66 1/2
+443,Prélude VIII - (,C#,66 1/2,67
+444,Prélude VIII - (,G#,66 1/2,67
+445,Prélude VIII - (,C#,66 1/2,67
+446,Prélude VIII - (,E-,67,67 1/2
+447,Prélude VIII - (,B-,67,67 1/2
+448,Prélude VIII - (,G#,67 1/2,68 1/2
+449,Prélude VIII - (,C,67 1/2,68 1/2
+450,Prélude VIII - (,C#,68 1/2,69 3/4
+451,Prélude VIII - (,E-,69 3/4,70
+452,Prélude VIII - (,B-,69 3/4,70
+453,Prélude VIII - (,C#,70,70 1/2
+454,Prélude VIII - (,F#,70,70 1/2
+455,Prélude VIII - (,E-,70 1/2,71
+456,Prélude VIII - (,B-,70 1/2,71
+457,Prélude VIII - (,F#,71,71 1/2
+458,Prélude VIII - (,C#,71,71 1/2
+459,Prélude VIII - (,B-,71 1/2,72
+460,Prélude VIII - (,E-,71 1/2,72
+461,Prélude VIII - (,F#,72,72 1/2
+462,Prélude VIII - (,C#,72,72 1/2
+463,Prélude VIII - (,E-,72 1/2,73
+464,Prélude VIII - (,B-,72 1/2,73
+465,Prélude VIII - (,B,73,74
+466,Prélude VIII - (,F#,73,74
+467,Prélude VIII - (,C#,74,75
+468,Prélude VIII - (,G#,74,75
+469,Prélude VIII - (,F#,75,75 3/4
+470,Prélude VIII - (,C#,75,75 3/4
+471,Prélude VIII - (,B-,75 3/4,76
+472,Prélude VIII - (,E-,75 3/4,76
+473,Prélude VIII - (,C#,76,76 1/2
+474,Prélude VIII - (,F#,76,76 1/2
+475,Prélude VIII - (,E-,76 1/2,77
+476,Prélude VIII - (,B-,76 1/2,77
+477,Prélude VIII - (,F#,77,77 1/2
+478,Prélude VIII - (,C#,77,77 1/2
+479,Prélude VIII - (,B-,77 1/2,78
+480,Prélude VIII - (,E-,77 1/2,78
+481,Prélude VIII - (,C#,78,78 1/2
+482,Prélude VIII - (,F#,78,78 1/2
+483,Prélude VIII - (,B-,78 1/2,79
+484,Prélude VIII - (,E-,78 1/2,79
+485,Prélude VIII - (,G#,79,80
+486,Prélude VIII - (,E-,79,80
+487,Prélude VIII - (,F#,79,80
+488,Prélude VIII - (,C#,80,81
+489,Prélude VIII - (,F,80,81
+490,Prélude VIII - (,B,81,89 1/2
+491,Prélude VIII - (,E-,90,93
+492,Prélude VIII - (,B-,90,93
+493,Prélude VIII - (,F#,90,93
+494,Prélude VIII - (,B-,90,93
+495,Prélude VIII - (,E-,90,93
+496,Prélude VIII - (,F#,93,95 3/4
+497,Prélude VIII - (,C#,93,95 3/4
+498,Prélude VIII - (,B-,93,95 3/4
+499,Prélude VIII - (,F#,96,96 3/4
+500,Prélude VIII - (,B,96,96 3/4
+501,Prélude VIII - (,G#,96 3/4,97
+502,Prélude VIII - (,C#,96 3/4,97
+503,Prélude VIII - (,F#,97,97 3/4
+504,Prélude VIII - (,B,97,97 3/4
+505,Prélude VIII - (,F,97 3/4,98
+506,Prélude VIII - (,B-,97 3/4,98
+507,Prélude VIII - (,E-,98,98 3/4
+508,Prélude VIII - (,G#,98,98 3/4
+509,Prélude VIII - (,C#,98 3/4,99
+510,Prélude VIII - (,F#,98 3/4,99
+511,Prélude VIII - (,B,99,99 3/4
+512,Prélude VIII - (,F,99,99 3/4
+513,Prélude VIII - (,C#,99 3/4,100
+514,Prélude VIII - (,F#,99 3/4,100
+515,Prélude VIII - (,E-,100,100 3/4
+516,Prélude VIII - (,G#,100,100 3/4
+517,Prélude VIII - (,C#,100 3/4,101
+518,Prélude VIII - (,F#,100 3/4,101
+519,Prélude VIII - (,B,101,101 3/4
+520,Prélude VIII - (,F,101,101 3/4
+521,Prélude VIII - (,C#,101 3/4,102
+522,Prélude VIII - (,F#,101 3/4,102
+523,Prélude VIII - (,E-,102,104 3/4
+524,Prélude VIII - (,G#,102,104 3/4
+525,Prélude VIII - (,F#,105,114 2/3
+526,Prélude VIII - (,B-,17,19
+527,Prélude VIII - (,C#,26 1/2,27
+528,Prélude VIII - (,C#,27,31
+529,Prélude VIII - (,C#,31,32 3/4
+530,Prélude VIII - (,C#,33,35 3/4
+531,Prélude VIII - (,F#,33,35 3/4
+532,Prélude VIII - (,C#,36,38
+533,Prélude VIII - (,F#,36,38
+534,Prélude VIII - (,B-,36,38
+535,Prélude VIII - (,C#,36,38
+536,Prélude VIII - (,F#,43,45
+537,Prélude VIII - (,F#,45,47 3/4
+538,Prélude VIII - (,B,45,47 3/4
+539,Prélude VIII - (,E-,45,47 3/4
+540,Prélude VIII - (,F#,45,47 3/4
+541,Prélude VIII - (,B-,52,52 1/2
+542,Prélude VIII - (,B-,53,54 1/2
+543,Prélude VIII - (,B-,54 1/2,57 1/2
+544,Prélude VIII - (,B-,57 1/2,57 3/4
+545,Prélude VIII - (,C,57 3/4,58
+546,Prélude VIII - (,E-,58,58 1/4
+547,Prélude VIII - (,F,58 1/4,58 1/2
+548,Prélude VIII - (,G,58 1/2,58 5/6
+549,Prélude VIII - (,C,59,59 1/2
+550,Prélude VIII - (,E-,59 1/2,59 3/4
+551,Prélude VIII - (,C,59 3/4,60
+552,Prélude VIII - (,B-,61 3/4,62
+553,Prélude VIII - (,G#,65,66
+554,Prélude VIII - (,F#,69,69 3/4
+555,Prélude VIII - (,F#,81,86 2/3
+556,Prélude VIII - (,B,81,86 2/3
+557,Prélude VIII - (,F#,87,89 3/4
+558,Prélude VIII - (,B,87,89 3/4
+559,Prélude VIII - (,C#,105,108
+560,Prélude VIII - (,C#,108,114 2/3
+561,Prélude VIII - (,G,17 1/4,19
+562,Prélude VIII - (,F#,30,30 1/2
+563,Prélude VIII - (,F,30 1/2,30 3/4
+564,Prélude VIII - (,E-,30 3/4,31
+565,Prélude VIII - (,B,32 1/4,32 1/2
+566,Prélude VIII - (,B-,32 1/2,32 3/4
+567,Prélude VIII - (,C#,33,36
+568,Prélude VIII - (,C,54 3/4,55
+569,Prélude VIII - (,E-,55,55 1/4
+570,Prélude VIII - (,F,55 1/4,55 1/2
+571,Prélude VIII - (,G,55 1/2,55 5/6
+572,Prélude VIII - (,F,56,57
+573,Prélude VIII - (,G#,56,57
+574,Prélude VIII - (,B-,58 3/4,60
+575,Prélude VIII - (,F#,105,114 1/2
+576,Prélude VIII - (,B-,105,114 1/2
+577,Prélude VIII - (,B-,17 1/4,19
+578,Prélude VIII - (,G#,33 1/4,36
+579,Prélude VIII - (,B-,55 3/4,57
+580,Prélude VIII - (,C#,105 1/4,108 1/4
+581,Prélude VIII - (,C#,108 1/4,114 3/4
+582,Prélude VIII - (,B,33 1/4,36
+583,Prélude VIII - (,C#,33 1/3,36

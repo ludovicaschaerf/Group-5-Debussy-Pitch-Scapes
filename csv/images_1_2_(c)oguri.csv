@@ -1,0 +1,2088 @@
+﻿,score_name,pitch_name,pitch_onset,pitch_offset
+0,images_1_2_(c)oguri,E-,10 1/3,11 5/6
+1,images_1_2_(c)oguri,G#,12 1/3,13 2/3
+2,images_1_2_(c)oguri,G#,12 1/3,13 2/3
+3,images_1_2_(c)oguri,F#,14,18 1/3
+4,images_1_2_(c)oguri,E-,19,19 1/2
+5,images_1_2_(c)oguri,C#,20,20 1/2
+6,images_1_2_(c)oguri,C#,20,20 1/2
+7,images_1_2_(c)oguri,E-,20 2/3,21 1/6
+8,images_1_2_(c)oguri,E-,20 2/3,21 1/6
+9,images_1_2_(c)oguri,F#,21 1/4,21 3/4
+10,images_1_2_(c)oguri,F#,21 1/4,21 3/4
+11,images_1_2_(c)oguri,B,22 3/4,23 1/4
+12,images_1_2_(c)oguri,B,22 3/4,23 1/4
+13,images_1_2_(c)oguri,B-,23 1/3,24 7/12
+14,images_1_2_(c)oguri,B-,23 1/3,24 7/12
+15,images_1_2_(c)oguri,C#,25,27 2/3
+16,images_1_2_(c)oguri,C#,25,27 2/3
+17,images_1_2_(c)oguri,B-,28 3/4,33 1/4
+18,images_1_2_(c)oguri,B-,35,36
+19,images_1_2_(c)oguri,B,36,37
+20,images_1_2_(c)oguri,G#,37,37 2/3
+21,images_1_2_(c)oguri,G#,37,37 2/3
+22,images_1_2_(c)oguri,F#,38,38 1/2
+23,images_1_2_(c)oguri,F#,38,38 1/2
+24,images_1_2_(c)oguri,E-,38 1/2,40 1/6
+25,images_1_2_(c)oguri,F#,40 1/4,42
+26,images_1_2_(c)oguri,B-,42,46
+27,images_1_2_(c)oguri,C#,46 1/4,47
+28,images_1_2_(c)oguri,B-,47,47 1/2
+29,images_1_2_(c)oguri,B,47 1/2,48
+30,images_1_2_(c)oguri,B,47 1/2,48
+31,images_1_2_(c)oguri,G#,48,48 1/2
+32,images_1_2_(c)oguri,B-,48 1/2,49
+33,images_1_2_(c)oguri,B-,48 1/2,49
+34,images_1_2_(c)oguri,F#,49,49 1/2
+35,images_1_2_(c)oguri,E-,49 1/2,50 1/2
+36,images_1_2_(c)oguri,E-,49 1/2,50 1/2
+37,images_1_2_(c)oguri,C#,51 1/3,52 1/12
+38,images_1_2_(c)oguri,C#,51 1/3,52 1/12
+39,images_1_2_(c)oguri,B-,53 1/3,56
+40,images_1_2_(c)oguri,G#,56 1/4,57
+41,images_1_2_(c)oguri,G#,58 3/4,59 5/12
+42,images_1_2_(c)oguri,E-,58 3/4,59 5/12
+43,images_1_2_(c)oguri,E-,58 3/4,59 5/12
+44,images_1_2_(c)oguri,G#,59 1/2,59 5/6
+45,images_1_2_(c)oguri,B,60,60 1/4
+46,images_1_2_(c)oguri,B,60 1/2,61 1/6
+47,images_1_2_(c)oguri,E,60 1/2,61 1/6
+48,images_1_2_(c)oguri,G#,61 1/3,61 2/3
+49,images_1_2_(c)oguri,G#,62 1/4,62 3/4
+50,images_1_2_(c)oguri,G#,62 3/4,63 1/4
+51,images_1_2_(c)oguri,B,63 1/4,63 7/12
+52,images_1_2_(c)oguri,B,64,64 3/4
+53,images_1_2_(c)oguri,G#,65,65 1/4
+54,images_1_2_(c)oguri,G#,66,67
+55,images_1_2_(c)oguri,G#,68 1/4,68 1/2
+56,images_1_2_(c)oguri,G#,70,70 1/2
+57,images_1_2_(c)oguri,E-,70,70 1/2
+58,images_1_2_(c)oguri,E-,70,70 1/2
+59,images_1_2_(c)oguri,E-,70,70 1/2
+60,images_1_2_(c)oguri,E-,70 2/3,71 1/6
+61,images_1_2_(c)oguri,F#,71 1/2,72 1/2
+62,images_1_2_(c)oguri,E-,72 1/2,73
+63,images_1_2_(c)oguri,E-,73 1/4,73 3/4
+64,images_1_2_(c)oguri,E-,73 3/4,74 5/12
+65,images_1_2_(c)oguri,C#,74 3/4,75 3/4
+66,images_1_2_(c)oguri,F#,74 3/4,75 3/4
+67,images_1_2_(c)oguri,E,74 3/4,75 3/4
+68,images_1_2_(c)oguri,E,74 3/4,75 3/4
+69,images_1_2_(c)oguri,A,74 3/4,75 3/4
+70,images_1_2_(c)oguri,E-,75 3/4,76 1/12
+71,images_1_2_(c)oguri,E-,76 3/4,79 1/12
+72,images_1_2_(c)oguri,B,76 3/4,79 1/12
+73,images_1_2_(c)oguri,G#,76 3/4,79 1/12
+74,images_1_2_(c)oguri,F#,81,82 3/4
+75,images_1_2_(c)oguri,G#,82 3/4,83 3/4
+76,images_1_2_(c)oguri,E-,82 3/4,83 3/4
+77,images_1_2_(c)oguri,A,84 1/2,85 1/2
+78,images_1_2_(c)oguri,E,84 1/2,85 1/2
+79,images_1_2_(c)oguri,G#,85 2/3,85 11/12
+80,images_1_2_(c)oguri,C#,86 1/3,89
+81,images_1_2_(c)oguri,B,89,89 2/3
+82,images_1_2_(c)oguri,C#,90,91
+83,images_1_2_(c)oguri,B,91 3/4,92 3/4
+84,images_1_2_(c)oguri,E-,93,93 1/4
+85,images_1_2_(c)oguri,B-,93 2/3,94 11/12
+86,images_1_2_(c)oguri,B-,93 2/3,94 11/12
+87,images_1_2_(c)oguri,E-,96,97 1/2
+88,images_1_2_(c)oguri,E-,98 1/2,108 1/2
+89,images_1_2_(c)oguri,B-,98 1/2,108 1/2
+90,images_1_2_(c)oguri,E-,98 1/2,108 1/2
+91,images_1_2_(c)oguri,B-,111 2/3,113 5/12
+92,images_1_2_(c)oguri,E-,113 1/2,115 1/2
+93,images_1_2_(c)oguri,B-,119 1/2,120 1/4
+94,images_1_2_(c)oguri,G#,120 1/3,121
+95,images_1_2_(c)oguri,G#,120 1/3,121
+96,images_1_2_(c)oguri,B-,121,121 1/2
+97,images_1_2_(c)oguri,B-,121,121 1/2
+98,images_1_2_(c)oguri,C#,121 1/2,122
+99,images_1_2_(c)oguri,F#,123,123 1/3
+100,images_1_2_(c)oguri,F#,123,123 1/3
+101,images_1_2_(c)oguri,E,123 1/2,125
+102,images_1_2_(c)oguri,G#,125 1/3,132 1/12
+103,images_1_2_(c)oguri,B-,133,138 1/2
+104,images_1_2_(c)oguri,B-,133,138 1/2
+105,images_1_2_(c)oguri,B-,138 3/4,139 1/4
+106,images_1_2_(c)oguri,B,139 3/4,140 5/12
+107,images_1_2_(c)oguri,B,139 3/4,140 5/12
+108,images_1_2_(c)oguri,G#,140 1/2,141
+109,images_1_2_(c)oguri,B-,141 1/4,141 3/4
+110,images_1_2_(c)oguri,B-,141 1/4,141 3/4
+111,images_1_2_(c)oguri,E-,142,142 3/4
+112,images_1_2_(c)oguri,E-,142,142 3/4
+113,images_1_2_(c)oguri,B,142,142 3/4
+114,images_1_2_(c)oguri,F#,143 2/3,144 2/3
+115,images_1_2_(c)oguri,F#,143 2/3,144 2/3
+116,images_1_2_(c)oguri,C#,143 2/3,144 2/3
+117,images_1_2_(c)oguri,B-,145 1/3,148 7/12
+118,images_1_2_(c)oguri,B-,145 1/3,148 7/12
+119,images_1_2_(c)oguri,C#,149 1/3,150 1/12
+120,images_1_2_(c)oguri,B,150 1/2,151
+121,images_1_2_(c)oguri,G#,151,151 1/3
+122,images_1_2_(c)oguri,G#,151,151 1/3
+123,images_1_2_(c)oguri,B-,151 1/2,152
+124,images_1_2_(c)oguri,B-,151 1/2,152
+125,images_1_2_(c)oguri,F#,152,152 1/4
+126,images_1_2_(c)oguri,E-,152 1/3,153 1/3
+127,images_1_2_(c)oguri,B,152 1/3,153 1/3
+128,images_1_2_(c)oguri,C#,154 1/4,157 7/12
+129,images_1_2_(c)oguri,D,159 1/4,160 1/2
+130,images_1_2_(c)oguri,G#,162,162 3/4
+131,images_1_2_(c)oguri,G#,163,163 1/4
+132,images_1_2_(c)oguri,E,163,163 1/4
+133,images_1_2_(c)oguri,E,163,163 1/4
+134,images_1_2_(c)oguri,A,163 2/3,165 2/3
+135,images_1_2_(c)oguri,A,167 1/2,167 3/4
+136,images_1_2_(c)oguri,G#,169 1/2,169 5/6
+137,images_1_2_(c)oguri,E,169 1/2,169 5/6
+138,images_1_2_(c)oguri,C#,170,170 1/2
+139,images_1_2_(c)oguri,G#,170 1/2,170 5/6
+140,images_1_2_(c)oguri,E,170 1/2,170 5/6
+141,images_1_2_(c)oguri,G#,171,171 3/4
+142,images_1_2_(c)oguri,G#,171,171 3/4
+143,images_1_2_(c)oguri,E,171,171 3/4
+144,images_1_2_(c)oguri,E,171,171 3/4
+145,images_1_2_(c)oguri,F#,171 3/4,172
+146,images_1_2_(c)oguri,F#,171 3/4,172
+147,images_1_2_(c)oguri,D,171 3/4,172
+148,images_1_2_(c)oguri,D,171 3/4,172
+149,images_1_2_(c)oguri,F#,172 1/2,173
+150,images_1_2_(c)oguri,C#,172 1/2,173
+151,images_1_2_(c)oguri,E,172 1/2,173
+152,images_1_2_(c)oguri,D,173 1/4,173 1/2
+153,images_1_2_(c)oguri,B,173 1/4,173 1/2
+154,images_1_2_(c)oguri,C#,173 1/2,173 3/4
+155,images_1_2_(c)oguri,A,173 1/2,173 3/4
+156,images_1_2_(c)oguri,C#,173 1/2,173 3/4
+157,images_1_2_(c)oguri,A,173 1/2,173 3/4
+158,images_1_2_(c)oguri,C#,174 1/4,175
+159,images_1_2_(c)oguri,A,174 1/4,175
+160,images_1_2_(c)oguri,C#,174 1/4,175
+161,images_1_2_(c)oguri,B,175,175 1/2
+162,images_1_2_(c)oguri,B,175,175 1/2
+163,images_1_2_(c)oguri,G,175,175 1/2
+164,images_1_2_(c)oguri,G,175,175 1/2
+165,images_1_2_(c)oguri,B,176,176 3/4
+166,images_1_2_(c)oguri,G,176,176 3/4
+167,images_1_2_(c)oguri,D,178,178 1/4
+168,images_1_2_(c)oguri,G,178 1/4,178 1/2
+169,images_1_2_(c)oguri,D,180 1/2,180 3/4
+170,images_1_2_(c)oguri,A,180 1/2,180 3/4
+171,images_1_2_(c)oguri,F#,181,181 1/4
+172,images_1_2_(c)oguri,A,181,181 1/4
+173,images_1_2_(c)oguri,F#,181,181 1/4
+174,images_1_2_(c)oguri,C#,181 1/4,181 1/2
+175,images_1_2_(c)oguri,C#,181 2/3,181 11/12
+176,images_1_2_(c)oguri,A,181 2/3,181 11/12
+177,images_1_2_(c)oguri,A,181 2/3,181 11/12
+178,images_1_2_(c)oguri,C#,182 1/4,182 11/12
+179,images_1_2_(c)oguri,A,182 1/4,182 11/12
+180,images_1_2_(c)oguri,B,183,183 1/4
+181,images_1_2_(c)oguri,B,183,183 1/4
+182,images_1_2_(c)oguri,G,183,183 1/4
+183,images_1_2_(c)oguri,G,183,183 1/4
+184,images_1_2_(c)oguri,F#,183 2/3,184 1/3
+185,images_1_2_(c)oguri,A,183 2/3,184 1/3
+186,images_1_2_(c)oguri,G,184 1/3,184 5/6
+187,images_1_2_(c)oguri,D,185,185 1/4
+188,images_1_2_(c)oguri,F#,185 2/3,186 5/12
+189,images_1_2_(c)oguri,E,186 1/2,187 1/6
+190,images_1_2_(c)oguri,C#,186 1/2,187 1/6
+191,images_1_2_(c)oguri,E,187 1/3,189 5/6
+192,images_1_2_(c)oguri,G#,190 3/4,191 1/2
+193,images_1_2_(c)oguri,E,191 1/2,192
+194,images_1_2_(c)oguri,E-,192,192 1/4
+195,images_1_2_(c)oguri,F#,192,192 1/4
+196,images_1_2_(c)oguri,E,192 2/3,194 1/3
+197,images_1_2_(c)oguri,B,192 2/3,194 1/3
+198,images_1_2_(c)oguri,B-,196 1/3,199 1/12
+199,images_1_2_(c)oguri,C#,199 3/4,202 1/12
+200,images_1_2_(c)oguri,E-,202 1/3,202 7/12
+201,images_1_2_(c)oguri,F#,202 1/3,202 7/12
+202,images_1_2_(c)oguri,E,203,204
+203,images_1_2_(c)oguri,C#,203,204
+204,images_1_2_(c)oguri,E-,204 2/3,205 2/3
+205,images_1_2_(c)oguri,E-,204 2/3,205 2/3
+206,images_1_2_(c)oguri,G,204 2/3,205 2/3
+207,images_1_2_(c)oguri,E-,206 3/4,207 1/2
+208,images_1_2_(c)oguri,E,208,208 1/2
+209,images_1_2_(c)oguri,E,209,211
+210,images_1_2_(c)oguri,F#,212 1/2,213 1/6
+211,images_1_2_(c)oguri,G#,213 1/3,213 5/6
+212,images_1_2_(c)oguri,E,213 1/3,213 5/6
+213,images_1_2_(c)oguri,G#,213 1/3,213 5/6
+214,images_1_2_(c)oguri,E,213 1/3,213 5/6
+215,images_1_2_(c)oguri,G#,214,215 1/4
+216,images_1_2_(c)oguri,E,214,215 1/4
+217,images_1_2_(c)oguri,E,216,218 1/4
+218,images_1_2_(c)oguri,C#,216,218 1/4
+219,images_1_2_(c)oguri,E,219,219 1/4
+220,images_1_2_(c)oguri,E,219 1/4,220 7/12
+221,images_1_2_(c)oguri,E,221 1/4,224 1/4
+222,images_1_2_(c)oguri,E,225,225 1/3
+223,images_1_2_(c)oguri,C#,225,225 1/3
+224,images_1_2_(c)oguri,C#,225,225 1/3
+225,images_1_2_(c)oguri,E,225,225 1/3
+226,images_1_2_(c)oguri,E-,226,226 1/3
+227,images_1_2_(c)oguri,G#,226 3/4,227 1/12
+228,images_1_2_(c)oguri,E-,226 3/4,227 1/12
+229,images_1_2_(c)oguri,E-,226 3/4,227 1/12
+230,images_1_2_(c)oguri,C,226 3/4,227 1/12
+231,images_1_2_(c)oguri,C,226 3/4,227 1/12
+232,images_1_2_(c)oguri,B,227 1/2,227 3/4
+233,images_1_2_(c)oguri,B,227 1/2,227 3/4
+234,images_1_2_(c)oguri,D,227 1/2,227 3/4
+235,images_1_2_(c)oguri,F#,228 1/4,228 11/12
+236,images_1_2_(c)oguri,G#,229 1/4,229 1/2
+237,images_1_2_(c)oguri,G#,229 1/4,229 1/2
+238,images_1_2_(c)oguri,E-,229 1/2,229 5/6
+239,images_1_2_(c)oguri,G#,229 1/2,229 5/6
+240,images_1_2_(c)oguri,C,229 1/2,229 5/6
+241,images_1_2_(c)oguri,E-,229 1/2,229 5/6
+242,images_1_2_(c)oguri,C,229 1/2,229 5/6
+243,images_1_2_(c)oguri,E,230 1/4,230 3/4
+244,images_1_2_(c)oguri,A,230 1/4,230 3/4
+245,images_1_2_(c)oguri,G#,230 1/4,230 3/4
+246,images_1_2_(c)oguri,C,230 1/4,230 3/4
+247,images_1_2_(c)oguri,E,231,231 1/3
+248,images_1_2_(c)oguri,E,232,233
+249,images_1_2_(c)oguri,A,234 1/2,234 3/4
+250,images_1_2_(c)oguri,A,234 1/2,234 3/4
+251,images_1_2_(c)oguri,E,236 3/4,241 3/4
+252,images_1_2_(c)oguri,G#,242 1/2,242 5/6
+253,images_1_2_(c)oguri,E,242 1/2,242 5/6
+254,images_1_2_(c)oguri,C,242 1/2,242 5/6
+255,images_1_2_(c)oguri,B,243 1/2,244 1/2
+256,images_1_2_(c)oguri,B,243 1/2,244 1/2
+257,images_1_2_(c)oguri,D,243 1/2,244 1/2
+258,images_1_2_(c)oguri,F#,244 2/3,244 11/12
+259,images_1_2_(c)oguri,A,246 1/4,246 1/2
+260,images_1_2_(c)oguri,A,246 1/4,246 1/2
+261,images_1_2_(c)oguri,E,247 2/3,247 11/12
+262,images_1_2_(c)oguri,A,247 2/3,247 11/12
+263,images_1_2_(c)oguri,B,248,248 1/4
+264,images_1_2_(c)oguri,F#,248,248 1/4
+265,images_1_2_(c)oguri,D,248,248 1/4
+266,images_1_2_(c)oguri,C#,249 1/4,249 1/2
+267,images_1_2_(c)oguri,G#,249 1/4,249 1/2
+268,images_1_2_(c)oguri,F,249 1/4,249 1/2
+269,images_1_2_(c)oguri,G#,249 1/4,249 1/2
+270,images_1_2_(c)oguri,C#,249 1/4,249 1/2
+271,images_1_2_(c)oguri,F,249 1/4,249 1/2
+272,images_1_2_(c)oguri,C#,250,250 1/4
+273,images_1_2_(c)oguri,F,250,250 1/4
+274,images_1_2_(c)oguri,G#,250,250 1/4
+275,images_1_2_(c)oguri,D,250,250 1/4
+276,images_1_2_(c)oguri,A,250,250 1/4
+277,images_1_2_(c)oguri,B,251 2/3,251 11/12
+278,images_1_2_(c)oguri,E,251 2/3,251 11/12
+279,images_1_2_(c)oguri,B,251 2/3,251 11/12
+280,images_1_2_(c)oguri,G#,251 2/3,251 11/12
+281,images_1_2_(c)oguri,E,251 2/3,251 11/12
+282,images_1_2_(c)oguri,G#,252 1/2,252 3/4
+283,images_1_2_(c)oguri,C#,252 1/2,252 3/4
+284,images_1_2_(c)oguri,C#,252 1/2,252 3/4
+285,images_1_2_(c)oguri,G#,252 1/2,252 3/4
+286,images_1_2_(c)oguri,F,252 1/2,252 3/4
+287,images_1_2_(c)oguri,F,252 1/2,252 3/4
+288,images_1_2_(c)oguri,A,253 1/4,254 1/2
+289,images_1_2_(c)oguri,E,254 2/3,254 11/12
+290,images_1_2_(c)oguri,A,254 2/3,254 11/12
+291,images_1_2_(c)oguri,B,255,257 3/4
+292,images_1_2_(c)oguri,B,255,257 3/4
+293,images_1_2_(c)oguri,D,255,257 3/4
+294,images_1_2_(c)oguri,E,258 1/4,258 1/2
+295,images_1_2_(c)oguri,A,258 1/4,258 1/2
+296,images_1_2_(c)oguri,B,258 2/3,258 11/12
+297,images_1_2_(c)oguri,B,258 2/3,258 11/12
+298,images_1_2_(c)oguri,F#,258 2/3,258 11/12
+299,images_1_2_(c)oguri,D,258 2/3,258 11/12
+300,images_1_2_(c)oguri,F#,258 2/3,258 11/12
+301,images_1_2_(c)oguri,C#,259 3/4,260
+302,images_1_2_(c)oguri,G#,259 3/4,260
+303,images_1_2_(c)oguri,F,259 3/4,260
+304,images_1_2_(c)oguri,G#,259 3/4,260
+305,images_1_2_(c)oguri,F,259 3/4,260
+306,images_1_2_(c)oguri,A,260 1/2,261 1/4
+307,images_1_2_(c)oguri,C#,260 1/2,261 1/4
+308,images_1_2_(c)oguri,B,262 2/3,263 5/12
+309,images_1_2_(c)oguri,G#,262 2/3,263 5/12
+310,images_1_2_(c)oguri,F#,264,264 1/4
+311,images_1_2_(c)oguri,G#,265,265 1/4
+312,images_1_2_(c)oguri,G#,265,265 1/4
+313,images_1_2_(c)oguri,E-,265 3/4,266
+314,images_1_2_(c)oguri,C,266,279 1/4
+315,images_1_2_(c)oguri,G#,280 3/4,282 1/12
+316,images_1_2_(c)oguri,G#,280 3/4,282 1/12
+317,images_1_2_(c)oguri,F#,282 3/4,285 1/2
+318,images_1_2_(c)oguri,E-,288,293
+319,images_1_2_(c)oguri,G#,295 3/4,298 1/4
+320,images_1_2_(c)oguri,E-,302 1/2,303 1/6
+321,images_1_2_(c)oguri,C#,303 2/3,304 2/3
+322,images_1_2_(c)oguri,F#,305,305 1/4
+323,images_1_2_(c)oguri,G#,305 2/3,306 5/12
+324,images_1_2_(c)oguri,G#,305 2/3,306 5/12
+325,images_1_2_(c)oguri,B,307,307 1/4
+326,images_1_2_(c)oguri,B-,307 3/4,309 1/12
+327,images_1_2_(c)oguri,G#,307 3/4,309 1/12
+328,images_1_2_(c)oguri,C#,309 3/4,312 5/12
+329,images_1_2_(c)oguri,B-,309 3/4,312 5/12
+330,images_1_2_(c)oguri,G#,309 3/4,312 5/12
+331,images_1_2_(c)oguri,E,309 3/4,312 5/12
+332,images_1_2_(c)oguri,B-,314 1/4,319
+333,images_1_2_(c)oguri,B-,321 1/4,322 1/4
+334,images_1_2_(c)oguri,B,322 1/3,323 1/12
+335,images_1_2_(c)oguri,B,322 1/3,323 1/12
+336,images_1_2_(c)oguri,G#,323 1/4,324
+337,images_1_2_(c)oguri,F#,324 1/4,324 3/4
+338,images_1_2_(c)oguri,E-,324 3/4,327 5/12
+339,images_1_2_(c)oguri,C#,324 3/4,327 5/12
+340,images_1_2_(c)oguri,B-,328 1/3,330 2/3
+341,images_1_2_(c)oguri,G#,330 2/3,331 2/3
+342,images_1_2_(c)oguri,C#,333 1/4,334 1/4
+343,images_1_2_(c)oguri,B,334 1/2,335
+344,images_1_2_(c)oguri,G#,335,335 1/2
+345,images_1_2_(c)oguri,G#,335,335 1/2
+346,images_1_2_(c)oguri,B-,335 2/3,336 5/12
+347,images_1_2_(c)oguri,B-,337,339 1/3
+348,images_1_2_(c)oguri,B-,340 2/3,342 2/3
+349,images_1_2_(c)oguri,G#,343 1/4,346 1/4
+350,images_1_2_(c)oguri,G#,343 1/4,346 1/4
+351,images_1_2_(c)oguri,G#,347 3/4,354
+352,images_1_2_(c)oguri,G#,357 1/4,358 3/4
+353,images_1_2_(c)oguri,B-,361 1/3,364 5/6
+354,images_1_2_(c)oguri,C,361 1/3,364 5/6
+355,images_1_2_(c)oguri,G#,367,368 1/4
+356,images_1_2_(c)oguri,E-,368 2/3,370 2/3
+357,images_1_2_(c)oguri,C,372 1/4,372 3/4
+358,images_1_2_(c)oguri,B-,373,373 1/2
+359,images_1_2_(c)oguri,G#,377 2/3,377 11/12
+360,images_1_2_(c)oguri,F,382,385 1/2
+361,images_1_2_(c)oguri,F#,386 1/2,391 1/6
+362,images_1_2_(c)oguri,E-,391 1/3,394 1/12
+363,images_1_2_(c)oguri,B,391 1/3,394 1/12
+364,images_1_2_(c)oguri,F,394 1/3,394 2/3
+365,images_1_2_(c)oguri,C#,394 1/3,394 2/3
+366,images_1_2_(c)oguri,G#,396,397 3/4
+367,images_1_2_(c)oguri,F,396,397 3/4
+368,images_1_2_(c)oguri,F#,398 1/2,398 5/6
+369,images_1_2_(c)oguri,E-,398 1/2,398 5/6
+370,images_1_2_(c)oguri,F,399,400 1/3
+371,images_1_2_(c)oguri,F#,400 1/3,401 5/6
+372,images_1_2_(c)oguri,E-,400 1/3,401 5/6
+373,images_1_2_(c)oguri,G#,403 1/2,403 5/6
+374,images_1_2_(c)oguri,C,405 2/3,409 5/12
+375,images_1_2_(c)oguri,C#,411,411 1/4
+376,images_1_2_(c)oguri,B-,411 1/4,411 3/4
+377,images_1_2_(c)oguri,G,411 1/4,411 3/4
+378,images_1_2_(c)oguri,G,411 1/4,411 3/4
+379,images_1_2_(c)oguri,D,412 1/3,412 2/3
+380,images_1_2_(c)oguri,F,412 3/4,414 3/4
+381,images_1_2_(c)oguri,E,415 2/3,415 11/12
+382,images_1_2_(c)oguri,G,416,416 1/4
+383,images_1_2_(c)oguri,F,416 1/3,416 7/12
+384,images_1_2_(c)oguri,D,416 2/3,418 2/3
+385,images_1_2_(c)oguri,G#,419 3/4,420 3/4
+386,images_1_2_(c)oguri,G#,423 1/2,423 3/4
+387,images_1_2_(c)oguri,G#,423 1/2,423 3/4
+388,images_1_2_(c)oguri,C,426 3/4,429 1/4
+389,images_1_2_(c)oguri,E-,429 1/3,429 7/12
+390,images_1_2_(c)oguri,C#,430 1/4,430 1/2
+391,images_1_2_(c)oguri,C#,430 1/4,430 1/2
+392,images_1_2_(c)oguri,G#,430 1/4,430 1/2
+393,images_1_2_(c)oguri,F#,430 1/4,430 1/2
+394,images_1_2_(c)oguri,B,431 2/3,432 1/6
+395,images_1_2_(c)oguri,G#,433 1/2,434 3/4
+396,images_1_2_(c)oguri,B,433 1/2,434 3/4
+397,images_1_2_(c)oguri,F#,435 1/4,436 1/4
+398,images_1_2_(c)oguri,C,435 1/4,436 1/4
+399,images_1_2_(c)oguri,F#,437 2/3,438 11/12
+400,images_1_2_(c)oguri,C#,437 2/3,438 11/12
+401,images_1_2_(c)oguri,B,437 2/3,438 11/12
+402,images_1_2_(c)oguri,F#,439 2/3,439 11/12
+403,images_1_2_(c)oguri,B,439 2/3,439 11/12
+404,images_1_2_(c)oguri,C#,439 2/3,439 11/12
+405,images_1_2_(c)oguri,A,439 2/3,439 11/12
+406,images_1_2_(c)oguri,B,439 2/3,439 11/12
+407,images_1_2_(c)oguri,E-,440 1/3,440 7/12
+408,images_1_2_(c)oguri,E-,440 1/3,440 7/12
+409,images_1_2_(c)oguri,B,440 1/3,440 7/12
+410,images_1_2_(c)oguri,G#,440 1/3,440 7/12
+411,images_1_2_(c)oguri,B,441,448
+412,images_1_2_(c)oguri,F#,449,449 1/4
+413,images_1_2_(c)oguri,B,449,449 1/4
+414,images_1_2_(c)oguri,C#,449,449 1/4
+415,images_1_2_(c)oguri,B,449,449 1/4
+416,images_1_2_(c)oguri,A,449,449 1/4
+417,images_1_2_(c)oguri,E-,449 3/4,450
+418,images_1_2_(c)oguri,E-,449 3/4,450
+419,images_1_2_(c)oguri,G#,449 3/4,450
+420,images_1_2_(c)oguri,B,450,450 1/4
+421,images_1_2_(c)oguri,B,450 1/2,451 1/6
+422,images_1_2_(c)oguri,E-,452 1/4,452 1/2
+423,images_1_2_(c)oguri,G#,453 3/4,454 3/4
+424,images_1_2_(c)oguri,B,453 3/4,454 3/4
+425,images_1_2_(c)oguri,G#,453 3/4,454 3/4
+426,images_1_2_(c)oguri,E-,455 1/2,456 1/6
+427,images_1_2_(c)oguri,C#,455 1/2,456 1/6
+428,images_1_2_(c)oguri,B,455 1/2,456 1/6
+429,images_1_2_(c)oguri,F,455 1/2,456 1/6
+430,images_1_2_(c)oguri,F#,457 1/3,458 1/3
+431,images_1_2_(c)oguri,C#,457 1/3,458 1/3
+432,images_1_2_(c)oguri,B,457 1/3,458 1/3
+433,images_1_2_(c)oguri,F#,459 1/2,459 3/4
+434,images_1_2_(c)oguri,B,459 1/2,459 3/4
+435,images_1_2_(c)oguri,C#,459 1/2,459 3/4
+436,images_1_2_(c)oguri,E-,460 1/3,460 7/12
+437,images_1_2_(c)oguri,E-,460 1/3,460 7/12
+438,images_1_2_(c)oguri,G#,460 1/3,460 7/12
+439,images_1_2_(c)oguri,B,460 1/3,460 7/12
+440,images_1_2_(c)oguri,B,461,467 3/4
+441,images_1_2_(c)oguri,F#,469 1/4,469 1/2
+442,images_1_2_(c)oguri,B,470 3/4,471 3/4
+443,images_1_2_(c)oguri,G,470 3/4,471 3/4
+444,images_1_2_(c)oguri,F#,472 3/4,473
+445,images_1_2_(c)oguri,F#,472 3/4,473
+446,images_1_2_(c)oguri,C#,473 1/2,473 3/4
+447,images_1_2_(c)oguri,C#,473 1/2,473 3/4
+448,images_1_2_(c)oguri,B,474 1/4,475
+449,images_1_2_(c)oguri,D,474 1/4,475
+450,images_1_2_(c)oguri,G,474 1/4,475
+451,images_1_2_(c)oguri,F#,475 3/4,476 5/12
+452,images_1_2_(c)oguri,E,476 1/2,476 3/4
+453,images_1_2_(c)oguri,G#,477 1/2,479
+454,images_1_2_(c)oguri,F#,479 1/3,479 7/12
+455,images_1_2_(c)oguri,F#,479 1/3,479 7/12
+456,images_1_2_(c)oguri,C#,480 1/4,480 1/2
+457,images_1_2_(c)oguri,C#,480 1/4,480 1/2
+458,images_1_2_(c)oguri,C#,480 1/2,480 3/4
+459,images_1_2_(c)oguri,C#,480 1/2,480 3/4
+460,images_1_2_(c)oguri,B,481,482 1/4
+461,images_1_2_(c)oguri,B,481,482 1/4
+462,images_1_2_(c)oguri,D,481,482 1/4
+463,images_1_2_(c)oguri,C#,483 1/4,483 1/2
+464,images_1_2_(c)oguri,C#,483 1/4,483 1/2
+465,images_1_2_(c)oguri,D,485 1/3,486 1/3
+466,images_1_2_(c)oguri,A,487 1/4,488 1/4
+467,images_1_2_(c)oguri,D,488 3/4,489 1/12
+468,images_1_2_(c)oguri,A,490 1/3,490 7/12
+469,images_1_2_(c)oguri,A,490 1/3,490 7/12
+470,images_1_2_(c)oguri,E,491 1/4,491 1/2
+471,images_1_2_(c)oguri,E,491 1/4,491 1/2
+472,images_1_2_(c)oguri,D,491 3/4,492
+473,images_1_2_(c)oguri,D,491 3/4,492
+474,images_1_2_(c)oguri,A,493 1/3,493 7/12
+475,images_1_2_(c)oguri,G#,493 1/3,493 7/12
+476,images_1_2_(c)oguri,A,494,494 1/4
+477,images_1_2_(c)oguri,F#,494,494 1/4
+478,images_1_2_(c)oguri,D,495,495 3/4
+479,images_1_2_(c)oguri,A,496,496 1/4
+480,images_1_2_(c)oguri,F#,496,496 1/4
+481,images_1_2_(c)oguri,D,496,496 1/4
+482,images_1_2_(c)oguri,A,496,496 1/4
+483,images_1_2_(c)oguri,E,496 3/4,497 3/4
+484,images_1_2_(c)oguri,G#,496 3/4,497 3/4
+485,images_1_2_(c)oguri,C,496 3/4,497 3/4
+486,images_1_2_(c)oguri,D,498,498 1/4
+487,images_1_2_(c)oguri,D,498,498 1/4
+488,images_1_2_(c)oguri,F#,498 2/3,498 11/12
+489,images_1_2_(c)oguri,A,499 1/3,499 7/12
+490,images_1_2_(c)oguri,A,499 1/3,499 7/12
+491,images_1_2_(c)oguri,C,499 1/3,499 7/12
+492,images_1_2_(c)oguri,A,500,500 1/4
+493,images_1_2_(c)oguri,D,500,500 1/4
+494,images_1_2_(c)oguri,F#,500,500 1/4
+495,images_1_2_(c)oguri,E,500,500 1/4
+496,images_1_2_(c)oguri,A,500,500 1/4
+497,images_1_2_(c)oguri,E,500,500 1/4
+498,images_1_2_(c)oguri,B,500 2/3,501
+499,images_1_2_(c)oguri,B,500 2/3,501
+500,images_1_2_(c)oguri,E,500 2/3,501
+501,images_1_2_(c)oguri,A,501 1/3,502
+502,images_1_2_(c)oguri,F#,501 1/3,502
+503,images_1_2_(c)oguri,C,501 1/3,502
+504,images_1_2_(c)oguri,A,502 1/4,502 1/2
+505,images_1_2_(c)oguri,B,502 3/4,503
+506,images_1_2_(c)oguri,D,502 3/4,503
+507,images_1_2_(c)oguri,D,502 3/4,503
+508,images_1_2_(c)oguri,G#,502 3/4,503
+509,images_1_2_(c)oguri,C,503 1/3,503 7/12
+510,images_1_2_(c)oguri,E,503 1/3,503 7/12
+511,images_1_2_(c)oguri,A,503 1/3,503 7/12
+512,images_1_2_(c)oguri,D,504,504 3/4
+513,images_1_2_(c)oguri,F#,505 1/3,506 1/12
+514,images_1_2_(c)oguri,F#,505 1/3,506 1/12
+515,images_1_2_(c)oguri,B,505 1/3,506 1/12
+516,images_1_2_(c)oguri,A,506 1/4,506 7/12
+517,images_1_2_(c)oguri,E,506 3/4,507
+518,images_1_2_(c)oguri,E,506 3/4,507
+519,images_1_2_(c)oguri,A,506 3/4,507
+520,images_1_2_(c)oguri,C,506 3/4,507
+521,images_1_2_(c)oguri,C#,507,507 1/4
+522,images_1_2_(c)oguri,D,507 1/2,507 3/4
+523,images_1_2_(c)oguri,B,507 1/2,507 3/4
+524,images_1_2_(c)oguri,D,507 1/2,507 3/4
+525,images_1_2_(c)oguri,D,507 1/2,507 3/4
+526,images_1_2_(c)oguri,G#,507 1/2,507 3/4
+527,images_1_2_(c)oguri,D,507 1/2,507 3/4
+528,images_1_2_(c)oguri,A,508 1/4,508 1/2
+529,images_1_2_(c)oguri,C,508 1/4,508 1/2
+530,images_1_2_(c)oguri,F#,508 1/4,508 1/2
+531,images_1_2_(c)oguri,C,508 1/4,508 1/2
+532,images_1_2_(c)oguri,A,508 3/4,509
+533,images_1_2_(c)oguri,A,508 3/4,509
+534,images_1_2_(c)oguri,B,509 1/2,509 3/4
+535,images_1_2_(c)oguri,B,509 1/2,509 3/4
+536,images_1_2_(c)oguri,G#,509 1/2,509 3/4
+537,images_1_2_(c)oguri,E,509 1/2,509 3/4
+538,images_1_2_(c)oguri,E,509 1/2,509 3/4
+539,images_1_2_(c)oguri,E,509 1/2,509 3/4
+540,images_1_2_(c)oguri,A,510,510 1/4
+541,images_1_2_(c)oguri,F#,510,510 1/4
+542,images_1_2_(c)oguri,A,510,510 1/4
+543,images_1_2_(c)oguri,D,510,510 1/4
+544,images_1_2_(c)oguri,D,510 1/4,510 3/4
+545,images_1_2_(c)oguri,E,510 3/4,511 1/4
+546,images_1_2_(c)oguri,G#,510 3/4,511 1/4
+547,images_1_2_(c)oguri,C,510 3/4,511 1/4
+548,images_1_2_(c)oguri,A,511 1/2,511 3/4
+549,images_1_2_(c)oguri,F#,512 1/4,512 7/12
+550,images_1_2_(c)oguri,D,513,514
+551,images_1_2_(c)oguri,F#,514 1/4,515 1/4
+552,images_1_2_(c)oguri,F#,514 1/4,515 1/4
+553,images_1_2_(c)oguri,G#,515 2/3,516 5/12
+554,images_1_2_(c)oguri,E,515 2/3,516 5/12
+555,images_1_2_(c)oguri,F#,517,517 1/2
+556,images_1_2_(c)oguri,D,517,517 1/2
+557,images_1_2_(c)oguri,A,517 1/2,517 3/4
+558,images_1_2_(c)oguri,A,517 1/2,517 3/4
+559,images_1_2_(c)oguri,G#,518,518 3/4
+560,images_1_2_(c)oguri,E,518,518 3/4
+561,images_1_2_(c)oguri,D,518 3/4,519 1/4
+562,images_1_2_(c)oguri,F#,519 1/3,520
+563,images_1_2_(c)oguri,A,520,520 1/4
+564,images_1_2_(c)oguri,A,520,520 1/4
+565,images_1_2_(c)oguri,G#,520 3/4,521 1/12
+566,images_1_2_(c)oguri,G#,520 3/4,521 1/12
+567,images_1_2_(c)oguri,E,520 3/4,521 1/12
+568,images_1_2_(c)oguri,C,520 3/4,521 1/12
+569,images_1_2_(c)oguri,G#,522,522 2/3
+570,images_1_2_(c)oguri,F,522,522 2/3
+571,images_1_2_(c)oguri,F#,523 1/4,524
+572,images_1_2_(c)oguri,E-,523 1/4,524
+573,images_1_2_(c)oguri,E-,524 1/4,525 7/12
+574,images_1_2_(c)oguri,G#,525 2/3,526
+575,images_1_2_(c)oguri,E-,526 1/3,527
+576,images_1_2_(c)oguri,F#,526 1/3,527
+577,images_1_2_(c)oguri,F#,526 1/3,527
+578,images_1_2_(c)oguri,B-,526 1/3,527
+579,images_1_2_(c)oguri,E-,527,527 1/4
+580,images_1_2_(c)oguri,B-,527 2/3,527 11/12
+581,images_1_2_(c)oguri,G#,528 1/3,528 7/12
+582,images_1_2_(c)oguri,F#,529,529 2/3
+583,images_1_2_(c)oguri,E-,529,529 2/3
+584,images_1_2_(c)oguri,F#,529,529 2/3
+585,images_1_2_(c)oguri,B-,529,529 2/3
+586,images_1_2_(c)oguri,G#,529 3/4,530
+587,images_1_2_(c)oguri,G#,530 2/3,531
+588,images_1_2_(c)oguri,F,530 2/3,531
+589,images_1_2_(c)oguri,F,531 3/4,534 1/4
+590,images_1_2_(c)oguri,A,531 3/4,534 1/4
+591,images_1_2_(c)oguri,C#,531 3/4,534 1/4
+592,images_1_2_(c)oguri,G,535 1/3,537 1/12
+593,images_1_2_(c)oguri,G,537 2/3,537 11/12
+594,images_1_2_(c)oguri,G,537 2/3,537 11/12
+595,images_1_2_(c)oguri,F,538 1/4,538 1/2
+596,images_1_2_(c)oguri,B,539 2/3,539 11/12
+597,images_1_2_(c)oguri,A,539 2/3,539 11/12
+598,images_1_2_(c)oguri,C#,539 2/3,539 11/12
+599,images_1_2_(c)oguri,G,540 1/2,540 3/4
+600,images_1_2_(c)oguri,B,540 1/2,540 3/4
+601,images_1_2_(c)oguri,B,540 1/2,540 3/4
+602,images_1_2_(c)oguri,E-,540 1/2,540 3/4
+603,images_1_2_(c)oguri,C#,541 1/3,542 1/12
+604,images_1_2_(c)oguri,G,542 1/3,542 7/12
+605,images_1_2_(c)oguri,B,542 1/3,542 7/12
+606,images_1_2_(c)oguri,E-,542 1/3,542 7/12
+607,images_1_2_(c)oguri,B,542 1/3,542 7/12
+608,images_1_2_(c)oguri,F,543,544 1/4
+609,images_1_2_(c)oguri,C#,543,544 1/4
+610,images_1_2_(c)oguri,F,544 1/2,544 3/4
+611,images_1_2_(c)oguri,F,544 1/2,544 3/4
+612,images_1_2_(c)oguri,E-,545,545 1/4
+613,images_1_2_(c)oguri,C#,545,545 1/4
+614,images_1_2_(c)oguri,G,545,545 1/4
+615,images_1_2_(c)oguri,G,545,545 1/4
+616,images_1_2_(c)oguri,F,545 3/4,546
+617,images_1_2_(c)oguri,C#,545 3/4,546
+618,images_1_2_(c)oguri,C#,545 3/4,546
+619,images_1_2_(c)oguri,A,545 3/4,546
+620,images_1_2_(c)oguri,B,545 3/4,546
+621,images_1_2_(c)oguri,A,545 3/4,546
+622,images_1_2_(c)oguri,G,546 1/3,546 7/12
+623,images_1_2_(c)oguri,G,546 1/3,546 7/12
+624,images_1_2_(c)oguri,B,546 1/3,546 7/12
+625,images_1_2_(c)oguri,G,546 1/3,546 7/12
+626,images_1_2_(c)oguri,F,547,547 1/3
+627,images_1_2_(c)oguri,E-,547 2/3,548
+628,images_1_2_(c)oguri,B,547 2/3,548
+629,images_1_2_(c)oguri,B,548 1/4,548 1/2
+630,images_1_2_(c)oguri,F,548 3/4,549
+631,images_1_2_(c)oguri,C#,548 3/4,549
+632,images_1_2_(c)oguri,G,549 1/2,549 3/4
+633,images_1_2_(c)oguri,B,549 1/2,549 3/4
+634,images_1_2_(c)oguri,E-,549 1/2,549 3/4
+635,images_1_2_(c)oguri,F,550 1/3,550 5/6
+636,images_1_2_(c)oguri,A,550 1/3,550 5/6
+637,images_1_2_(c)oguri,C#,550 1/3,550 5/6
+638,images_1_2_(c)oguri,B,551,551 1/4
+639,images_1_2_(c)oguri,B,551,551 1/4
+640,images_1_2_(c)oguri,G,551 1/2,551 3/4
+641,images_1_2_(c)oguri,E-,551 1/2,551 3/4
+642,images_1_2_(c)oguri,B,551 1/2,551 3/4
+643,images_1_2_(c)oguri,F,552,552 1/4
+644,images_1_2_(c)oguri,F,552,552 1/4
+645,images_1_2_(c)oguri,F,552,552 1/4
+646,images_1_2_(c)oguri,A,552,552 1/4
+647,images_1_2_(c)oguri,G,552 2/3,552 11/12
+648,images_1_2_(c)oguri,B,552 2/3,552 11/12
+649,images_1_2_(c)oguri,B,552 2/3,552 11/12
+650,images_1_2_(c)oguri,C#,553 1/4,553 1/2
+651,images_1_2_(c)oguri,C#,553 1/4,553 1/2
+652,images_1_2_(c)oguri,C#,553 3/4,554
+653,images_1_2_(c)oguri,G,553 3/4,554
+654,images_1_2_(c)oguri,A,553 3/4,554
+655,images_1_2_(c)oguri,G,553 3/4,554
+656,images_1_2_(c)oguri,G,554 1/2,554 3/4
+657,images_1_2_(c)oguri,F,554 1/2,554 3/4
+658,images_1_2_(c)oguri,F,554 1/2,554 3/4
+659,images_1_2_(c)oguri,E-,554 1/2,554 3/4
+660,images_1_2_(c)oguri,B,554 1/2,554 3/4
+661,images_1_2_(c)oguri,A,555,555 1/4
+662,images_1_2_(c)oguri,F,555,555 1/4
+663,images_1_2_(c)oguri,C#,555,555 1/4
+664,images_1_2_(c)oguri,F,555,555 1/4
+665,images_1_2_(c)oguri,B,555 3/4,556
+666,images_1_2_(c)oguri,B,555 3/4,556
+667,images_1_2_(c)oguri,B,556 1/2,556 3/4
+668,images_1_2_(c)oguri,E-,556 1/2,556 3/4
+669,images_1_2_(c)oguri,G,556 1/2,556 3/4
+670,images_1_2_(c)oguri,G,556 1/2,556 3/4
+671,images_1_2_(c)oguri,G,557 1/2,558 1/2
+672,images_1_2_(c)oguri,A,557 1/2,558 1/2
+673,images_1_2_(c)oguri,F,559 1/2,562
+674,images_1_2_(c)oguri,E,562 3/4,563 1/2
+675,images_1_2_(c)oguri,E,562 3/4,563 1/2
+676,images_1_2_(c)oguri,B-,562 3/4,563 1/2
+677,images_1_2_(c)oguri,C#,562 3/4,563 1/2
+678,images_1_2_(c)oguri,F,564,565 1/2
+679,images_1_2_(c)oguri,F,564,565 1/2
+680,images_1_2_(c)oguri,B,564,565 1/2
+681,images_1_2_(c)oguri,D,564,565 1/2
+682,images_1_2_(c)oguri,F#,566 3/4,567 1/12
+683,images_1_2_(c)oguri,B,567 1/4,569 1/4
+684,images_1_2_(c)oguri,G,570 3/4,572
+685,images_1_2_(c)oguri,G,572,572 1/4
+686,images_1_2_(c)oguri,D,572 3/4,573 5/12
+687,images_1_2_(c)oguri,B,573 2/3,574
+688,images_1_2_(c)oguri,D,574,574 1/3
+689,images_1_2_(c)oguri,B,574 1/3,575
+690,images_1_2_(c)oguri,B,575,575 1/4
+691,images_1_2_(c)oguri,F,575 1/4,575 1/2
+692,images_1_2_(c)oguri,B,575 1/2,575 3/4
+693,images_1_2_(c)oguri,F,575 3/4,576
+694,images_1_2_(c)oguri,A,576,576 1/4
+695,images_1_2_(c)oguri,G,576,576 1/4
+696,images_1_2_(c)oguri,D,577 3/4,580
+697,images_1_2_(c)oguri,C#,581 1/4,582 1/4
+698,images_1_2_(c)oguri,G#,581 1/4,582 1/4
+699,images_1_2_(c)oguri,B-,581 1/4,582 1/4
+700,images_1_2_(c)oguri,F,582 1/2,584
+701,images_1_2_(c)oguri,G,582 1/2,584
+702,images_1_2_(c)oguri,D,582 1/2,584
+703,images_1_2_(c)oguri,E-,585 1/4,585 7/12
+704,images_1_2_(c)oguri,C,585 1/4,585 7/12
+705,images_1_2_(c)oguri,B,585 1/4,585 7/12
+706,images_1_2_(c)oguri,B,585 3/4,591
+707,images_1_2_(c)oguri,E,585 3/4,591
+708,images_1_2_(c)oguri,C,585 3/4,591
+709,images_1_2_(c)oguri,A,591,591 2/3
+710,images_1_2_(c)oguri,F#,592,592 2/3
+711,images_1_2_(c)oguri,C,592 3/4,593 1/4
+712,images_1_2_(c)oguri,D,593 1/4,593 7/12
+713,images_1_2_(c)oguri,F#,593 3/4,594
+714,images_1_2_(c)oguri,G,594,596 2/3
+715,images_1_2_(c)oguri,C,597 2/3,598 5/12
+716,images_1_2_(c)oguri,C,598 1/2,598 3/4
+717,images_1_2_(c)oguri,G,599 1/4,601 1/4
+718,images_1_2_(c)oguri,C,601 1/3,601 5/6
+719,images_1_2_(c)oguri,D,602,602 1/4
+720,images_1_2_(c)oguri,F#,603,606
+721,images_1_2_(c)oguri,D,607,608
+722,images_1_2_(c)oguri,D,608 1/3,608 7/12
+723,images_1_2_(c)oguri,A,609,609 3/4
+724,images_1_2_(c)oguri,D,609 3/4,612 5/12
+725,images_1_2_(c)oguri,A,612 1/2,613 1/4
+726,images_1_2_(c)oguri,C,613 2/3,614 1/3
+727,images_1_2_(c)oguri,D,614 1/3,615 2/3
+728,images_1_2_(c)oguri,A,615 2/3,624 5/12
+729,images_1_2_(c)oguri,C#,625 1/3,626 1/12
+730,images_1_2_(c)oguri,E-,626 1/4,626 3/4
+731,images_1_2_(c)oguri,E-,626 3/4,627
+732,images_1_2_(c)oguri,B,627,636 2/3
+733,images_1_2_(c)oguri,F,638 1/3,639 7/12
+734,images_1_2_(c)oguri,G#,638 1/3,639 7/12
+735,images_1_2_(c)oguri,B,638 1/3,639 7/12
+736,images_1_2_(c)oguri,D,638 1/3,639 7/12
+737,images_1_2_(c)oguri,B-,640 1/3,641 1/3
+738,images_1_2_(c)oguri,B-,640 1/3,641 1/3
+739,images_1_2_(c)oguri,B,641 1/3,641 7/12
+740,images_1_2_(c)oguri,G#,642 1/4,643
+741,images_1_2_(c)oguri,F#,643 1/3,643 5/6
+742,images_1_2_(c)oguri,F#,645 1/3,646 1/3
+743,images_1_2_(c)oguri,B-,647,647 1/3
+744,images_1_2_(c)oguri,E-,647,647 1/3
+745,images_1_2_(c)oguri,F,649 1/4,650 1/4
+746,images_1_2_(c)oguri,B,649 1/4,650 1/4
+747,images_1_2_(c)oguri,D,649 1/4,650 1/4
+748,images_1_2_(c)oguri,B-,651,652
+749,images_1_2_(c)oguri,G,651,652
+750,images_1_2_(c)oguri,B,652,652 1/2
+751,images_1_2_(c)oguri,E-,652 1/2,653 3/4
+752,images_1_2_(c)oguri,E-,654,654 1/3
+753,images_1_2_(c)oguri,C#,656 1/4,658 7/12
+754,images_1_2_(c)oguri,G#,661 1/4,662 1/4
+755,images_1_2_(c)oguri,G#,663 3/4,664 1/4
+756,images_1_2_(c)oguri,G#,663 3/4,664 1/4
+757,images_1_2_(c)oguri,E-,663 3/4,664 1/4
+758,images_1_2_(c)oguri,G#,664 2/3,665
+759,images_1_2_(c)oguri,B,665,665 1/4
+760,images_1_2_(c)oguri,B,665 1/2,666 1/6
+761,images_1_2_(c)oguri,A,665 1/2,666 1/6
+762,images_1_2_(c)oguri,E,665 1/2,666 1/6
+763,images_1_2_(c)oguri,G#,666 1/3,666 5/6
+764,images_1_2_(c)oguri,G#,667,667 1/3
+765,images_1_2_(c)oguri,E-,667,667 1/3
+766,images_1_2_(c)oguri,F#,667,667 1/3
+767,images_1_2_(c)oguri,B,667,667 1/3
+768,images_1_2_(c)oguri,B,667,667 1/3
+769,images_1_2_(c)oguri,G#,667 2/3,668 1/6
+770,images_1_2_(c)oguri,B,668 1/2,669 1/6
+771,images_1_2_(c)oguri,C#,668 1/2,669 1/6
+772,images_1_2_(c)oguri,G#,669 1/3,669 7/12
+773,images_1_2_(c)oguri,G#,670 1/4,673
+774,images_1_2_(c)oguri,G#,674,674 2/3
+775,images_1_2_(c)oguri,E-,674,674 2/3
+776,images_1_2_(c)oguri,E-,674,674 2/3
+777,images_1_2_(c)oguri,B,674,674 2/3
+778,images_1_2_(c)oguri,E-,674 3/4,675 1/4
+779,images_1_2_(c)oguri,F#,675 1/4,675 7/12
+780,images_1_2_(c)oguri,C#,675 2/3,676 5/12
+781,images_1_2_(c)oguri,F#,677,677 3/4
+782,images_1_2_(c)oguri,F#,678,678 1/3
+783,images_1_2_(c)oguri,A,678 2/3,679 2/3
+784,images_1_2_(c)oguri,F#,678 2/3,679 2/3
+785,images_1_2_(c)oguri,C#,678 2/3,679 2/3
+786,images_1_2_(c)oguri,E-,680 1/3,682 2/3
+787,images_1_2_(c)oguri,B,680 1/3,682 2/3
+788,images_1_2_(c)oguri,E-,684 2/3,685 1/3
+789,images_1_2_(c)oguri,C#,685 1/3,686
+790,images_1_2_(c)oguri,G#,686 1/3,687 1/12
+791,images_1_2_(c)oguri,E-,686 1/3,687 1/12
+792,images_1_2_(c)oguri,G#,688,688 2/3
+793,images_1_2_(c)oguri,G#,689,689 1/4
+794,images_1_2_(c)oguri,E,689 2/3,691 1/6
+795,images_1_2_(c)oguri,E-,691 1/3,692 1/3
+796,images_1_2_(c)oguri,C#,692 1/3,693
+797,images_1_2_(c)oguri,C#,693,693 3/4
+798,images_1_2_(c)oguri,B,694 2/3,695 2/3
+799,images_1_2_(c)oguri,E-,696,696 1/4
+800,images_1_2_(c)oguri,B-,696 2/3,697 11/12
+801,images_1_2_(c)oguri,B-,696 2/3,697 11/12
+802,images_1_2_(c)oguri,E-,698 3/4,700 1/4
+803,images_1_2_(c)oguri,E-,698 3/4,700 1/4
+804,images_1_2_(c)oguri,E-,701 3/4,708 5/12
+805,images_1_2_(c)oguri,E-,710,710 1/3
+806,images_1_2_(c)oguri,G#,712,713 1/4
+807,images_1_2_(c)oguri,F,715 1/3,718 1/3
+808,images_1_2_(c)oguri,G#,720,720 1/3
+809,images_1_2_(c)oguri,B,725 1/4,726 7/12
+810,images_1_2_(c)oguri,G#,727 1/3,734 1/3
+811,images_1_2_(c)oguri,B-,735 1/4,737 3/4
+812,images_1_2_(c)oguri,F,739 1/3,742
+813,images_1_2_(c)oguri,G#,743 1/4,743 7/12
+814,images_1_2_(c)oguri,G#,748 3/4,750 1/2
+815,images_1_2_(c)oguri,C,751,752
+816,images_1_2_(c)oguri,E-,753,753 3/4
+817,images_1_2_(c)oguri,G#,754 1/2,754 3/4
+818,images_1_2_(c)oguri,E-,756 1/3,756 7/12
+819,images_1_2_(c)oguri,B-,757 1/4,757 1/2
+820,images_1_2_(c)oguri,B-,757 1/4,757 1/2
+821,images_1_2_(c)oguri,G#,758 1/4,758 1/2
+822,images_1_2_(c)oguri,G#,758 1/4,758 1/2
+823,images_1_2_(c)oguri,B-,760 1/4,761 1/2
+824,images_1_2_(c)oguri,F,762,762 1/4
+825,images_1_2_(c)oguri,G#,762 1/3,763 1/3
+826,images_1_2_(c)oguri,C,762 1/3,763 1/3
+827,images_1_2_(c)oguri,E-,764 1/4,764 7/12
+828,images_1_2_(c)oguri,G#,766,766 1/3
+829,images_1_2_(c)oguri,E-,767 2/3,768 1/3
+830,images_1_2_(c)oguri,E-,767 2/3,768 1/3
+831,images_1_2_(c)oguri,B-,768 2/3,769 2/3
+832,images_1_2_(c)oguri,G#,769 3/4,770 1/12
+833,images_1_2_(c)oguri,B-,771 3/4,773 1/12
+834,images_1_2_(c)oguri,B-,771 3/4,773 1/12
+835,images_1_2_(c)oguri,F#,774,774 1/4
+836,images_1_2_(c)oguri,E-,774 2/3,778 1/3
+837,images_1_2_(c)oguri,F#,779 1/4,788
+838,images_1_2_(c)oguri,G#,789,790 2/3
+839,images_1_2_(c)oguri,E-,791 1/2,793 1/4
+840,images_1_2_(c)oguri,G#,793 1/4,794 1/4
+841,images_1_2_(c)oguri,E-,795 1/3,795 2/3
+842,images_1_2_(c)oguri,B-,796 1/3,796 2/3
+843,images_1_2_(c)oguri,G#,797 1/4,797 7/12
+844,images_1_2_(c)oguri,C#,799 1/3,801 7/12
+845,images_1_2_(c)oguri,F,799 1/3,801 7/12
+846,images_1_2_(c)oguri,C#,803 1/2,805 3/4
+847,images_1_2_(c)oguri,B-,803 1/2,805 3/4
+848,images_1_2_(c)oguri,B-,810,813
+849,images_1_2_(c)oguri,F#,810,813
+850,images_1_2_(c)oguri,G#,815 1/4,816 11/12
+851,images_1_2_(c)oguri,E-,817 2/3,818 11/12
+852,images_1_2_(c)oguri,G#,820,821 1/3
+853,images_1_2_(c)oguri,E-,822 1/4,822 7/12
+854,images_1_2_(c)oguri,B-,823 1/3,823 2/3
+855,images_1_2_(c)oguri,B-,823 1/3,823 2/3
+856,images_1_2_(c)oguri,G#,824 3/4,825 1/4
+857,images_1_2_(c)oguri,G#,824 3/4,825 1/4
+858,images_1_2_(c)oguri,C#,827 3/4,829 1/12
+859,images_1_2_(c)oguri,F,827 3/4,829 1/12
+860,images_1_2_(c)oguri,B-,827 3/4,829 1/12
+861,images_1_2_(c)oguri,G#,831 3/4,836 1/2
+862,images_1_2_(c)oguri,G#,840 1/3,856 5/6
+863,images_1_2_(c)oguri,E-,10 1/3,12 1/12
+864,images_1_2_(c)oguri,F#,14,18 1/4
+865,images_1_2_(c)oguri,E-,19,19 3/4
+866,images_1_2_(c)oguri,G#,21 2/3,22 2/3
+867,images_1_2_(c)oguri,B-,28 3/4,33 1/12
+868,images_1_2_(c)oguri,B-,35,36
+869,images_1_2_(c)oguri,B,36,36 3/4
+870,images_1_2_(c)oguri,B-,37 1/2,38
+871,images_1_2_(c)oguri,B-,37 1/2,38
+872,images_1_2_(c)oguri,E-,38 1/2,40 1/4
+873,images_1_2_(c)oguri,F#,40 1/4,42
+874,images_1_2_(c)oguri,B-,42,46 1/4
+875,images_1_2_(c)oguri,C#,46 1/4,47 1/4
+876,images_1_2_(c)oguri,G#,48,48 1/2
+877,images_1_2_(c)oguri,F#,49,49 2/3
+878,images_1_2_(c)oguri,B-,53 1/3,54 1/3
+879,images_1_2_(c)oguri,G#,58 3/4,59 1/12
+880,images_1_2_(c)oguri,B,58 3/4,59 1/12
+881,images_1_2_(c)oguri,A,60 1/2,61
+882,images_1_2_(c)oguri,F#,62 1/4,63 1/4
+883,images_1_2_(c)oguri,A,64,64 2/3
+884,images_1_2_(c)oguri,G#,66,68 1/2
+885,images_1_2_(c)oguri,B,70,70 1/2
+886,images_1_2_(c)oguri,F#,71,71 1/3
+887,images_1_2_(c)oguri,E,71 2/3,72 5/12
+888,images_1_2_(c)oguri,C#,71 2/3,72 5/12
+889,images_1_2_(c)oguri,A,71 2/3,72 5/12
+890,images_1_2_(c)oguri,F#,73 1/4,73 11/12
+891,images_1_2_(c)oguri,E-,73 1/4,73 11/12
+892,images_1_2_(c)oguri,B,73 1/4,73 11/12
+893,images_1_2_(c)oguri,F#,74 1/4,74 7/12
+894,images_1_2_(c)oguri,A,75,76 1/4
+895,images_1_2_(c)oguri,C#,75,76 1/4
+896,images_1_2_(c)oguri,G#,76 3/4,77 1/2
+897,images_1_2_(c)oguri,E-,76 3/4,77 1/2
+898,images_1_2_(c)oguri,B,76 3/4,77 1/2
+899,images_1_2_(c)oguri,G#,79,80
+900,images_1_2_(c)oguri,B-,81,82 1/4
+901,images_1_2_(c)oguri,E-,82 1/4,83
+902,images_1_2_(c)oguri,A,84 1/2,85 3/4
+903,images_1_2_(c)oguri,F#,86 1/2,89 1/2
+904,images_1_2_(c)oguri,G#,86 1/2,89 1/2
+905,images_1_2_(c)oguri,C#,89 1/2,90
+906,images_1_2_(c)oguri,C#,90,91
+907,images_1_2_(c)oguri,B,91 3/4,92 3/4
+908,images_1_2_(c)oguri,B-,93 2/3,94 2/3
+909,images_1_2_(c)oguri,B-,93 2/3,94 2/3
+910,images_1_2_(c)oguri,D,93 2/3,94 2/3
+911,images_1_2_(c)oguri,B-,96,97 1/3
+912,images_1_2_(c)oguri,E-,96,97 1/3
+913,images_1_2_(c)oguri,G,96,97 1/3
+914,images_1_2_(c)oguri,E-,96,97 1/3
+915,images_1_2_(c)oguri,B-,98 1/2,108 1/2
+916,images_1_2_(c)oguri,E-,98 1/2,108 1/2
+917,images_1_2_(c)oguri,B-,111 2/3,113 2/3
+918,images_1_2_(c)oguri,C#,115 1/3,119 7/12
+919,images_1_2_(c)oguri,B-,119 2/3,120 5/12
+920,images_1_2_(c)oguri,C#,121 1/3,122
+921,images_1_2_(c)oguri,E,123 1/2,125 1/6
+922,images_1_2_(c)oguri,G#,125 1/2,131 1/2
+923,images_1_2_(c)oguri,F#,133,136
+924,images_1_2_(c)oguri,E-,133,136
+925,images_1_2_(c)oguri,C#,137 1/4,141 3/4
+926,images_1_2_(c)oguri,B,142 1/4,143
+927,images_1_2_(c)oguri,C#,143 3/4,144 1/2
+928,images_1_2_(c)oguri,B-,143 3/4,144 1/2
+929,images_1_2_(c)oguri,F#,145 1/3,146 1/3
+930,images_1_2_(c)oguri,F#,145 1/3,146 1/3
+931,images_1_2_(c)oguri,C#,147,151 2/3
+932,images_1_2_(c)oguri,F#,151 3/4,152 1/4
+933,images_1_2_(c)oguri,E-,152 1/3,153 1/3
+934,images_1_2_(c)oguri,B,152 1/3,153 1/3
+935,images_1_2_(c)oguri,C#,154 1/4,157 1/4
+936,images_1_2_(c)oguri,D,159 1/4,160 7/12
+937,images_1_2_(c)oguri,G#,162,162 1/2
+938,images_1_2_(c)oguri,F#,162 2/3,163 1/6
+939,images_1_2_(c)oguri,A,162 2/3,163 1/6
+940,images_1_2_(c)oguri,A,162 2/3,163 1/6
+941,images_1_2_(c)oguri,G#,163 2/3,164 5/12
+942,images_1_2_(c)oguri,G#,163 2/3,164 5/12
+943,images_1_2_(c)oguri,F#,164 1/2,164 3/4
+944,images_1_2_(c)oguri,F#,164 1/2,164 3/4
+945,images_1_2_(c)oguri,D,164 1/2,164 3/4
+946,images_1_2_(c)oguri,F#,165 1/3,165 7/12
+947,images_1_2_(c)oguri,A,167 1/2,167 3/4
+948,images_1_2_(c)oguri,A,169 1/2,170 1/2
+949,images_1_2_(c)oguri,G#,170 1/2,170 3/4
+950,images_1_2_(c)oguri,E,170 1/2,170 3/4
+951,images_1_2_(c)oguri,F#,172 2/3,173 5/12
+952,images_1_2_(c)oguri,E,172 2/3,173 5/12
+953,images_1_2_(c)oguri,D,174 1/4,176 3/4
+954,images_1_2_(c)oguri,D,174 1/4,176 3/4
+955,images_1_2_(c)oguri,G,178 1/4,178 1/2
+956,images_1_2_(c)oguri,C#,180 1/2,180 3/4
+957,images_1_2_(c)oguri,C#,180 1/2,180 3/4
+958,images_1_2_(c)oguri,C#,181 2/3,181 11/12
+959,images_1_2_(c)oguri,A,181 2/3,181 11/12
+960,images_1_2_(c)oguri,C#,182 1/4,182 1/2
+961,images_1_2_(c)oguri,F#,183 2/3,184 1/6
+962,images_1_2_(c)oguri,E,184 1/3,184 7/12
+963,images_1_2_(c)oguri,G,184 1/3,184 7/12
+964,images_1_2_(c)oguri,E,184 1/3,184 7/12
+965,images_1_2_(c)oguri,F#,184 3/4,185
+966,images_1_2_(c)oguri,D,184 3/4,185
+967,images_1_2_(c)oguri,G,185 2/3,189 2/3
+968,images_1_2_(c)oguri,G,185 2/3,189 2/3
+969,images_1_2_(c)oguri,G#,190 3/4,191
+970,images_1_2_(c)oguri,E-,191,191 1/4
+971,images_1_2_(c)oguri,C#,191 1/2,191 5/6
+972,images_1_2_(c)oguri,E,192 2/3,193 5/12
+973,images_1_2_(c)oguri,G#,192 2/3,193 5/12
+974,images_1_2_(c)oguri,E-,194 1/4,195
+975,images_1_2_(c)oguri,B-,196 1/3,199 1/12
+976,images_1_2_(c)oguri,C#,199 3/4,202 1/12
+977,images_1_2_(c)oguri,E,203,204 2/3
+978,images_1_2_(c)oguri,E-,204 2/3,205 11/12
+979,images_1_2_(c)oguri,C#,206 3/4,207 1/2
+980,images_1_2_(c)oguri,E,208 1/4,208 7/12
+981,images_1_2_(c)oguri,C#,209,211 1/3
+982,images_1_2_(c)oguri,F#,212 1/2,213 1/2
+983,images_1_2_(c)oguri,G#,214,215 1/4
+984,images_1_2_(c)oguri,E,214,215 1/4
+985,images_1_2_(c)oguri,G#,216,218
+986,images_1_2_(c)oguri,A,218,218 1/4
+987,images_1_2_(c)oguri,A,219,220 2/3
+988,images_1_2_(c)oguri,A,221 1/3,224 1/3
+989,images_1_2_(c)oguri,C#,221 1/3,224 1/3
+990,images_1_2_(c)oguri,E,221 1/3,224 1/3
+991,images_1_2_(c)oguri,C#,221 1/3,224 1/3
+992,images_1_2_(c)oguri,A,225,225 1/2
+993,images_1_2_(c)oguri,C,226,226 1/4
+994,images_1_2_(c)oguri,C,226,226 1/4
+995,images_1_2_(c)oguri,G#,226 3/4,227 1/4
+996,images_1_2_(c)oguri,D,227 1/2,227 3/4
+997,images_1_2_(c)oguri,B,227 1/2,227 3/4
+998,images_1_2_(c)oguri,D,227 1/2,227 3/4
+999,images_1_2_(c)oguri,C#,228 1/4,228 7/12
+1000,images_1_2_(c)oguri,B-,228 1/4,228 7/12
+1001,images_1_2_(c)oguri,C#,228 1/4,228 7/12
+1002,images_1_2_(c)oguri,B,228 3/4,229
+1003,images_1_2_(c)oguri,D,228 3/4,229
+1004,images_1_2_(c)oguri,D,228 3/4,229
+1005,images_1_2_(c)oguri,G#,229 1/2,229 3/4
+1006,images_1_2_(c)oguri,G#,230 1/4,230 7/12
+1007,images_1_2_(c)oguri,C,230 1/4,230 7/12
+1008,images_1_2_(c)oguri,A,231 1/4,231 7/12
+1009,images_1_2_(c)oguri,C#,231 1/4,231 7/12
+1010,images_1_2_(c)oguri,C#,231 1/4,231 7/12
+1011,images_1_2_(c)oguri,A,231 1/4,231 7/12
+1012,images_1_2_(c)oguri,A,232 1/4,232 11/12
+1013,images_1_2_(c)oguri,C#,232 1/4,232 11/12
+1014,images_1_2_(c)oguri,A,237,238
+1015,images_1_2_(c)oguri,A,237,238
+1016,images_1_2_(c)oguri,E-,238,238 1/4
+1017,images_1_2_(c)oguri,C,238,238 1/4
+1018,images_1_2_(c)oguri,C,238,238 1/4
+1019,images_1_2_(c)oguri,E-,238,238 1/4
+1020,images_1_2_(c)oguri,G#,239,239 1/4
+1021,images_1_2_(c)oguri,E-,239,239 1/4
+1022,images_1_2_(c)oguri,E-,239,239 1/4
+1023,images_1_2_(c)oguri,C,239,239 1/4
+1024,images_1_2_(c)oguri,C,239,239 1/4
+1025,images_1_2_(c)oguri,B,239 2/3,239 11/12
+1026,images_1_2_(c)oguri,B,239 2/3,239 11/12
+1027,images_1_2_(c)oguri,D,239 2/3,239 11/12
+1028,images_1_2_(c)oguri,F#,240 1/3,240 5/6
+1029,images_1_2_(c)oguri,F#,240 1/3,240 5/6
+1030,images_1_2_(c)oguri,C#,240 1/3,240 5/6
+1031,images_1_2_(c)oguri,B,241,241 1/4
+1032,images_1_2_(c)oguri,D,241,241 1/4
+1033,images_1_2_(c)oguri,D,241,241 1/4
+1034,images_1_2_(c)oguri,B,241,241 1/4
+1035,images_1_2_(c)oguri,G#,241 1/3,241 7/12
+1036,images_1_2_(c)oguri,E-,241 2/3,241 11/12
+1037,images_1_2_(c)oguri,E-,241 2/3,241 11/12
+1038,images_1_2_(c)oguri,C,241 2/3,241 11/12
+1039,images_1_2_(c)oguri,C,241 2/3,241 11/12
+1040,images_1_2_(c)oguri,G#,242 1/2,242 3/4
+1041,images_1_2_(c)oguri,C,242 1/2,242 3/4
+1042,images_1_2_(c)oguri,E-,242 1/2,242 3/4
+1043,images_1_2_(c)oguri,F#,243 1/2,244 1/2
+1044,images_1_2_(c)oguri,B,243 1/2,244 1/2
+1045,images_1_2_(c)oguri,D,243 1/2,244 1/2
+1046,images_1_2_(c)oguri,B,244 2/3,247 5/12
+1047,images_1_2_(c)oguri,B,244 2/3,247 5/12
+1048,images_1_2_(c)oguri,D,244 2/3,247 5/12
+1049,images_1_2_(c)oguri,D,247 3/4,248
+1050,images_1_2_(c)oguri,B,248,248 1/4
+1051,images_1_2_(c)oguri,D,248,248 1/4
+1052,images_1_2_(c)oguri,F#,248,248 1/4
+1053,images_1_2_(c)oguri,C#,250,250 1/4
+1054,images_1_2_(c)oguri,F,250,250 1/4
+1055,images_1_2_(c)oguri,F,250,250 1/4
+1056,images_1_2_(c)oguri,G#,250,250 1/4
+1057,images_1_2_(c)oguri,A,250,250 1/4
+1058,images_1_2_(c)oguri,D,251 2/3,252 2/3
+1059,images_1_2_(c)oguri,D,253 1/3,253 7/12
+1060,images_1_2_(c)oguri,F,253 1/3,253 7/12
+1061,images_1_2_(c)oguri,C#,253 1/3,253 7/12
+1062,images_1_2_(c)oguri,F#,254 1/4,254 1/2
+1063,images_1_2_(c)oguri,D,254 1/4,254 1/2
+1064,images_1_2_(c)oguri,D,254 3/4,255
+1065,images_1_2_(c)oguri,F#,255,258
+1066,images_1_2_(c)oguri,D,258 1/3,258 2/3
+1067,images_1_2_(c)oguri,C#,259 3/4,260
+1068,images_1_2_(c)oguri,G#,259 3/4,260
+1069,images_1_2_(c)oguri,F,259 3/4,260
+1070,images_1_2_(c)oguri,C#,260 1/2,261 1/6
+1071,images_1_2_(c)oguri,F,260 1/2,261 1/6
+1072,images_1_2_(c)oguri,E,262 2/3,263 1/3
+1073,images_1_2_(c)oguri,E,262 2/3,263 1/3
+1074,images_1_2_(c)oguri,F#,264,265 1/3
+1075,images_1_2_(c)oguri,F#,264,265 1/3
+1076,images_1_2_(c)oguri,G#,266,280 1/3
+1077,images_1_2_(c)oguri,G#,280 3/4,282
+1078,images_1_2_(c)oguri,F#,282 3/4,285 1/12
+1079,images_1_2_(c)oguri,E-,288,289 1/4
+1080,images_1_2_(c)oguri,F#,298,302
+1081,images_1_2_(c)oguri,A,303 3/4,305
+1082,images_1_2_(c)oguri,E,305 3/4,306 3/4
+1083,images_1_2_(c)oguri,B-,307 3/4,309
+1084,images_1_2_(c)oguri,B-,309 3/4,312 1/2
+1085,images_1_2_(c)oguri,E-,314 1/4,316 11/12
+1086,images_1_2_(c)oguri,E-,314 1/4,316 11/12
+1087,images_1_2_(c)oguri,G#,318 1/2,319 1/2
+1088,images_1_2_(c)oguri,G#,321 1/4,322
+1089,images_1_2_(c)oguri,G#,323 1/4,323 3/4
+1090,images_1_2_(c)oguri,B-,323 3/4,324 1/4
+1091,images_1_2_(c)oguri,B-,323 3/4,324 1/4
+1092,images_1_2_(c)oguri,F#,324 1/3,324 7/12
+1093,images_1_2_(c)oguri,G#,324 3/4,327 1/4
+1094,images_1_2_(c)oguri,E-,324 3/4,327 1/4
+1095,images_1_2_(c)oguri,E-,328 1/3,330 1/12
+1096,images_1_2_(c)oguri,E-,333 1/4,335 3/4
+1097,images_1_2_(c)oguri,F#,336 1/4,336 11/12
+1098,images_1_2_(c)oguri,F#,336 1/4,336 11/12
+1099,images_1_2_(c)oguri,E-,337,338 2/3
+1100,images_1_2_(c)oguri,C#,338 2/3,339 5/12
+1101,images_1_2_(c)oguri,C#,338 2/3,339 5/12
+1102,images_1_2_(c)oguri,E-,340 2/3,354
+1103,images_1_2_(c)oguri,G#,357 1/3,359 1/12
+1104,images_1_2_(c)oguri,F#,361 1/3,365
+1105,images_1_2_(c)oguri,C,361 1/3,365
+1106,images_1_2_(c)oguri,F,367,367 2/3
+1107,images_1_2_(c)oguri,C,367,367 2/3
+1108,images_1_2_(c)oguri,F#,368 2/3,370 2/3
+1109,images_1_2_(c)oguri,A,372 1/4,372 7/12
+1110,images_1_2_(c)oguri,B-,373,375 2/3
+1111,images_1_2_(c)oguri,G#,385 1/3,385 2/3
+1112,images_1_2_(c)oguri,F#,386 1/2,388 1/4
+1113,images_1_2_(c)oguri,E-,389 1/3,389 2/3
+1114,images_1_2_(c)oguri,C#,389 3/4,390 3/4
+1115,images_1_2_(c)oguri,G#,392 3/4,393
+1116,images_1_2_(c)oguri,A,396,403 2/3
+1117,images_1_2_(c)oguri,F#,396,403 2/3
+1118,images_1_2_(c)oguri,G#,405 2/3,409 5/12
+1119,images_1_2_(c)oguri,F,405 2/3,409 5/12
+1120,images_1_2_(c)oguri,C,405 2/3,409 5/12
+1121,images_1_2_(c)oguri,D,405 2/3,409 5/12
+1122,images_1_2_(c)oguri,B-,411 1/4,412
+1123,images_1_2_(c)oguri,G#,412 1/2,414 3/4
+1124,images_1_2_(c)oguri,B,412 1/2,414 3/4
+1125,images_1_2_(c)oguri,B-,415 3/4,416 1/4
+1126,images_1_2_(c)oguri,B-,416 1/2,418 3/4
+1127,images_1_2_(c)oguri,G#,419 3/4,420 3/4
+1128,images_1_2_(c)oguri,G#,423 1/2,429 1/2
+1129,images_1_2_(c)oguri,G#,430 1/4,430 7/12
+1130,images_1_2_(c)oguri,C#,430 1/4,430 7/12
+1131,images_1_2_(c)oguri,F,431 3/4,432 1/4
+1132,images_1_2_(c)oguri,B,431 3/4,432 1/4
+1133,images_1_2_(c)oguri,D,431 3/4,432 1/4
+1134,images_1_2_(c)oguri,G#,433 1/2,434 1/4
+1135,images_1_2_(c)oguri,C,435 1/3,436 1/3
+1136,images_1_2_(c)oguri,F#,435 1/3,436 1/3
+1137,images_1_2_(c)oguri,B,437 2/3,438 2/3
+1138,images_1_2_(c)oguri,A,437 2/3,438 2/3
+1139,images_1_2_(c)oguri,B,437 2/3,438 2/3
+1140,images_1_2_(c)oguri,C#,437 2/3,438 2/3
+1141,images_1_2_(c)oguri,B,437 2/3,438 2/3
+1142,images_1_2_(c)oguri,F#,441,448
+1143,images_1_2_(c)oguri,C#,441,448
+1144,images_1_2_(c)oguri,F#,450 1/2,451
+1145,images_1_2_(c)oguri,E-,452 1/4,452 1/2
+1146,images_1_2_(c)oguri,G#,453 3/4,454 1/2
+1147,images_1_2_(c)oguri,G#,453 3/4,454 1/2
+1148,images_1_2_(c)oguri,E-,453 3/4,454 1/2
+1149,images_1_2_(c)oguri,E-,455 1/2,456 1/2
+1150,images_1_2_(c)oguri,C#,455 1/2,456 1/2
+1151,images_1_2_(c)oguri,B,457 1/2,458 1/2
+1152,images_1_2_(c)oguri,C#,457 1/2,458 1/2
+1153,images_1_2_(c)oguri,A,457 1/2,458 1/2
+1154,images_1_2_(c)oguri,B,457 1/2,458 1/2
+1155,images_1_2_(c)oguri,B,457 1/2,458 1/2
+1156,images_1_2_(c)oguri,B,459 1/2,459 3/4
+1157,images_1_2_(c)oguri,A,459 1/2,459 3/4
+1158,images_1_2_(c)oguri,F#,461 1/4,468 1/4
+1159,images_1_2_(c)oguri,C#,461 1/4,468 1/4
+1160,images_1_2_(c)oguri,F#,469 1/4,469 1/2
+1161,images_1_2_(c)oguri,A,470 3/4,474 1/12
+1162,images_1_2_(c)oguri,B,474 1/4,475
+1163,images_1_2_(c)oguri,D,474 1/4,475
+1164,images_1_2_(c)oguri,F#,475 3/4,476
+1165,images_1_2_(c)oguri,E,476 1/2,476 3/4
+1166,images_1_2_(c)oguri,B,477 1/2,478 1/2
+1167,images_1_2_(c)oguri,F#,477 1/2,478 1/2
+1168,images_1_2_(c)oguri,D,481,481 1/4
+1169,images_1_2_(c)oguri,B,481,481 1/4
+1170,images_1_2_(c)oguri,F,481,481 1/4
+1171,images_1_2_(c)oguri,F,481 1/4,482 1/2
+1172,images_1_2_(c)oguri,G#,485 1/3,488
+1173,images_1_2_(c)oguri,D,488 3/4,489 1/4
+1174,images_1_2_(c)oguri,A,493 1/3,493 7/12
+1175,images_1_2_(c)oguri,G#,493 1/3,493 7/12
+1176,images_1_2_(c)oguri,C,493 1/3,493 7/12
+1177,images_1_2_(c)oguri,E,493 1/3,493 7/12
+1178,images_1_2_(c)oguri,A,494,494 1/4
+1179,images_1_2_(c)oguri,D,494,494 1/4
+1180,images_1_2_(c)oguri,B,495,495 1/2
+1181,images_1_2_(c)oguri,E,495,495 1/2
+1182,images_1_2_(c)oguri,G#,495,495 1/2
+1183,images_1_2_(c)oguri,A,496 3/4,497
+1184,images_1_2_(c)oguri,A,496 3/4,497
+1185,images_1_2_(c)oguri,F#,498 2/3,498 11/12
+1186,images_1_2_(c)oguri,B,498 2/3,498 11/12
+1187,images_1_2_(c)oguri,D,498 2/3,498 11/12
+1188,images_1_2_(c)oguri,G#,499 1/3,499 7/12
+1189,images_1_2_(c)oguri,G#,499 1/3,499 7/12
+1190,images_1_2_(c)oguri,D,500 2/3,501 1/3
+1191,images_1_2_(c)oguri,C,501 1/3,501 5/6
+1192,images_1_2_(c)oguri,F#,501 1/3,501 5/6
+1193,images_1_2_(c)oguri,A,502 1/4,502 1/2
+1194,images_1_2_(c)oguri,E,503 1/3,503 7/12
+1195,images_1_2_(c)oguri,G#,504 1/4,504 3/4
+1196,images_1_2_(c)oguri,C,504 1/4,504 3/4
+1197,images_1_2_(c)oguri,E,504 1/4,504 3/4
+1198,images_1_2_(c)oguri,D,505 1/3,506
+1199,images_1_2_(c)oguri,A,506 1/4,506 1/2
+1200,images_1_2_(c)oguri,D,510 1/4,510 11/12
+1201,images_1_2_(c)oguri,G#,511,511 1/2
+1202,images_1_2_(c)oguri,A,511 1/2,511 3/4
+1203,images_1_2_(c)oguri,F#,512 1/4,512 1/2
+1204,images_1_2_(c)oguri,D,512 1/4,512 1/2
+1205,images_1_2_(c)oguri,B,512 1/4,512 1/2
+1206,images_1_2_(c)oguri,G#,513,513 3/4
+1207,images_1_2_(c)oguri,B,514 1/4,515
+1208,images_1_2_(c)oguri,D,514 1/4,515
+1209,images_1_2_(c)oguri,F#,514 1/4,515
+1210,images_1_2_(c)oguri,A,515,515 2/3
+1211,images_1_2_(c)oguri,G#,515 2/3,516 2/3
+1212,images_1_2_(c)oguri,B,517,517 1/3
+1213,images_1_2_(c)oguri,D,517,517 1/3
+1214,images_1_2_(c)oguri,G#,518 1/4,519 1/4
+1215,images_1_2_(c)oguri,F#,519 1/2,520
+1216,images_1_2_(c)oguri,B,519 1/2,520
+1217,images_1_2_(c)oguri,D,519 1/2,520
+1218,images_1_2_(c)oguri,G#,522,522 3/4
+1219,images_1_2_(c)oguri,C,522,522 3/4
+1220,images_1_2_(c)oguri,B-,523 1/4,523 11/12
+1221,images_1_2_(c)oguri,F#,523 1/4,523 11/12
+1222,images_1_2_(c)oguri,G#,525,525 2/3
+1223,images_1_2_(c)oguri,G#,527 2/3,528 1/3
+1224,images_1_2_(c)oguri,F,527 2/3,528 1/3
+1225,images_1_2_(c)oguri,C,527 2/3,528 1/3
+1226,images_1_2_(c)oguri,G#,530 2/3,530 11/12
+1227,images_1_2_(c)oguri,C,530 2/3,530 11/12
+1228,images_1_2_(c)oguri,A,531 3/4,534 1/4
+1229,images_1_2_(c)oguri,B,535 1/3,536 2/3
+1230,images_1_2_(c)oguri,C#,537,537 1/4
+1231,images_1_2_(c)oguri,C#,537,537 1/4
+1232,images_1_2_(c)oguri,F,538 1/4,538 1/2
+1233,images_1_2_(c)oguri,F,539 2/3,539 11/12
+1234,images_1_2_(c)oguri,B,539 2/3,539 11/12
+1235,images_1_2_(c)oguri,A,539 2/3,539 11/12
+1236,images_1_2_(c)oguri,A,539 2/3,539 11/12
+1237,images_1_2_(c)oguri,C#,539 2/3,539 11/12
+1238,images_1_2_(c)oguri,A,541 1/2,542
+1239,images_1_2_(c)oguri,C#,541 1/2,542
+1240,images_1_2_(c)oguri,F,541 1/2,542
+1241,images_1_2_(c)oguri,C#,541 1/2,542
+1242,images_1_2_(c)oguri,A,543,544
+1243,images_1_2_(c)oguri,A,543,544
+1244,images_1_2_(c)oguri,B,546 1/3,546 7/12
+1245,images_1_2_(c)oguri,G,546 1/3,546 7/12
+1246,images_1_2_(c)oguri,F,547,547 1/2
+1247,images_1_2_(c)oguri,E-,547 2/3,548
+1248,images_1_2_(c)oguri,B,548 1/4,548 1/2
+1249,images_1_2_(c)oguri,F,548 3/4,549
+1250,images_1_2_(c)oguri,A,548 3/4,549
+1251,images_1_2_(c)oguri,C#,549 1/2,550
+1252,images_1_2_(c)oguri,F,550 1/3,550 2/3
+1253,images_1_2_(c)oguri,E-,551 1/2,551 3/4
+1254,images_1_2_(c)oguri,C#,552,552 1/4
+1255,images_1_2_(c)oguri,A,552,552 1/4
+1256,images_1_2_(c)oguri,C#,552,552 1/4
+1257,images_1_2_(c)oguri,C#,553 3/4,554
+1258,images_1_2_(c)oguri,F,553 3/4,554
+1259,images_1_2_(c)oguri,G,553 3/4,554
+1260,images_1_2_(c)oguri,A,553 3/4,554
+1261,images_1_2_(c)oguri,G,553 3/4,554
+1262,images_1_2_(c)oguri,E-,554 1/2,554 3/4
+1263,images_1_2_(c)oguri,B,554 1/2,554 3/4
+1264,images_1_2_(c)oguri,A,557 1/2,558 1/2
+1265,images_1_2_(c)oguri,F,557 1/2,558 1/2
+1266,images_1_2_(c)oguri,G,557 1/2,558 1/2
+1267,images_1_2_(c)oguri,F,559 1/2,560 1/2
+1268,images_1_2_(c)oguri,D,559 1/2,560 1/2
+1269,images_1_2_(c)oguri,B-,562 3/4,563 3/4
+1270,images_1_2_(c)oguri,C#,562 3/4,563 3/4
+1271,images_1_2_(c)oguri,G#,562 3/4,563 3/4
+1272,images_1_2_(c)oguri,D,564,565 1/2
+1273,images_1_2_(c)oguri,G,564,565 1/2
+1274,images_1_2_(c)oguri,B,564,565 1/2
+1275,images_1_2_(c)oguri,E-,566 3/4,567
+1276,images_1_2_(c)oguri,D,567 1/4,569 1/4
+1277,images_1_2_(c)oguri,G,573 1/4,573 1/2
+1278,images_1_2_(c)oguri,F,574,574 1/4
+1279,images_1_2_(c)oguri,A,574 1/4,574 1/2
+1280,images_1_2_(c)oguri,D,574 1/2,574 5/6
+1281,images_1_2_(c)oguri,D,575,575 1/4
+1282,images_1_2_(c)oguri,A,575 1/4,575 1/2
+1283,images_1_2_(c)oguri,D,575 2/3,575 11/12
+1284,images_1_2_(c)oguri,F,577 3/4,579 3/4
+1285,images_1_2_(c)oguri,F,577 3/4,579 3/4
+1286,images_1_2_(c)oguri,D,577 3/4,579 3/4
+1287,images_1_2_(c)oguri,C#,581 1/4,582
+1288,images_1_2_(c)oguri,E,581 1/4,582
+1289,images_1_2_(c)oguri,D,582 1/2,584
+1290,images_1_2_(c)oguri,B,582 1/2,584
+1291,images_1_2_(c)oguri,F,585 1/4,585 7/12
+1292,images_1_2_(c)oguri,E-,585 1/4,585 7/12
+1293,images_1_2_(c)oguri,C,585 3/4,588 1/4
+1294,images_1_2_(c)oguri,D,589 1/4,590 1/4
+1295,images_1_2_(c)oguri,D,590 1/4,590 1/2
+1296,images_1_2_(c)oguri,D,591 1/2,592 3/4
+1297,images_1_2_(c)oguri,E,593 1/2,593 5/6
+1298,images_1_2_(c)oguri,E-,594 1/4,594 1/2
+1299,images_1_2_(c)oguri,G,594 1/2,596 1/2
+1300,images_1_2_(c)oguri,C,599 3/4,601 5/12
+1301,images_1_2_(c)oguri,B,603 1/4,608
+1302,images_1_2_(c)oguri,E,603 1/4,608
+1303,images_1_2_(c)oguri,B,603 1/4,608
+1304,images_1_2_(c)oguri,C,603 1/4,608
+1305,images_1_2_(c)oguri,F#,611 2/3,613 1/6
+1306,images_1_2_(c)oguri,E-,615,615 1/3
+1307,images_1_2_(c)oguri,E-,615 2/3,623 1/3
+1308,images_1_2_(c)oguri,E-,624 1/4,625
+1309,images_1_2_(c)oguri,E-,625 1/3,626 1/3
+1310,images_1_2_(c)oguri,F#,626 2/3,627 1/3
+1311,images_1_2_(c)oguri,G#,627 1/3,627 5/6
+1312,images_1_2_(c)oguri,B,628 1/2,628 3/4
+1313,images_1_2_(c)oguri,B-,629 1/4,632 1/2
+1314,images_1_2_(c)oguri,E-,632 1/2,635 1/4
+1315,images_1_2_(c)oguri,E-,636,636 2/3
+1316,images_1_2_(c)oguri,C#,640 1/2,641 1/2
+1317,images_1_2_(c)oguri,G,640 1/2,641 1/2
+1318,images_1_2_(c)oguri,C,642 1/4,644 7/12
+1319,images_1_2_(c)oguri,G#,642 1/4,644 7/12
+1320,images_1_2_(c)oguri,F#,642 1/4,644 7/12
+1321,images_1_2_(c)oguri,G#,645 1/3,646
+1322,images_1_2_(c)oguri,G#,649 1/4,650 1/4
+1323,images_1_2_(c)oguri,B,649 1/4,650 1/4
+1324,images_1_2_(c)oguri,D,649 1/4,650 1/4
+1325,images_1_2_(c)oguri,C#,651,651 2/3
+1326,images_1_2_(c)oguri,B-,651 2/3,652 1/6
+1327,images_1_2_(c)oguri,G#,652 2/3,653 1/3
+1328,images_1_2_(c)oguri,F#,653 1/2,654 1/6
+1329,images_1_2_(c)oguri,G,656 1/4,659 7/12
+1330,images_1_2_(c)oguri,B,663 3/4,664 1/12
+1331,images_1_2_(c)oguri,C#,665 1/2,666 1/6
+1332,images_1_2_(c)oguri,A,665 1/2,666 1/6
+1333,images_1_2_(c)oguri,E,665 1/2,666 1/6
+1334,images_1_2_(c)oguri,F#,667,667 1/2
+1335,images_1_2_(c)oguri,E-,667,667 1/2
+1336,images_1_2_(c)oguri,B,668,668 1/3
+1337,images_1_2_(c)oguri,C#,668 1/2,669 1/4
+1338,images_1_2_(c)oguri,E,668 1/2,669 1/4
+1339,images_1_2_(c)oguri,A,668 1/2,669 1/4
+1340,images_1_2_(c)oguri,E,668 1/2,669 1/4
+1341,images_1_2_(c)oguri,G#,670 1/4,671 1/4
+1342,images_1_2_(c)oguri,G#,672 1/3,672 7/12
+1343,images_1_2_(c)oguri,E-,674 1/4,674 3/4
+1344,images_1_2_(c)oguri,E,675 1/2,676 1/4
+1345,images_1_2_(c)oguri,A,675 1/2,676 1/4
+1346,images_1_2_(c)oguri,E,675 1/2,676 1/4
+1347,images_1_2_(c)oguri,F#,675 1/2,676 1/4
+1348,images_1_2_(c)oguri,E-,676 1/3,676 2/3
+1349,images_1_2_(c)oguri,E-,677,677 1/3
+1350,images_1_2_(c)oguri,E-,677 2/3,678 1/3
+1351,images_1_2_(c)oguri,C#,678 2/3,679 5/12
+1352,images_1_2_(c)oguri,E,678 2/3,679 5/12
+1353,images_1_2_(c)oguri,E,678 2/3,679 5/12
+1354,images_1_2_(c)oguri,E-,679 1/2,679 5/6
+1355,images_1_2_(c)oguri,G#,680 1/2,681 1/4
+1356,images_1_2_(c)oguri,E-,680 1/2,681 1/4
+1357,images_1_2_(c)oguri,B,680 1/2,681 1/4
+1358,images_1_2_(c)oguri,G#,682 1/2,683 1/6
+1359,images_1_2_(c)oguri,G#,684 3/4,686
+1360,images_1_2_(c)oguri,E,684 3/4,686
+1361,images_1_2_(c)oguri,A,686 1/3,687 7/12
+1362,images_1_2_(c)oguri,B,686 1/3,687 7/12
+1363,images_1_2_(c)oguri,E,688,690 2/3
+1364,images_1_2_(c)oguri,E-,691 1/3,692 5/6
+1365,images_1_2_(c)oguri,C#,693,694
+1366,images_1_2_(c)oguri,B,694 2/3,695 2/3
+1367,images_1_2_(c)oguri,B-,696 2/3,697 2/3
+1368,images_1_2_(c)oguri,B-,696 2/3,697 2/3
+1369,images_1_2_(c)oguri,F,696 2/3,697 2/3
+1370,images_1_2_(c)oguri,D,696 2/3,697 2/3
+1371,images_1_2_(c)oguri,G#,698 3/4,700 1/12
+1372,images_1_2_(c)oguri,G#,698 3/4,700 1/12
+1373,images_1_2_(c)oguri,B-,701 3/4,708 1/2
+1374,images_1_2_(c)oguri,E-,710,710 1/2
+1375,images_1_2_(c)oguri,G#,712 1/4,713 1/4
+1376,images_1_2_(c)oguri,C#,715 1/3,718 1/3
+1377,images_1_2_(c)oguri,G#,720,720 1/2
+1378,images_1_2_(c)oguri,B,725 1/4,726
+1379,images_1_2_(c)oguri,E-,725 1/4,726
+1380,images_1_2_(c)oguri,E,727 1/3,729 1/3
+1381,images_1_2_(c)oguri,B,729 1/2,733
+1382,images_1_2_(c)oguri,B-,735 1/4,737 11/12
+1383,images_1_2_(c)oguri,G#,739 1/3,741 2/3
+1384,images_1_2_(c)oguri,C#,739 1/3,741 2/3
+1385,images_1_2_(c)oguri,G#,743 1/4,743 7/12
+1386,images_1_2_(c)oguri,E,748 3/4,749 1/4
+1387,images_1_2_(c)oguri,F,750,750 2/3
+1388,images_1_2_(c)oguri,G#,751,759
+1389,images_1_2_(c)oguri,B-,760 1/3,761 1/12
+1390,images_1_2_(c)oguri,F#,760 1/3,761 1/12
+1391,images_1_2_(c)oguri,E-,760 1/3,761 1/12
+1392,images_1_2_(c)oguri,C,762,763
+1393,images_1_2_(c)oguri,E-,764 1/4,766
+1394,images_1_2_(c)oguri,G#,766,767 1/4
+1395,images_1_2_(c)oguri,B-,768 2/3,769 1/3
+1396,images_1_2_(c)oguri,G#,769 3/4,770
+1397,images_1_2_(c)oguri,F#,771 3/4,773 1/12
+1398,images_1_2_(c)oguri,E-,771 3/4,773 1/12
+1399,images_1_2_(c)oguri,C#,774,782 1/3
+1400,images_1_2_(c)oguri,E-,783 1/4,783 7/12
+1401,images_1_2_(c)oguri,F#,784,786 1/2
+1402,images_1_2_(c)oguri,G#,787 3/4,788 1/4
+1403,images_1_2_(c)oguri,E-,789,790 1/3
+1404,images_1_2_(c)oguri,E-,791 1/2,791 5/6
+1405,images_1_2_(c)oguri,F#,793 1/3,797 5/6
+1406,images_1_2_(c)oguri,B-,799 1/2,801 1/6
+1407,images_1_2_(c)oguri,E-,801 1/2,803 3/4
+1408,images_1_2_(c)oguri,E-,801 1/2,803 3/4
+1409,images_1_2_(c)oguri,B,805 2/3,810
+1410,images_1_2_(c)oguri,E-,810,813
+1411,images_1_2_(c)oguri,G#,815 1/4,817 1/4
+1412,images_1_2_(c)oguri,E-,817 3/4,818 1/2
+1413,images_1_2_(c)oguri,G#,820,820 3/4
+1414,images_1_2_(c)oguri,E-,822 1/4,822 7/12
+1415,images_1_2_(c)oguri,F,828,829 1/4
+1416,images_1_2_(c)oguri,E-,831 3/4,836 3/4
+1417,images_1_2_(c)oguri,E-,840 1/3,857
+1418,images_1_2_(c)oguri,G#,21 2/3,22 11/12
+1419,images_1_2_(c)oguri,B-,47,47 1/2
+1420,images_1_2_(c)oguri,B,58 3/4,59 5/12
+1421,images_1_2_(c)oguri,C#,60 1/2,61
+1422,images_1_2_(c)oguri,E,60 1/2,61
+1423,images_1_2_(c)oguri,F#,62 1/4,63
+1424,images_1_2_(c)oguri,E-,62 1/4,63
+1425,images_1_2_(c)oguri,B,62 1/4,63
+1426,images_1_2_(c)oguri,E-,62 1/4,63
+1427,images_1_2_(c)oguri,B,62 1/4,63
+1428,images_1_2_(c)oguri,E,64,65
+1429,images_1_2_(c)oguri,C#,64,65
+1430,images_1_2_(c)oguri,G#,66,68 2/3
+1431,images_1_2_(c)oguri,B,66,68 2/3
+1432,images_1_2_(c)oguri,B,70,70 2/3
+1433,images_1_2_(c)oguri,E,71 2/3,72 1/3
+1434,images_1_2_(c)oguri,B,73 1/4,74 1/2
+1435,images_1_2_(c)oguri,E-,76 3/4,77 3/4
+1436,images_1_2_(c)oguri,E-,81,81 2/3
+1437,images_1_2_(c)oguri,C#,81 2/3,82 5/12
+1438,images_1_2_(c)oguri,A,82 3/4,84
+1439,images_1_2_(c)oguri,G#,84 1/2,85 1/6
+1440,images_1_2_(c)oguri,F#,85 1/4,85 3/4
+1441,images_1_2_(c)oguri,E,86 1/2,88 1/2
+1442,images_1_2_(c)oguri,E-,90,91 3/4
+1443,images_1_2_(c)oguri,G#,90,91 3/4
+1444,images_1_2_(c)oguri,C#,92 1/3,93
+1445,images_1_2_(c)oguri,G#,93 3/4,94 5/12
+1446,images_1_2_(c)oguri,E-,96,97 1/4
+1447,images_1_2_(c)oguri,G,98 2/3,108 2/3
+1448,images_1_2_(c)oguri,E-,113 1/3,115 1/3
+1449,images_1_2_(c)oguri,C#,115 1/3,119 7/12
+1450,images_1_2_(c)oguri,E-,121 3/4,122 3/4
+1451,images_1_2_(c)oguri,E-,121 3/4,122 3/4
+1452,images_1_2_(c)oguri,E,125 1/2,131 3/4
+1453,images_1_2_(c)oguri,E-,133,135 3/4
+1454,images_1_2_(c)oguri,F#,133,135 3/4
+1455,images_1_2_(c)oguri,E-,133,135 3/4
+1456,images_1_2_(c)oguri,C#,137 1/4,139 1/2
+1457,images_1_2_(c)oguri,G#,140 1/2,141 1/6
+1458,images_1_2_(c)oguri,F#,141 2/3,142 1/6
+1459,images_1_2_(c)oguri,B-,143 3/4,145 1/4
+1460,images_1_2_(c)oguri,E-,145 1/3,147 1/3
+1461,images_1_2_(c)oguri,C#,149 1/3,149 5/6
+1462,images_1_2_(c)oguri,B-,150,150 1/2
+1463,images_1_2_(c)oguri,B-,150,150 1/2
+1464,images_1_2_(c)oguri,B,150 1/2,151
+1465,images_1_2_(c)oguri,B-,154 1/4,156 1/4
+1466,images_1_2_(c)oguri,E,156 1/4,157 1/4
+1467,images_1_2_(c)oguri,A,156 1/4,157 1/4
+1468,images_1_2_(c)oguri,A,156 1/4,157 1/4
+1469,images_1_2_(c)oguri,A,159 1/4,160 1/2
+1470,images_1_2_(c)oguri,B,162,162 3/4
+1471,images_1_2_(c)oguri,G#,163,163 1/4
+1472,images_1_2_(c)oguri,E,163,163 1/4
+1473,images_1_2_(c)oguri,E,163 2/3,163 11/12
+1474,images_1_2_(c)oguri,D,164 2/3,164 11/12
+1475,images_1_2_(c)oguri,F#,165 1/2,165 3/4
+1476,images_1_2_(c)oguri,D,165 1/2,165 3/4
+1477,images_1_2_(c)oguri,G#,169 1/2,169 5/6
+1478,images_1_2_(c)oguri,E,169 1/2,169 5/6
+1479,images_1_2_(c)oguri,C#,170 1/4,170 1/2
+1480,images_1_2_(c)oguri,E,170 1/4,170 1/2
+1481,images_1_2_(c)oguri,C#,172 2/3,173 1/6
+1482,images_1_2_(c)oguri,D,173 1/4,173 3/4
+1483,images_1_2_(c)oguri,A,174 1/4,175 1/4
+1484,images_1_2_(c)oguri,B,176,176 3/4
+1485,images_1_2_(c)oguri,G,176,176 3/4
+1486,images_1_2_(c)oguri,A,180 1/2,180 5/6
+1487,images_1_2_(c)oguri,A,182 1/4,182 3/4
+1488,images_1_2_(c)oguri,A,183 2/3,184 5/12
+1489,images_1_2_(c)oguri,B,183 2/3,184 5/12
+1490,images_1_2_(c)oguri,B-,185 2/3,188 5/12
+1491,images_1_2_(c)oguri,C#,189,192
+1492,images_1_2_(c)oguri,C#,189,192
+1493,images_1_2_(c)oguri,C#,192 2/3,193 2/3
+1494,images_1_2_(c)oguri,C#,192 2/3,193 2/3
+1495,images_1_2_(c)oguri,B-,194 1/4,195
+1496,images_1_2_(c)oguri,E-,194 1/4,195
+1497,images_1_2_(c)oguri,G,194 1/4,195
+1498,images_1_2_(c)oguri,G,196 1/3,200 1/3
+1499,images_1_2_(c)oguri,G,196 1/3,200 1/3
+1500,images_1_2_(c)oguri,G#,201 1/3,201 5/6
+1501,images_1_2_(c)oguri,F#,201 1/3,201 5/6
+1502,images_1_2_(c)oguri,E,202,202 1/2
+1503,images_1_2_(c)oguri,B,203,204
+1504,images_1_2_(c)oguri,E-,204 2/3,205 2/3
+1505,images_1_2_(c)oguri,B-,204 2/3,205 2/3
+1506,images_1_2_(c)oguri,C#,206 3/4,207 3/4
+1507,images_1_2_(c)oguri,F#,209,209 1/2
+1508,images_1_2_(c)oguri,G#,210,210 1/4
+1509,images_1_2_(c)oguri,G#,210 3/4,213
+1510,images_1_2_(c)oguri,E,214,215
+1511,images_1_2_(c)oguri,E,216,216 1/3
+1512,images_1_2_(c)oguri,G#,217 1/4,218 1/4
+1513,images_1_2_(c)oguri,A,219,220 2/3
+1514,images_1_2_(c)oguri,E,221 1/3,224 1/3
+1515,images_1_2_(c)oguri,C#,221 1/3,224 1/3
+1516,images_1_2_(c)oguri,A,221 1/3,224 1/3
+1517,images_1_2_(c)oguri,E,221 1/3,224 1/3
+1518,images_1_2_(c)oguri,C#,221 1/3,224 1/3
+1519,images_1_2_(c)oguri,A,225,225 3/4
+1520,images_1_2_(c)oguri,E-,226,226 1/4
+1521,images_1_2_(c)oguri,F#,228 1/4,228 7/12
+1522,images_1_2_(c)oguri,B,228 3/4,229
+1523,images_1_2_(c)oguri,E-,230 1/4,230 3/4
+1524,images_1_2_(c)oguri,E-,230 1/4,230 3/4
+1525,images_1_2_(c)oguri,A,231 1/4,231 3/4
+1526,images_1_2_(c)oguri,E,231 1/4,231 3/4
+1527,images_1_2_(c)oguri,E,231 1/4,231 3/4
+1528,images_1_2_(c)oguri,C#,231 1/4,231 3/4
+1529,images_1_2_(c)oguri,A,231 1/4,231 3/4
+1530,images_1_2_(c)oguri,E,232 1/4,232 11/12
+1531,images_1_2_(c)oguri,A,237,237 1/2
+1532,images_1_2_(c)oguri,E,237,237 1/2
+1533,images_1_2_(c)oguri,C#,237,237 1/2
+1534,images_1_2_(c)oguri,G#,239,239 1/2
+1535,images_1_2_(c)oguri,D,239 2/3,239 11/12
+1536,images_1_2_(c)oguri,B,239 2/3,239 11/12
+1537,images_1_2_(c)oguri,D,239 2/3,239 11/12
+1538,images_1_2_(c)oguri,B-,240 1/3,240 5/6
+1539,images_1_2_(c)oguri,G#,241 1/3,241 7/12
+1540,images_1_2_(c)oguri,E-,242 1/2,243
+1541,images_1_2_(c)oguri,F#,243 1/2,243 3/4
+1542,images_1_2_(c)oguri,D,243 1/2,243 3/4
+1543,images_1_2_(c)oguri,E,244,244 1/4
+1544,images_1_2_(c)oguri,A,244,244 1/4
+1545,images_1_2_(c)oguri,D,244 1/4,244 3/4
+1546,images_1_2_(c)oguri,G#,251 2/3,251 11/12
+1547,images_1_2_(c)oguri,C#,253 1/3,253 7/12
+1548,images_1_2_(c)oguri,F,253 1/3,253 7/12
+1549,images_1_2_(c)oguri,G#,253 1/3,253 7/12
+1550,images_1_2_(c)oguri,G#,253 1/3,253 7/12
+1551,images_1_2_(c)oguri,B,254 1/4,254 1/2
+1552,images_1_2_(c)oguri,F#,254 1/4,254 1/2
+1553,images_1_2_(c)oguri,B,254 1/4,254 1/2
+1554,images_1_2_(c)oguri,F#,255,255 1/4
+1555,images_1_2_(c)oguri,A,256 3/4,257
+1556,images_1_2_(c)oguri,A,256 3/4,257
+1557,images_1_2_(c)oguri,G#,260 1/2,261 1/4
+1558,images_1_2_(c)oguri,B,262 2/3,263 11/12
+1559,images_1_2_(c)oguri,G#,266,280 1/3
+1560,images_1_2_(c)oguri,F#,282 3/4,285 5/12
+1561,images_1_2_(c)oguri,E-,288,293 1/3
+1562,images_1_2_(c)oguri,A,303 3/4,304 1/2
+1563,images_1_2_(c)oguri,A,303 3/4,304 1/2
+1564,images_1_2_(c)oguri,E-,304 1/2,305
+1565,images_1_2_(c)oguri,E,305 3/4,307
+1566,images_1_2_(c)oguri,C#,307 3/4,309 1/2
+1567,images_1_2_(c)oguri,C#,310 1/3,312 7/12
+1568,images_1_2_(c)oguri,C#,314 1/4,318 3/4
+1569,images_1_2_(c)oguri,E-,321 1/4,322 1/4
+1570,images_1_2_(c)oguri,E-,321 1/4,322 1/4
+1571,images_1_2_(c)oguri,F#,326 1/2,327 1/2
+1572,images_1_2_(c)oguri,G#,328 1/3,329 1/3
+1573,images_1_2_(c)oguri,E-,333 1/4,335
+1574,images_1_2_(c)oguri,B-,335 2/3,336 1/3
+1575,images_1_2_(c)oguri,E-,337,339
+1576,images_1_2_(c)oguri,B-,340 2/3,343
+1577,images_1_2_(c)oguri,G#,348,354
+1578,images_1_2_(c)oguri,G#,361 1/3,365 1/12
+1579,images_1_2_(c)oguri,D,367,368 1/2
+1580,images_1_2_(c)oguri,C#,368 2/3,370 5/12
+1581,images_1_2_(c)oguri,G,372 1/3,372 5/6
+1582,images_1_2_(c)oguri,B-,373,379 3/4
+1583,images_1_2_(c)oguri,E-,386 1/2,391 1/4
+1584,images_1_2_(c)oguri,C#,396,398 1/3
+1585,images_1_2_(c)oguri,C#,399,400 2/3
+1586,images_1_2_(c)oguri,F,401 3/4,403 5/12
+1587,images_1_2_(c)oguri,C#,401 3/4,403 5/12
+1588,images_1_2_(c)oguri,F,403 1/2,403 3/4
+1589,images_1_2_(c)oguri,B-,405 2/3,408
+1590,images_1_2_(c)oguri,G#,405 2/3,408
+1591,images_1_2_(c)oguri,G#,409 1/3,409 7/12
+1592,images_1_2_(c)oguri,G#,409 1/3,409 7/12
+1593,images_1_2_(c)oguri,G,411 1/4,412
+1594,images_1_2_(c)oguri,E,411 1/4,412
+1595,images_1_2_(c)oguri,G#,413,414 1/4
+1596,images_1_2_(c)oguri,D,415 3/4,416 1/4
+1597,images_1_2_(c)oguri,C,416 2/3,421 5/12
+1598,images_1_2_(c)oguri,C,426 3/4,427 1/12
+1599,images_1_2_(c)oguri,F#,428 1/3,429 1/3
+1600,images_1_2_(c)oguri,E-,429 1/3,429 7/12
+1601,images_1_2_(c)oguri,E-,429 1/3,429 7/12
+1602,images_1_2_(c)oguri,F#,430 1/4,430 3/4
+1603,images_1_2_(c)oguri,D,431 3/4,432 5/12
+1604,images_1_2_(c)oguri,F,431 3/4,432 5/12
+1605,images_1_2_(c)oguri,G#,433 1/2,434 1/2
+1606,images_1_2_(c)oguri,F#,435 1/3,436 7/12
+1607,images_1_2_(c)oguri,F#,435 1/3,436 7/12
+1608,images_1_2_(c)oguri,A,441 1/4,448 1/4
+1609,images_1_2_(c)oguri,B,441 1/4,448 1/4
+1610,images_1_2_(c)oguri,C#,450 1/2,450 5/6
+1611,images_1_2_(c)oguri,A,461 1/4,468
+1612,images_1_2_(c)oguri,B,461 1/4,468
+1613,images_1_2_(c)oguri,C#,461 1/4,468
+1614,images_1_2_(c)oguri,C#,470 3/4,471 3/4
+1615,images_1_2_(c)oguri,G,474 1/4,475 11/12
+1616,images_1_2_(c)oguri,B,477 1/2,478 1/6
+1617,images_1_2_(c)oguri,D,485 1/3,486 1/3
+1618,images_1_2_(c)oguri,A,487 1/3,487 5/6
+1619,images_1_2_(c)oguri,F#,488 3/4,489 5/12
+1620,images_1_2_(c)oguri,B,495,495 1/2
+1621,images_1_2_(c)oguri,G#,496 3/4,498
+1622,images_1_2_(c)oguri,E,499 1/3,499 7/12
+1623,images_1_2_(c)oguri,D,500 2/3,501 1/6
+1624,images_1_2_(c)oguri,G#,500 2/3,501 1/6
+1625,images_1_2_(c)oguri,G#,501 1/2,501 3/4
+1626,images_1_2_(c)oguri,D,504 1/4,505 1/4
+1627,images_1_2_(c)oguri,G#,513,513 2/3
+1628,images_1_2_(c)oguri,C,513,513 2/3
+1629,images_1_2_(c)oguri,E,513,513 2/3
+1630,images_1_2_(c)oguri,A,515,515 1/2
+1631,images_1_2_(c)oguri,C,515 2/3,516 5/12
+1632,images_1_2_(c)oguri,F#,517,517 1/3
+1633,images_1_2_(c)oguri,C,518 1/4,519
+1634,images_1_2_(c)oguri,G#,522,523
+1635,images_1_2_(c)oguri,G#,525,525 3/4
+1636,images_1_2_(c)oguri,G#,527 2/3,528 5/12
+1637,images_1_2_(c)oguri,C#,531 3/4,532 3/4
+1638,images_1_2_(c)oguri,B,533 3/4,534 1/2
+1639,images_1_2_(c)oguri,G,535 1/3,536 1/3
+1640,images_1_2_(c)oguri,C#,541 1/2,542 1/6
+1641,images_1_2_(c)oguri,B,543,543 2/3
+1642,images_1_2_(c)oguri,F,547,547 1/4
+1643,images_1_2_(c)oguri,A,547,547 1/4
+1644,images_1_2_(c)oguri,G,549 1/2,549 3/4
+1645,images_1_2_(c)oguri,B,557 2/3,558 2/3
+1646,images_1_2_(c)oguri,D,557 2/3,558 2/3
+1647,images_1_2_(c)oguri,A,557 2/3,558 2/3
+1648,images_1_2_(c)oguri,A,559 1/2,560 1/2
+1649,images_1_2_(c)oguri,E-,566 3/4,567
+1650,images_1_2_(c)oguri,F#,566 3/4,567
+1651,images_1_2_(c)oguri,B,566 3/4,567
+1652,images_1_2_(c)oguri,B,566 3/4,567
+1653,images_1_2_(c)oguri,C,566 3/4,567
+1654,images_1_2_(c)oguri,F,567 1/4,570 1/4
+1655,images_1_2_(c)oguri,A,567 1/4,570 1/4
+1656,images_1_2_(c)oguri,D,567 1/4,570 1/4
+1657,images_1_2_(c)oguri,F,574 2/3,574 11/12
+1658,images_1_2_(c)oguri,A,577 3/4,580 1/4
+1659,images_1_2_(c)oguri,E,581 1/4,581 11/12
+1660,images_1_2_(c)oguri,B-,581 1/4,581 11/12
+1661,images_1_2_(c)oguri,F,582 1/2,583 3/4
+1662,images_1_2_(c)oguri,B,582 1/2,583 3/4
+1663,images_1_2_(c)oguri,B,585 1/4,585 1/2
+1664,images_1_2_(c)oguri,C,585 1/4,585 1/2
+1665,images_1_2_(c)oguri,E,585 3/4,588 1/12
+1666,images_1_2_(c)oguri,A,592 1/3,593
+1667,images_1_2_(c)oguri,C,594 1/3,596 7/12
+1668,images_1_2_(c)oguri,E,594 1/3,596 7/12
+1669,images_1_2_(c)oguri,E,600 1/3,601 1/3
+1670,images_1_2_(c)oguri,C,603 1/4,606
+1671,images_1_2_(c)oguri,B,613,613 2/3
+1672,images_1_2_(c)oguri,B,615 1/4,626 1/4
+1673,images_1_2_(c)oguri,G#,627 1/4,627 11/12
+1674,images_1_2_(c)oguri,E-,629 1/4,631 3/4
+1675,images_1_2_(c)oguri,B-,634 1/3,639 7/12
+1676,images_1_2_(c)oguri,E,640 1/2,641 3/4
+1677,images_1_2_(c)oguri,E-,642 1/4,643 1/2
+1678,images_1_2_(c)oguri,E-,643 3/4,644 3/4
+1679,images_1_2_(c)oguri,C#,651,652
+1680,images_1_2_(c)oguri,G#,652 2/3,654 2/3
+1681,images_1_2_(c)oguri,F#,652 2/3,654 2/3
+1682,images_1_2_(c)oguri,E-,656 1/4,658 11/12
+1683,images_1_2_(c)oguri,B,663 3/4,664 5/12
+1684,images_1_2_(c)oguri,E-,663 3/4,664 5/12
+1685,images_1_2_(c)oguri,E,665 1/2,666
+1686,images_1_2_(c)oguri,A,668 1/2,669
+1687,images_1_2_(c)oguri,B,670 1/4,673 1/4
+1688,images_1_2_(c)oguri,G#,670 1/4,673 1/4
+1689,images_1_2_(c)oguri,G#,674 1/4,674 3/4
+1690,images_1_2_(c)oguri,B,674 1/4,674 3/4
+1691,images_1_2_(c)oguri,C#,675 2/3,676 2/3
+1692,images_1_2_(c)oguri,A,675 2/3,676 2/3
+1693,images_1_2_(c)oguri,B,677,677 1/2
+1694,images_1_2_(c)oguri,F#,677,677 1/2
+1695,images_1_2_(c)oguri,E-,677,677 1/2
+1696,images_1_2_(c)oguri,A,678 2/3,679 2/3
+1697,images_1_2_(c)oguri,G#,680 1/2,682 3/4
+1698,images_1_2_(c)oguri,B,680 1/2,682 3/4
+1699,images_1_2_(c)oguri,F#,684 3/4,686 1/12
+1700,images_1_2_(c)oguri,A,688,689
+1701,images_1_2_(c)oguri,C#,689 2/3,692
+1702,images_1_2_(c)oguri,B,692,692 2/3
+1703,images_1_2_(c)oguri,E-,693,694 3/4
+1704,images_1_2_(c)oguri,E,693,694 3/4
+1705,images_1_2_(c)oguri,C#,695 1/4,695 11/12
+1706,images_1_2_(c)oguri,G#,696 2/3,697 1/6
+1707,images_1_2_(c)oguri,G#,698 3/4,700 1/4
+1708,images_1_2_(c)oguri,C,698 3/4,700 1/4
+1709,images_1_2_(c)oguri,E-,702,708 3/4
+1710,images_1_2_(c)oguri,G#,715 1/3,718 1/12
+1711,images_1_2_(c)oguri,G#,720,720 1/4
+1712,images_1_2_(c)oguri,F#,725 1/4,726 1/4
+1713,images_1_2_(c)oguri,F#,725 1/4,726 1/4
+1714,images_1_2_(c)oguri,G#,727 1/3,732 5/6
+1715,images_1_2_(c)oguri,B-,735 1/3,738 1/3
+1716,images_1_2_(c)oguri,C#,739 1/3,741 5/6
+1717,images_1_2_(c)oguri,B,748 3/4,749 1/2
+1718,images_1_2_(c)oguri,G#,751,752
+1719,images_1_2_(c)oguri,E-,753,753 1/3
+1720,images_1_2_(c)oguri,G#,754 1/2,754 5/6
+1721,images_1_2_(c)oguri,E-,756 1/3,756 2/3
+1722,images_1_2_(c)oguri,E-,760 1/3,761 1/12
+1723,images_1_2_(c)oguri,C,762 1/2,763 1/6
+1724,images_1_2_(c)oguri,G#,771 3/4,773
+1725,images_1_2_(c)oguri,C#,774 2/3,778 1/6
+1726,images_1_2_(c)oguri,B-,783 1/2,786 3/4
+1727,images_1_2_(c)oguri,G#,787 3/4,788 1/12
+1728,images_1_2_(c)oguri,G#,789,791 1/3
+1729,images_1_2_(c)oguri,E-,793 1/3,798
+1730,images_1_2_(c)oguri,F,799 1/2,801 5/6
+1731,images_1_2_(c)oguri,F#,803 1/2,806
+1732,images_1_2_(c)oguri,B-,810 1/4,813 1/4
+1733,images_1_2_(c)oguri,C#,815 1/4,816 7/12
+1734,images_1_2_(c)oguri,G#,815 1/4,816 7/12
+1735,images_1_2_(c)oguri,E-,820,825 1/3
+1736,images_1_2_(c)oguri,B,820,825 1/3
+1737,images_1_2_(c)oguri,E-,832,837
+1738,images_1_2_(c)oguri,B,832,837
+1739,images_1_2_(c)oguri,G#,840 1/3,856 7/12
+1740,images_1_2_(c)oguri,G#,58 3/4,59
+1741,images_1_2_(c)oguri,C#,60 2/3,61 5/12
+1742,images_1_2_(c)oguri,A,60 2/3,61 5/12
+1743,images_1_2_(c)oguri,C#,64,64 3/4
+1744,images_1_2_(c)oguri,E-,66,67
+1745,images_1_2_(c)oguri,B,66,67
+1746,images_1_2_(c)oguri,G#,70 1/4,70 3/4
+1747,images_1_2_(c)oguri,C#,71 2/3,72 11/12
+1748,images_1_2_(c)oguri,F#,73 1/4,74
+1749,images_1_2_(c)oguri,G#,81,82 1/4
+1750,images_1_2_(c)oguri,E,81,82 1/4
+1751,images_1_2_(c)oguri,B,82 3/4,84
+1752,images_1_2_(c)oguri,C#,84 2/3,85 11/12
+1753,images_1_2_(c)oguri,E-,88 1/4,90
+1754,images_1_2_(c)oguri,E,90,91 1/2
+1755,images_1_2_(c)oguri,F,93 3/4,95
+1756,images_1_2_(c)oguri,E,125 1/2,131 1/2
+1757,images_1_2_(c)oguri,E,137 1/4,140 1/4
+1758,images_1_2_(c)oguri,E,137 1/4,140 1/4
+1759,images_1_2_(c)oguri,F#,141 2/3,142 1/6
+1760,images_1_2_(c)oguri,E-,145 1/3,146 1/12
+1761,images_1_2_(c)oguri,C#,147,148 1/4
+1762,images_1_2_(c)oguri,E,147,148 1/4
+1763,images_1_2_(c)oguri,B-,154 1/4,155 1/4
+1764,images_1_2_(c)oguri,E,156 1/3,157 1/3
+1765,images_1_2_(c)oguri,B,162,162 2/3
+1766,images_1_2_(c)oguri,F#,162 2/3,163 1/6
+1767,images_1_2_(c)oguri,E,163 3/4,164 1/2
+1768,images_1_2_(c)oguri,A,169 1/2,170 1/4
+1769,images_1_2_(c)oguri,B,173 1/4,173 1/2
+1770,images_1_2_(c)oguri,D,180 1/2,180 3/4
+1771,images_1_2_(c)oguri,B,183 3/4,184 3/4
+1772,images_1_2_(c)oguri,B-,185 2/3,188 5/12
+1773,images_1_2_(c)oguri,F#,190 3/4,191 1/4
+1774,images_1_2_(c)oguri,E-,194 1/4,195 1/4
+1775,images_1_2_(c)oguri,E-,194 1/4,195 1/4
+1776,images_1_2_(c)oguri,E-,194 1/4,195 1/4
+1777,images_1_2_(c)oguri,D,196 1/3,197
+1778,images_1_2_(c)oguri,C#,197 1/3,197 5/6
+1779,images_1_2_(c)oguri,E,197 1/3,197 5/6
+1780,images_1_2_(c)oguri,C#,198 1/4,200 7/12
+1781,images_1_2_(c)oguri,G#,201 1/3,201 7/12
+1782,images_1_2_(c)oguri,C#,202,202 1/3
+1783,images_1_2_(c)oguri,C#,203,203 3/4
+1784,images_1_2_(c)oguri,E-,206 3/4,207 1/4
+1785,images_1_2_(c)oguri,E,209,210 3/4
+1786,images_1_2_(c)oguri,C#,212 1/2,215 1/2
+1787,images_1_2_(c)oguri,C#,216,216 1/2
+1788,images_1_2_(c)oguri,A,217 2/3,218 1/6
+1789,images_1_2_(c)oguri,E,219,220 1/2
+1790,images_1_2_(c)oguri,A,221 1/3,223 7/12
+1791,images_1_2_(c)oguri,A,225,226
+1792,images_1_2_(c)oguri,B-,228 1/4,228 11/12
+1793,images_1_2_(c)oguri,A,232 1/4,236
+1794,images_1_2_(c)oguri,C#,232 1/4,236
+1795,images_1_2_(c)oguri,A,232 1/4,236
+1796,images_1_2_(c)oguri,C#,237 1/4,237 3/4
+1797,images_1_2_(c)oguri,E,237 1/4,237 3/4
+1798,images_1_2_(c)oguri,C#,240 1/3,240 2/3
+1799,images_1_2_(c)oguri,B-,240 1/3,240 2/3
+1800,images_1_2_(c)oguri,A,242 1/2,243
+1801,images_1_2_(c)oguri,F#,244 2/3,247 5/12
+1802,images_1_2_(c)oguri,D,244 2/3,247 5/12
+1803,images_1_2_(c)oguri,D,254 1/4,254 1/2
+1804,images_1_2_(c)oguri,C,254 1/4,254 1/2
+1805,images_1_2_(c)oguri,E,254 1/4,254 1/2
+1806,images_1_2_(c)oguri,D,260 1/2,261 1/2
+1807,images_1_2_(c)oguri,F,260 1/2,261 1/2
+1808,images_1_2_(c)oguri,G#,262 2/3,263 5/12
+1809,images_1_2_(c)oguri,G#,266,285 1/2
+1810,images_1_2_(c)oguri,E,303 3/4,304 5/12
+1811,images_1_2_(c)oguri,E,305 3/4,306 1/2
+1812,images_1_2_(c)oguri,C#,307 3/4,308 3/4
+1813,images_1_2_(c)oguri,F#,314 1/3,318 5/6
+1814,images_1_2_(c)oguri,C#,321 1/4,321 11/12
+1815,images_1_2_(c)oguri,F#,326 1/2,328 1/2
+1816,images_1_2_(c)oguri,C#,328 1/2,329 3/4
+1817,images_1_2_(c)oguri,C#,333 1/4,334
+1818,images_1_2_(c)oguri,B-,334,334 1/2
+1819,images_1_2_(c)oguri,B,334 1/2,335
+1820,images_1_2_(c)oguri,B-,337,339 1/2
+1821,images_1_2_(c)oguri,E-,340 3/4,354 1/12
+1822,images_1_2_(c)oguri,E-,361 1/3,365 1/3
+1823,images_1_2_(c)oguri,G#,368 2/3,373
+1824,images_1_2_(c)oguri,D,373,379 1/2
+1825,images_1_2_(c)oguri,C#,386 1/2,387 1/6
+1826,images_1_2_(c)oguri,B,389 1/3,389 7/12
+1827,images_1_2_(c)oguri,A,389 3/4,391 1/4
+1828,images_1_2_(c)oguri,A,396 1/4,399 1/4
+1829,images_1_2_(c)oguri,F,405 2/3,407 2/3
+1830,images_1_2_(c)oguri,E,411 1/4,411 11/12
+1831,images_1_2_(c)oguri,F,413,414 1/3
+1832,images_1_2_(c)oguri,G#,413,414 1/3
+1833,images_1_2_(c)oguri,D,415 3/4,416
+1834,images_1_2_(c)oguri,G,415 3/4,416
+1835,images_1_2_(c)oguri,D,415 3/4,416
+1836,images_1_2_(c)oguri,G#,416 2/3,421 11/12
+1837,images_1_2_(c)oguri,A,426 3/4,429 5/12
+1838,images_1_2_(c)oguri,B,431 3/4,432 1/2
+1839,images_1_2_(c)oguri,B,433 1/2,434 1/4
+1840,images_1_2_(c)oguri,A,435 1/3,436 1/3
+1841,images_1_2_(c)oguri,F#,442 1/2,443 1/4
+1842,images_1_2_(c)oguri,B,444,445
+1843,images_1_2_(c)oguri,F#,445 2/3,445 11/12
+1844,images_1_2_(c)oguri,F#,445 2/3,445 11/12
+1845,images_1_2_(c)oguri,C#,446 1/2,446 3/4
+1846,images_1_2_(c)oguri,C#,446 1/2,446 3/4
+1847,images_1_2_(c)oguri,B,447 1/4,448 1/2
+1848,images_1_2_(c)oguri,A,450 1/2,450 5/6
+1849,images_1_2_(c)oguri,B,450 1/2,450 5/6
+1850,images_1_2_(c)oguri,F#,462 2/3,462 11/12
+1851,images_1_2_(c)oguri,F#,462 2/3,462 11/12
+1852,images_1_2_(c)oguri,B,464 1/4,465
+1853,images_1_2_(c)oguri,F#,465 3/4,466
+1854,images_1_2_(c)oguri,F#,465 3/4,466
+1855,images_1_2_(c)oguri,C#,466 1/2,466 3/4
+1856,images_1_2_(c)oguri,C#,466 1/2,466 3/4
+1857,images_1_2_(c)oguri,B,467 1/3,469 5/6
+1858,images_1_2_(c)oguri,A,470 3/4,473 1/4
+1859,images_1_2_(c)oguri,G,474 1/4,475 3/4
+1860,images_1_2_(c)oguri,D,477 1/2,478 1/4
+1861,images_1_2_(c)oguri,G#,485 1/3,488 1/12
+1862,images_1_2_(c)oguri,F#,488 3/4,492 1/2
+1863,images_1_2_(c)oguri,C,488 3/4,492 1/2
+1864,images_1_2_(c)oguri,D,495,495 2/3
+1865,images_1_2_(c)oguri,G#,504 1/4,504 11/12
+1866,images_1_2_(c)oguri,D,513,513 3/4
+1867,images_1_2_(c)oguri,D,516 1/3,516 5/6
+1868,images_1_2_(c)oguri,E,518 1/4,518 1/2
+1869,images_1_2_(c)oguri,E,518 1/4,518 1/2
+1870,images_1_2_(c)oguri,D,518 3/4,519 5/12
+1871,images_1_2_(c)oguri,C,525,525 2/3
+1872,images_1_2_(c)oguri,F,525,525 2/3
+1873,images_1_2_(c)oguri,C#,531 3/4,532 3/4
+1874,images_1_2_(c)oguri,B,533 3/4,534 1/4
+1875,images_1_2_(c)oguri,F,535 1/3,535 5/6
+1876,images_1_2_(c)oguri,B,543 1/4,543 3/4
+1877,images_1_2_(c)oguri,C#,547,547 1/4
+1878,images_1_2_(c)oguri,C#,547,547 1/4
+1879,images_1_2_(c)oguri,C#,549 1/2,549 5/6
+1880,images_1_2_(c)oguri,A,559 1/2,562 1/6
+1881,images_1_2_(c)oguri,B,559 1/2,562 1/6
+1882,images_1_2_(c)oguri,A,567 1/4,570 1/4
+1883,images_1_2_(c)oguri,A,574 3/4,575
+1884,images_1_2_(c)oguri,B,577 3/4,580 1/12
+1885,images_1_2_(c)oguri,F#,585 3/4,588 5/12
+1886,images_1_2_(c)oguri,E,594 1/2,599 1/4
+1887,images_1_2_(c)oguri,B,594 1/2,599 1/4
+1888,images_1_2_(c)oguri,C,594 1/2,599 1/4
+1889,images_1_2_(c)oguri,G,600 3/4,601 1/4
+1890,images_1_2_(c)oguri,E,603 1/4,605 11/12
+1891,images_1_2_(c)oguri,F#,615 2/3,616 11/12
+1892,images_1_2_(c)oguri,G#,617 2/3,618 2/3
+1893,images_1_2_(c)oguri,F#,619 1/3,624 1/3
+1894,images_1_2_(c)oguri,F,627 1/4,628 1/4
+1895,images_1_2_(c)oguri,C#,630 3/4,633 1/4
+1896,images_1_2_(c)oguri,B-,642 3/4,643 1/4
+1897,images_1_2_(c)oguri,E-,643 3/4,645 1/2
+1898,images_1_2_(c)oguri,E,651 1/4,652 1/4
+1899,images_1_2_(c)oguri,C,652 2/3,654 1/3
+1900,images_1_2_(c)oguri,B-,656 1/4,659
+1901,images_1_2_(c)oguri,G#,663 3/4,664 1/12
+1902,images_1_2_(c)oguri,A,665 2/3,666 1/6
+1903,images_1_2_(c)oguri,E-,670 1/4,670 11/12
+1904,images_1_2_(c)oguri,B,677,678
+1905,images_1_2_(c)oguri,E-,680 1/2,681 1/2
+1906,images_1_2_(c)oguri,B-,684 3/4,685 3/4
+1907,images_1_2_(c)oguri,E-,685 3/4,686 5/12
+1908,images_1_2_(c)oguri,A,688,689
+1909,images_1_2_(c)oguri,C#,688,689
+1910,images_1_2_(c)oguri,F#,689 2/3,692 5/12
+1911,images_1_2_(c)oguri,G#,689 2/3,692 5/12
+1912,images_1_2_(c)oguri,G#,693,695
+1913,images_1_2_(c)oguri,E-,702,709
+1914,images_1_2_(c)oguri,F,715 1/2,718 1/6
+1915,images_1_2_(c)oguri,C#,715 1/2,718 1/6
+1916,images_1_2_(c)oguri,E-,725 1/4,726 1/2
+1917,images_1_2_(c)oguri,E,727 1/3,729 1/3
+1918,images_1_2_(c)oguri,F#,730 1/3,730 5/6
+1919,images_1_2_(c)oguri,E,731 1/3,733 1/12
+1920,images_1_2_(c)oguri,F,735 1/3,737 5/6
+1921,images_1_2_(c)oguri,D,735 1/3,737 5/6
+1922,images_1_2_(c)oguri,F,739 1/3,741 1/3
+1923,images_1_2_(c)oguri,C#,739 1/3,741 1/3
+1924,images_1_2_(c)oguri,E,748 3/4,750
+1925,images_1_2_(c)oguri,C,751,759
+1926,images_1_2_(c)oguri,F#,760 1/3,761 1/3
+1927,images_1_2_(c)oguri,F,762 1/2,763 1/4
+1928,images_1_2_(c)oguri,G#,762 1/2,763 1/4
+1929,images_1_2_(c)oguri,E-,771 3/4,773
+1930,images_1_2_(c)oguri,E-,771 3/4,773
+1931,images_1_2_(c)oguri,C#,774 3/4,782 1/2
+1932,images_1_2_(c)oguri,E-,784,785 3/4
+1933,images_1_2_(c)oguri,C#,786 1/3,788
+1934,images_1_2_(c)oguri,E-,789,791 1/2
+1935,images_1_2_(c)oguri,F#,793 1/3,798 1/12
+1936,images_1_2_(c)oguri,G#,801 1/2,803 1/2
+1937,images_1_2_(c)oguri,C#,803 1/2,805 5/6
+1938,images_1_2_(c)oguri,F,815 1/4,816 3/4
+1939,images_1_2_(c)oguri,F#,820,825 1/4
+1940,images_1_2_(c)oguri,G#,832,837
+1941,images_1_2_(c)oguri,E-,840 1/3,856 7/12
+1942,images_1_2_(c)oguri,A,64,65
+1943,images_1_2_(c)oguri,E-,66,67 1/4
+1944,images_1_2_(c)oguri,A,71 2/3,72 2/3
+1945,images_1_2_(c)oguri,E-,88 1/3,89 7/12
+1946,images_1_2_(c)oguri,B,126 2/3,127 1/6
+1947,images_1_2_(c)oguri,B-,127 1/4,129 1/4
+1948,images_1_2_(c)oguri,B-,139,139 2/3
+1949,images_1_2_(c)oguri,E,147 1/4,149 1/4
+1950,images_1_2_(c)oguri,A,163 3/4,164 3/4
+1951,images_1_2_(c)oguri,D,185 2/3,186 1/3
+1952,images_1_2_(c)oguri,C#,187 1/3,189 2/3
+1953,images_1_2_(c)oguri,F#,196 1/3,197 1/3
+1954,images_1_2_(c)oguri,E,198 1/4,200 3/4
+1955,images_1_2_(c)oguri,E-,201 1/2,201 5/6
+1956,images_1_2_(c)oguri,G#,203,203 3/4
+1957,images_1_2_(c)oguri,C#,206 3/4,208
+1958,images_1_2_(c)oguri,G#,209,211 3/4
+1959,images_1_2_(c)oguri,C#,212 1/2,214
+1960,images_1_2_(c)oguri,C#,214 1/4,215 1/4
+1961,images_1_2_(c)oguri,A,219,220 1/2
+1962,images_1_2_(c)oguri,C#,219,220 1/2
+1963,images_1_2_(c)oguri,C#,219,220 1/2
+1964,images_1_2_(c)oguri,E,225 1/4,229 11/12
+1965,images_1_2_(c)oguri,E,232 1/4,236 1/4
+1966,images_1_2_(c)oguri,G#,260 2/3,261 2/3
+1967,images_1_2_(c)oguri,D,262 2/3,263 11/12
+1968,images_1_2_(c)oguri,E,262 2/3,263 11/12
+1969,images_1_2_(c)oguri,C,266,279 1/2
+1970,images_1_2_(c)oguri,E,307 3/4,309
+1971,images_1_2_(c)oguri,B-,315,319
+1972,images_1_2_(c)oguri,B-,321 1/2,322 1/6
+1973,images_1_2_(c)oguri,E-,328 1/3,329 1/3
+1974,images_1_2_(c)oguri,B-,334,334 1/2
+1975,images_1_2_(c)oguri,A,368 3/4,370 1/4
+1976,images_1_2_(c)oguri,E,372 1/3,372 7/12
+1977,images_1_2_(c)oguri,G#,373 1/4,379 11/12
+1978,images_1_2_(c)oguri,A,386 1/2,390 5/6
+1979,images_1_2_(c)oguri,E-,399,401
+1980,images_1_2_(c)oguri,D,405 2/3,407 11/12
+1981,images_1_2_(c)oguri,B,413,414 1/4
+1982,images_1_2_(c)oguri,C,416 2/3,421
+1983,images_1_2_(c)oguri,D,416 2/3,421
+1984,images_1_2_(c)oguri,A,426 3/4,427
+1985,images_1_2_(c)oguri,F#,428 1/3,428 7/12
+1986,images_1_2_(c)oguri,F#,428 1/3,428 7/12
+1987,images_1_2_(c)oguri,A,433 1/2,434 1/2
+1988,images_1_2_(c)oguri,F#,442 2/3,443 5/12
+1989,images_1_2_(c)oguri,B,444,444 3/4
+1990,images_1_2_(c)oguri,B,447 1/3,448 1/3
+1991,images_1_2_(c)oguri,B,464 1/4,464 3/4
+1992,images_1_2_(c)oguri,B,467 1/3,469 5/6
+1993,images_1_2_(c)oguri,B,470 3/4,471 1/2
+1994,images_1_2_(c)oguri,D,477 1/2,478 3/4
+1995,images_1_2_(c)oguri,F#,477 1/2,478 3/4
+1996,images_1_2_(c)oguri,E,485 1/3,487 5/6
+1997,images_1_2_(c)oguri,D,489,492 2/3
+1998,images_1_2_(c)oguri,D,516 1/3,516 2/3
+1999,images_1_2_(c)oguri,F,535 1/3,535 2/3
+2000,images_1_2_(c)oguri,A,559 1/2,560 1/2
+2001,images_1_2_(c)oguri,B,559 1/2,560 1/2
+2002,images_1_2_(c)oguri,F,567 1/4,569 1/4
+2003,images_1_2_(c)oguri,A,577 3/4,579 1/2
+2004,images_1_2_(c)oguri,B,585 3/4,591
+2005,images_1_2_(c)oguri,C,585 3/4,591
+2006,images_1_2_(c)oguri,B,594 1/2,599 1/4
+2007,images_1_2_(c)oguri,E-,617 2/3,620 1/3
+2008,images_1_2_(c)oguri,E-,621 1/4,624 7/12
+2009,images_1_2_(c)oguri,D,627 1/4,628 1/2
+2010,images_1_2_(c)oguri,B-,653,653 2/3
+2011,images_1_2_(c)oguri,B-,658 1/4,660 11/12
+2012,images_1_2_(c)oguri,C#,665 2/3,666 1/6
+2013,images_1_2_(c)oguri,B,670 1/3,671 1/12
+2014,images_1_2_(c)oguri,F#,688 1/2,689
+2015,images_1_2_(c)oguri,E-,702,710 1/3
+2016,images_1_2_(c)oguri,G#,715 1/2,718 1/4
+2017,images_1_2_(c)oguri,C#,715 1/2,718 1/4
+2018,images_1_2_(c)oguri,B,725 1/4,726 1/4
+2019,images_1_2_(c)oguri,B,727 1/3,733 1/3
+2020,images_1_2_(c)oguri,B-,735 1/2,738
+2021,images_1_2_(c)oguri,F,735 1/2,738
+2022,images_1_2_(c)oguri,G#,739 1/3,741 2/3
+2023,images_1_2_(c)oguri,B,748 3/4,749 1/4
+2024,images_1_2_(c)oguri,C,751,751 3/4
+2025,images_1_2_(c)oguri,G#,760 1/3,761 1/12
+2026,images_1_2_(c)oguri,F#,772,773 1/4
+2027,images_1_2_(c)oguri,A,774 3/4,782 1/4
+2028,images_1_2_(c)oguri,E-,784 1/4,785 3/4
+2029,images_1_2_(c)oguri,G#,789 1/4,790 1/4
+2030,images_1_2_(c)oguri,B,793 1/3,797 5/6
+2031,images_1_2_(c)oguri,B,801 1/2,802 3/4
+2032,images_1_2_(c)oguri,B,805 2/3,810 1/6
+2033,images_1_2_(c)oguri,F,805 2/3,810 1/6
+2034,images_1_2_(c)oguri,G#,815 1/3,817 7/12
+2035,images_1_2_(c)oguri,F#,820,825 2/3
+2036,images_1_2_(c)oguri,G#,832,836 3/4
+2037,images_1_2_(c)oguri,B,840 1/2,856 3/4
+2038,images_1_2_(c)oguri,E,64,64 3/4
+2039,images_1_2_(c)oguri,B,126 3/4,127 5/12
+2040,images_1_2_(c)oguri,C#,129,131 1/2
+2041,images_1_2_(c)oguri,G#,206 3/4,208
+2042,images_1_2_(c)oguri,C#,209,211 2/3
+2043,images_1_2_(c)oguri,E-,212 1/2,213 1/4
+2044,images_1_2_(c)oguri,E-,266,281 1/4
+2045,images_1_2_(c)oguri,E-,315 1/3,319
+2046,images_1_2_(c)oguri,B-,329,329 1/3
+2047,images_1_2_(c)oguri,C#,372 1/3,372 2/3
+2048,images_1_2_(c)oguri,F,373 1/4,375 3/4
+2049,images_1_2_(c)oguri,A,386 1/2,388 1/4
+2050,images_1_2_(c)oguri,B,399,400 3/4
+2051,images_1_2_(c)oguri,F,405 2/3,408
+2052,images_1_2_(c)oguri,G#,416 2/3,418 5/12
+2053,images_1_2_(c)oguri,C,485 1/3,488
+2054,images_1_2_(c)oguri,D,535 1/2,537
+2055,images_1_2_(c)oguri,D,559 1/2,562 1/6
+2056,images_1_2_(c)oguri,A,577 3/4,579 1/2
+2057,images_1_2_(c)oguri,B,577 3/4,579 1/2
+2058,images_1_2_(c)oguri,E-,670 1/3,671 1/3
+2059,images_1_2_(c)oguri,B-,702,709 1/4
+2060,images_1_2_(c)oguri,B,727 1/3,728 2/3
+2061,images_1_2_(c)oguri,E,748 3/4,749 1/2
+2062,images_1_2_(c)oguri,F,751,751 3/4
+2063,images_1_2_(c)oguri,A,774 3/4,780 1/2
+2064,images_1_2_(c)oguri,B-,784 1/4,788 1/4
+2065,images_1_2_(c)oguri,B,789 1/4,790 1/2
+2066,images_1_2_(c)oguri,G#,793 1/2,793 5/6
+2067,images_1_2_(c)oguri,E-,795 1/2,795 5/6
+2068,images_1_2_(c)oguri,B-,796 1/3,796 5/6
+2069,images_1_2_(c)oguri,G#,797 1/4,797 11/12
+2070,images_1_2_(c)oguri,G#,805 2/3,810 1/6
+2071,images_1_2_(c)oguri,E-,832,836 1/2
+2072,images_1_2_(c)oguri,G#,840 1/2,857
+2073,images_1_2_(c)oguri,B,840 1/2,857
+2074,images_1_2_(c)oguri,B-,127 1/4,129 1/4
+2075,images_1_2_(c)oguri,E-,212 1/2,213 1/2
+2076,images_1_2_(c)oguri,E-,266,267 1/3
+2077,images_1_2_(c)oguri,G#,268,269 3/4
+2078,images_1_2_(c)oguri,F#,270 1/4,274
+2079,images_1_2_(c)oguri,E-,274 1/3,279 5/6
+2080,images_1_2_(c)oguri,G,702,708 2/3
+2081,images_1_2_(c)oguri,E,727 1/3,733 1/12
+2082,images_1_2_(c)oguri,G#,748 3/4,749 1/4
+2083,images_1_2_(c)oguri,G#,777,780 3/4
+2084,images_1_2_(c)oguri,B,789 1/4,791 1/2
+2085,images_1_2_(c)oguri,E-,840 1/2,857
+2086,images_1_2_(c)oguri,C#,129,133

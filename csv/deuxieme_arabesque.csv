@@ -1,0 +1,1810 @@
+﻿,score_name,pitch_name,pitch_onset,pitch_offset
+0,deuxieme_arabesque,E,0,1/4
+1,deuxieme_arabesque,F#,1/4,1/2
+2,deuxieme_arabesque,A,1/2,3/4
+3,deuxieme_arabesque,A,1,1 1/4
+4,deuxieme_arabesque,B,1 1/4,1 1/2
+5,deuxieme_arabesque,D,1 1/2,1 3/4
+6,deuxieme_arabesque,E,2,2 1/4
+7,deuxieme_arabesque,F#,2 1/4,2 1/2
+8,deuxieme_arabesque,A,2 1/2,2 3/4
+9,deuxieme_arabesque,A,3,3 1/4
+10,deuxieme_arabesque,B,3 1/4,3 1/2
+11,deuxieme_arabesque,D,3 1/2,3 3/4
+12,deuxieme_arabesque,E,4,4 1/4
+13,deuxieme_arabesque,F#,4 1/4,4 1/2
+14,deuxieme_arabesque,B,4 1/2,4 3/4
+15,deuxieme_arabesque,B,5,5 1/4
+16,deuxieme_arabesque,C,5 1/4,5 1/2
+17,deuxieme_arabesque,D,5 1/2,5 3/4
+18,deuxieme_arabesque,E,6,6 1/4
+19,deuxieme_arabesque,F#,6 1/4,6 1/2
+20,deuxieme_arabesque,B,6 1/2,6 3/4
+21,deuxieme_arabesque,B,7,7 1/4
+22,deuxieme_arabesque,C,7 1/4,7 1/2
+23,deuxieme_arabesque,D,7 1/2,7 3/4
+24,deuxieme_arabesque,E,8,8 1/4
+25,deuxieme_arabesque,F#,8 1/4,8 1/2
+26,deuxieme_arabesque,C,8 1/2,8 3/4
+27,deuxieme_arabesque,C,9,9 1/4
+28,deuxieme_arabesque,D,9 1/4,9 1/2
+29,deuxieme_arabesque,D,9 1/2,9 3/4
+30,deuxieme_arabesque,E,10,10 1/4
+31,deuxieme_arabesque,F#,10 1/4,10 1/2
+32,deuxieme_arabesque,C,10 1/2,10 3/4
+33,deuxieme_arabesque,C,11,11 1/4
+34,deuxieme_arabesque,D,11 1/4,11 1/2
+35,deuxieme_arabesque,D,11 1/2,11 3/4
+36,deuxieme_arabesque,E,12,12 1/4
+37,deuxieme_arabesque,F#,12 1/4,12 1/2
+38,deuxieme_arabesque,C,12 1/2,12 3/4
+39,deuxieme_arabesque,C,13,13 1/4
+40,deuxieme_arabesque,D,13 1/4,13 1/2
+41,deuxieme_arabesque,D,13 1/2,13 3/4
+42,deuxieme_arabesque,E,14,14 1/4
+43,deuxieme_arabesque,F#,14 1/4,14 1/2
+44,deuxieme_arabesque,C,14 1/2,14 3/4
+45,deuxieme_arabesque,C,15,15 1/4
+46,deuxieme_arabesque,D,15 1/4,15 1/2
+47,deuxieme_arabesque,D,15 1/2,15 3/4
+48,deuxieme_arabesque,E,16,16 1/4
+49,deuxieme_arabesque,F#,16 1/4,16 1/2
+50,deuxieme_arabesque,B,16 1/2,16 3/4
+51,deuxieme_arabesque,D,17,17 1/4
+52,deuxieme_arabesque,E,17 1/4,17 1/2
+53,deuxieme_arabesque,G,17 1/2,17 3/4
+54,deuxieme_arabesque,B,18,18 1/4
+55,deuxieme_arabesque,C,18 1/4,18 1/2
+56,deuxieme_arabesque,D,18 1/2,18 3/4
+57,deuxieme_arabesque,A,19,19 1/4
+58,deuxieme_arabesque,B,19 1/4,19 1/2
+59,deuxieme_arabesque,E,19 1/2,19 3/4
+60,deuxieme_arabesque,E,20,20 1/4
+61,deuxieme_arabesque,F#,20 1/4,20 1/2
+62,deuxieme_arabesque,B,20 1/2,20 3/4
+63,deuxieme_arabesque,D,21,21 1/4
+64,deuxieme_arabesque,E,21 1/4,21 1/2
+65,deuxieme_arabesque,G,21 1/2,21 3/4
+66,deuxieme_arabesque,B,22,22 1/4
+67,deuxieme_arabesque,C,22 1/4,22 1/2
+68,deuxieme_arabesque,D,22 1/2,22 3/4
+69,deuxieme_arabesque,A,23,23 1/4
+70,deuxieme_arabesque,B,23 1/4,23 1/2
+71,deuxieme_arabesque,E,23 1/2,23 3/4
+72,deuxieme_arabesque,G,24,24 1/4
+73,deuxieme_arabesque,A,24 1/4,24 1/2
+74,deuxieme_arabesque,D,24 1/2,24 3/4
+75,deuxieme_arabesque,E,25,25 1/4
+76,deuxieme_arabesque,G,25 1/3,25 7/12
+77,deuxieme_arabesque,B,25 2/3,25 11/12
+78,deuxieme_arabesque,G,26,26 1/4
+79,deuxieme_arabesque,A,26 1/4,26 1/2
+80,deuxieme_arabesque,D,26 1/2,26 3/4
+81,deuxieme_arabesque,E,27,27 1/4
+82,deuxieme_arabesque,G,27 1/3,27 7/12
+83,deuxieme_arabesque,B,27 2/3,27 11/12
+84,deuxieme_arabesque,A,28,28 1/4
+85,deuxieme_arabesque,B,28 1/4,28 1/2
+86,deuxieme_arabesque,E,28 1/2,28 3/4
+87,deuxieme_arabesque,A,29,29 1/2
+88,deuxieme_arabesque,C,29,29 1/2
+89,deuxieme_arabesque,E,29,29 1/2
+90,deuxieme_arabesque,D,29 1/2,30
+91,deuxieme_arabesque,D,30,30 1/2
+92,deuxieme_arabesque,D,30,30 1/2
+93,deuxieme_arabesque,F#,30,30 1/2
+94,deuxieme_arabesque,A,30 1/2,31
+95,deuxieme_arabesque,F#,31,31 1/4
+96,deuxieme_arabesque,D,31 1/2,31 3/4
+97,deuxieme_arabesque,E,32,32 1/4
+98,deuxieme_arabesque,F#,32 1/4,32 1/2
+99,deuxieme_arabesque,B,32 1/2,32 3/4
+100,deuxieme_arabesque,D,33,33 1/4
+101,deuxieme_arabesque,E,33 1/4,33 1/2
+102,deuxieme_arabesque,G,33 1/2,33 3/4
+103,deuxieme_arabesque,B,34,34 1/4
+104,deuxieme_arabesque,C,34 1/4,34 1/2
+105,deuxieme_arabesque,D,34 1/2,34 3/4
+106,deuxieme_arabesque,A,35,35 1/4
+107,deuxieme_arabesque,B,35 1/4,35 1/2
+108,deuxieme_arabesque,E,35 1/2,35 3/4
+109,deuxieme_arabesque,E,36,36 1/4
+110,deuxieme_arabesque,F#,36 1/4,36 1/2
+111,deuxieme_arabesque,B,36 1/2,36 3/4
+112,deuxieme_arabesque,D,37,37 1/4
+113,deuxieme_arabesque,E,37 1/4,37 1/2
+114,deuxieme_arabesque,G,37 1/2,37 3/4
+115,deuxieme_arabesque,B,38,38 1/4
+116,deuxieme_arabesque,C,38 1/4,38 1/2
+117,deuxieme_arabesque,D,38 1/2,38 3/4
+118,deuxieme_arabesque,A,39,39 1/4
+119,deuxieme_arabesque,B,39 1/4,39 1/2
+120,deuxieme_arabesque,E,39 1/2,39 3/4
+121,deuxieme_arabesque,G,40,40 1/4
+122,deuxieme_arabesque,A,40 1/4,40 1/2
+123,deuxieme_arabesque,D,40 1/2,40 3/4
+124,deuxieme_arabesque,E,41,41 1/4
+125,deuxieme_arabesque,G,41 1/3,41 7/12
+126,deuxieme_arabesque,B,41 2/3,41 11/12
+127,deuxieme_arabesque,E,42,42 1/2
+128,deuxieme_arabesque,A,42,42 1/2
+129,deuxieme_arabesque,G,44,44 1/4
+130,deuxieme_arabesque,A,44 1/4,44 1/2
+131,deuxieme_arabesque,D,44 1/2,44 3/4
+132,deuxieme_arabesque,E,45,45 1/4
+133,deuxieme_arabesque,G,45 1/3,45 7/12
+134,deuxieme_arabesque,B,45 2/3,45 11/12
+135,deuxieme_arabesque,E,46,46 1/2
+136,deuxieme_arabesque,A,46,46 1/2
+137,deuxieme_arabesque,A,48,48 1/4
+138,deuxieme_arabesque,B,48 1/4,48 1/2
+139,deuxieme_arabesque,F#,48 1/2,48 3/4
+140,deuxieme_arabesque,D,49,49 1/4
+141,deuxieme_arabesque,E,49 1/4,49 1/2
+142,deuxieme_arabesque,B,49 1/2,49 3/4
+143,deuxieme_arabesque,A,50,50 1/4
+144,deuxieme_arabesque,B,50 1/4,50 1/2
+145,deuxieme_arabesque,F#,50 1/2,50 3/4
+146,deuxieme_arabesque,D,51,51 1/4
+147,deuxieme_arabesque,E,51 1/4,51 1/2
+148,deuxieme_arabesque,B,51 1/2,51 3/4
+149,deuxieme_arabesque,A,52,52 1/4
+150,deuxieme_arabesque,D,52 1/2,52 3/4
+151,deuxieme_arabesque,B,53,53 1/4
+152,deuxieme_arabesque,C#,53 1/2,53 3/4
+153,deuxieme_arabesque,F#,53 1/2,53 3/4
+154,deuxieme_arabesque,A,54,54 1/2
+155,deuxieme_arabesque,D,54,54 1/2
+156,deuxieme_arabesque,G,56,56 1/4
+157,deuxieme_arabesque,A,56 1/4,56 1/2
+158,deuxieme_arabesque,E,56 1/2,56 3/4
+159,deuxieme_arabesque,C,57,58 1/2
+160,deuxieme_arabesque,F#,58 1/2,58 3/4
+161,deuxieme_arabesque,G,59,59 1/4
+162,deuxieme_arabesque,A,59 1/2,59 3/4
+163,deuxieme_arabesque,C,60,60 1/4
+164,deuxieme_arabesque,F#,60 1/4,60 1/2
+165,deuxieme_arabesque,C,60 1/2,60 3/4
+166,deuxieme_arabesque,D,61,61 1/4
+167,deuxieme_arabesque,E,61 1/2,61 3/4
+168,deuxieme_arabesque,B,62,62 1/2
+169,deuxieme_arabesque,D,62,62 1/2
+170,deuxieme_arabesque,F#,62,62 1/2
+171,deuxieme_arabesque,A,62 1/2,62 3/4
+172,deuxieme_arabesque,G,63,63 1/4
+173,deuxieme_arabesque,D,63 1/2,63 3/4
+174,deuxieme_arabesque,G,64,64 1/4
+175,deuxieme_arabesque,A,64 1/4,64 1/2
+176,deuxieme_arabesque,E,64 1/2,64 3/4
+177,deuxieme_arabesque,C,65,66 1/2
+178,deuxieme_arabesque,F#,66 1/2,66 3/4
+179,deuxieme_arabesque,G,67,67 1/4
+180,deuxieme_arabesque,A,67 1/2,67 3/4
+181,deuxieme_arabesque,C,68,68 1/2
+182,deuxieme_arabesque,C,68 1/2,68 3/4
+183,deuxieme_arabesque,D,69,69 1/4
+184,deuxieme_arabesque,E,69 1/2,69 3/4
+185,deuxieme_arabesque,B,70,70 1/2
+186,deuxieme_arabesque,D,70,70 1/2
+187,deuxieme_arabesque,F#,70,70 1/2
+188,deuxieme_arabesque,A,70 1/2,70 3/4
+189,deuxieme_arabesque,G,71,71 1/4
+190,deuxieme_arabesque,D,71 1/2,71 3/4
+191,deuxieme_arabesque,B,72,74
+192,deuxieme_arabesque,D,72,74
+193,deuxieme_arabesque,B,74,76
+194,deuxieme_arabesque,D,74,76
+195,deuxieme_arabesque,B,76,80
+196,deuxieme_arabesque,D,76,80
+197,deuxieme_arabesque,C#,80,82
+198,deuxieme_arabesque,E,80,82
+199,deuxieme_arabesque,C#,82,84
+200,deuxieme_arabesque,E,82,84
+201,deuxieme_arabesque,C#,84,86
+202,deuxieme_arabesque,E,84,86
+203,deuxieme_arabesque,E,87,88
+204,deuxieme_arabesque,D,88,88 1/4
+205,deuxieme_arabesque,E,88 1/4,88 1/2
+206,deuxieme_arabesque,B,88 1/2,88 3/4
+207,deuxieme_arabesque,G,89,89 1/4
+208,deuxieme_arabesque,A,89 1/4,89 1/2
+209,deuxieme_arabesque,E,89 1/2,89 3/4
+210,deuxieme_arabesque,D,90,90 1/4
+211,deuxieme_arabesque,E,90 1/4,90 1/2
+212,deuxieme_arabesque,B,90 1/2,90 3/4
+213,deuxieme_arabesque,G,91,91 1/4
+214,deuxieme_arabesque,A,91 1/4,91 1/2
+215,deuxieme_arabesque,E,91 1/2,91 3/4
+216,deuxieme_arabesque,D,92,92 1/4
+217,deuxieme_arabesque,E,92 1/4,92 1/2
+218,deuxieme_arabesque,B,92 1/2,92 3/4
+219,deuxieme_arabesque,G,93,93 1/4
+220,deuxieme_arabesque,A,93 1/4,93 1/2
+221,deuxieme_arabesque,E,93 1/2,93 3/4
+222,deuxieme_arabesque,D,94,94 1/4
+223,deuxieme_arabesque,E,94 1/4,94 1/2
+224,deuxieme_arabesque,B,94 1/2,94 3/4
+225,deuxieme_arabesque,G,95,95 1/4
+226,deuxieme_arabesque,A,95 1/4,95 1/2
+227,deuxieme_arabesque,E,95 1/2,95 3/4
+228,deuxieme_arabesque,D,96,96 1/4
+229,deuxieme_arabesque,E,96 1/4,96 1/2
+230,deuxieme_arabesque,B,96 1/2,96 3/4
+231,deuxieme_arabesque,D,98,98 1/4
+232,deuxieme_arabesque,E,98 1/4,98 1/2
+233,deuxieme_arabesque,B,98 1/2,98 3/4
+234,deuxieme_arabesque,D,102,102 1/4
+235,deuxieme_arabesque,E,102 1/2,102 3/4
+236,deuxieme_arabesque,G,103,103 1/4
+237,deuxieme_arabesque,B,103 1/2,103 3/4
+238,deuxieme_arabesque,D,104,104 1/2
+239,deuxieme_arabesque,D,106,106 1/2
+240,deuxieme_arabesque,G,108,108 1/2
+241,deuxieme_arabesque,B,108,108 1/2
+242,deuxieme_arabesque,D,108,108 1/2
+243,deuxieme_arabesque,G,108,108 1/2
+244,deuxieme_arabesque,F#,108 1/2,108 3/4
+245,deuxieme_arabesque,F#,108 3/4,109
+246,deuxieme_arabesque,E,109,109 1/2
+247,deuxieme_arabesque,D,109 1/2,109 3/4
+248,deuxieme_arabesque,D,109 3/4,110
+249,deuxieme_arabesque,B,110,110 1/2
+250,deuxieme_arabesque,D,110 1/2,111
+251,deuxieme_arabesque,E,111,112 1/2
+252,deuxieme_arabesque,A,112 1/2,112 3/4
+253,deuxieme_arabesque,C,113,113 1/4
+254,deuxieme_arabesque,E,113 1/2,113 3/4
+255,deuxieme_arabesque,F#,114,114 1/4
+256,deuxieme_arabesque,A,114 1/2,114 3/4
+257,deuxieme_arabesque,D,115,115 1/4
+258,deuxieme_arabesque,F#,115 1/2,115 3/4
+259,deuxieme_arabesque,G,116,116 1/2
+260,deuxieme_arabesque,B,116,116 1/2
+261,deuxieme_arabesque,D,116,116 1/2
+262,deuxieme_arabesque,G,116,116 1/2
+263,deuxieme_arabesque,F#,116 1/2,116 3/4
+264,deuxieme_arabesque,F#,116 3/4,117
+265,deuxieme_arabesque,E,117,117 1/2
+266,deuxieme_arabesque,D,117 1/2,117 3/4
+267,deuxieme_arabesque,D,117 3/4,118
+268,deuxieme_arabesque,B,118,118 1/2
+269,deuxieme_arabesque,D,118 1/2,119
+270,deuxieme_arabesque,E,119,120 1/2
+271,deuxieme_arabesque,A,120 1/2,120 3/4
+272,deuxieme_arabesque,C,121,121 1/4
+273,deuxieme_arabesque,E,121 1/2,121 3/4
+274,deuxieme_arabesque,A,122 1/2,122 3/4
+275,deuxieme_arabesque,D,123,123 1/4
+276,deuxieme_arabesque,F#,123 1/2,123 3/4
+277,deuxieme_arabesque,B,124,124 1/2
+278,deuxieme_arabesque,E-,124,124 1/2
+279,deuxieme_arabesque,F#,124,124 1/2
+280,deuxieme_arabesque,B,124,124 1/2
+281,deuxieme_arabesque,B-,124 1/2,124 3/4
+282,deuxieme_arabesque,B-,124 3/4,125
+283,deuxieme_arabesque,G#,125,125 1/4
+284,deuxieme_arabesque,F#,125 1/2,125 3/4
+285,deuxieme_arabesque,F#,125 3/4,126
+286,deuxieme_arabesque,E-,126,126 1/4
+287,deuxieme_arabesque,F#,126 1/2,126 3/4
+288,deuxieme_arabesque,B,127,128
+289,deuxieme_arabesque,E-,127,128
+290,deuxieme_arabesque,G#,127,128
+291,deuxieme_arabesque,E-,128,128 1/2
+292,deuxieme_arabesque,F#,128,128 1/2
+293,deuxieme_arabesque,B,128,128 1/2
+294,deuxieme_arabesque,B-,128 1/2,128 3/4
+295,deuxieme_arabesque,B-,128 3/4,129
+296,deuxieme_arabesque,G#,129,129 1/4
+297,deuxieme_arabesque,F#,129 1/2,129 3/4
+298,deuxieme_arabesque,F#,129 3/4,130
+299,deuxieme_arabesque,E-,130,130 1/4
+300,deuxieme_arabesque,F#,130 1/2,130 3/4
+301,deuxieme_arabesque,B,131,132
+302,deuxieme_arabesque,E-,131,132
+303,deuxieme_arabesque,G#,131,132
+304,deuxieme_arabesque,E-,132,132 1/2
+305,deuxieme_arabesque,F#,132,132 1/2
+306,deuxieme_arabesque,B,132,132 1/2
+307,deuxieme_arabesque,E-,133,133 1/2
+308,deuxieme_arabesque,F#,133,133 1/2
+309,deuxieme_arabesque,B,133,133 1/2
+310,deuxieme_arabesque,C,135,135 1/2
+311,deuxieme_arabesque,E,135,135 1/2
+312,deuxieme_arabesque,A,135,135 1/2
+313,deuxieme_arabesque,C,135,135 1/2
+314,deuxieme_arabesque,D,136,136 1/2
+315,deuxieme_arabesque,F#,136,136 1/2
+316,deuxieme_arabesque,A,136,136 1/2
+317,deuxieme_arabesque,D,136,136 1/2
+318,deuxieme_arabesque,D,137,137 1/2
+319,deuxieme_arabesque,F#,137,137 1/2
+320,deuxieme_arabesque,A,137,137 1/2
+321,deuxieme_arabesque,D,137,137 1/2
+322,deuxieme_arabesque,C,138 1/2,138 3/4
+323,deuxieme_arabesque,C,138 3/4,139
+324,deuxieme_arabesque,B,139,139 1/4
+325,deuxieme_arabesque,A,139 1/2,139 3/4
+326,deuxieme_arabesque,A,139 3/4,140
+327,deuxieme_arabesque,G,140,140 1/4
+328,deuxieme_arabesque,G,141,141 1/4
+329,deuxieme_arabesque,G,143,143 1/4
+330,deuxieme_arabesque,D,143 1/4,143 1/2
+331,deuxieme_arabesque,G,147,148 1/3
+332,deuxieme_arabesque,A,148 1/3,148 2/3
+333,deuxieme_arabesque,B,148 2/3,149
+334,deuxieme_arabesque,A,149,150 1/2
+335,deuxieme_arabesque,C,150 1/2,150 3/4
+336,deuxieme_arabesque,G,151,153
+337,deuxieme_arabesque,G,153,155
+338,deuxieme_arabesque,G,155,157
+339,deuxieme_arabesque,G,157,159
+340,deuxieme_arabesque,G,159,161
+341,deuxieme_arabesque,G,161,161 1/2
+342,deuxieme_arabesque,G,162,164
+343,deuxieme_arabesque,B,162,164
+344,deuxieme_arabesque,B,164,164 1/3
+345,deuxieme_arabesque,C,164 1/3,164 2/3
+346,deuxieme_arabesque,D,164 2/3,165
+347,deuxieme_arabesque,C,165,166 1/2
+348,deuxieme_arabesque,G,166 1/2,166 3/4
+349,deuxieme_arabesque,E,167,167 1/4
+350,deuxieme_arabesque,C,167 1/2,167 3/4
+351,deuxieme_arabesque,B,168,168 1/3
+352,deuxieme_arabesque,C,168 1/3,168 2/3
+353,deuxieme_arabesque,D,168 2/3,169
+354,deuxieme_arabesque,C,169,170 1/2
+355,deuxieme_arabesque,G,170 1/2,170 3/4
+356,deuxieme_arabesque,E,171,171 1/4
+357,deuxieme_arabesque,C,171 1/2,171 3/4
+358,deuxieme_arabesque,A,172,172 1/4
+359,deuxieme_arabesque,D,172,172 1/4
+360,deuxieme_arabesque,B,172 1/2,172 3/4
+361,deuxieme_arabesque,E,172 1/2,172 3/4
+362,deuxieme_arabesque,C,173,173 1/4
+363,deuxieme_arabesque,F,173,173 1/4
+364,deuxieme_arabesque,D,173 1/2,173 3/4
+365,deuxieme_arabesque,G,173 1/2,173 3/4
+366,deuxieme_arabesque,E,174,174 1/4
+367,deuxieme_arabesque,A,174,174 1/4
+368,deuxieme_arabesque,F,174 1/2,174 3/4
+369,deuxieme_arabesque,B,174 1/2,174 3/4
+370,deuxieme_arabesque,G,175,175 1/4
+371,deuxieme_arabesque,C,175,175 1/4
+372,deuxieme_arabesque,A,175 1/2,175 3/4
+373,deuxieme_arabesque,D,175 1/2,175 3/4
+374,deuxieme_arabesque,B,176,176 1/4
+375,deuxieme_arabesque,E,176,176 1/4
+376,deuxieme_arabesque,C,176 1/2,176 3/4
+377,deuxieme_arabesque,F#,176 1/2,176 3/4
+378,deuxieme_arabesque,C,177,177 1/4
+379,deuxieme_arabesque,F#,177,177 1/4
+380,deuxieme_arabesque,C,177 1/2,177 3/4
+381,deuxieme_arabesque,F#,177 1/2,177 3/4
+382,deuxieme_arabesque,B,178,178 1/4
+383,deuxieme_arabesque,E-,178,178 1/4
+384,deuxieme_arabesque,B,178,178 1/4
+385,deuxieme_arabesque,B,178 1/2,178 3/4
+386,deuxieme_arabesque,E-,178 1/2,178 3/4
+387,deuxieme_arabesque,B,178 1/2,178 3/4
+388,deuxieme_arabesque,B,179,179 1/4
+389,deuxieme_arabesque,E-,179,179 1/4
+390,deuxieme_arabesque,B,179,179 1/4
+391,deuxieme_arabesque,B,179 1/2,179 3/4
+392,deuxieme_arabesque,E-,179 1/2,179 3/4
+393,deuxieme_arabesque,B,179 1/2,179 3/4
+394,deuxieme_arabesque,B,180,181
+395,deuxieme_arabesque,C,181,183
+396,deuxieme_arabesque,D,183,184
+397,deuxieme_arabesque,E,184,185
+398,deuxieme_arabesque,F,185,186
+399,deuxieme_arabesque,G,186,187
+400,deuxieme_arabesque,A,187,188
+401,deuxieme_arabesque,G,188,189
+402,deuxieme_arabesque,F,189,190
+403,deuxieme_arabesque,E,190,191
+404,deuxieme_arabesque,D,191,192
+405,deuxieme_arabesque,C,192,193
+406,deuxieme_arabesque,B,193,193 1/2
+407,deuxieme_arabesque,B,194,196
+408,deuxieme_arabesque,B,194,196
+409,deuxieme_arabesque,B,196,196 1/3
+410,deuxieme_arabesque,C#,196 1/3,196 2/3
+411,deuxieme_arabesque,E-,196 2/3,197
+412,deuxieme_arabesque,C#,197,198 1/2
+413,deuxieme_arabesque,F#,198 1/2,199
+414,deuxieme_arabesque,B-,199,200
+415,deuxieme_arabesque,B,200,200 1/3
+416,deuxieme_arabesque,C#,200 1/3,200 2/3
+417,deuxieme_arabesque,E-,200 2/3,201
+418,deuxieme_arabesque,C#,201,202 1/2
+419,deuxieme_arabesque,F#,202 1/2,203
+420,deuxieme_arabesque,B-,203,204
+421,deuxieme_arabesque,B,204,204 1/2
+422,deuxieme_arabesque,E,204 1/2,205
+423,deuxieme_arabesque,C#,205,205 1/2
+424,deuxieme_arabesque,F#,205 1/2,206
+425,deuxieme_arabesque,E-,206,206 1/2
+426,deuxieme_arabesque,G#,206 1/2,207
+427,deuxieme_arabesque,E,207,207 1/2
+428,deuxieme_arabesque,A,207 1/2,208
+429,deuxieme_arabesque,F#,208,208 1/2
+430,deuxieme_arabesque,B,208 1/2,209
+431,deuxieme_arabesque,G#,209,209 1/2
+432,deuxieme_arabesque,C#,209 1/2,210
+433,deuxieme_arabesque,A,210,211
+434,deuxieme_arabesque,B-,211,212
+435,deuxieme_arabesque,B,212,212 1/3
+436,deuxieme_arabesque,C#,212 1/3,212 2/3
+437,deuxieme_arabesque,E-,212 2/3,213
+438,deuxieme_arabesque,C#,213,214 1/2
+439,deuxieme_arabesque,F#,214 1/2,215
+440,deuxieme_arabesque,B-,215,216
+441,deuxieme_arabesque,B,216,216 1/3
+442,deuxieme_arabesque,C#,216 1/3,216 2/3
+443,deuxieme_arabesque,E-,216 2/3,217
+444,deuxieme_arabesque,C#,217,218 1/2
+445,deuxieme_arabesque,F#,218 1/2,219
+446,deuxieme_arabesque,E-,219,219 1/2
+447,deuxieme_arabesque,A,219 1/2,220
+448,deuxieme_arabesque,B-,220,220 1/2
+449,deuxieme_arabesque,E-,220 1/2,221
+450,deuxieme_arabesque,C,221,221 1/2
+451,deuxieme_arabesque,F,221 1/2,222
+452,deuxieme_arabesque,D,222,222 1/2
+453,deuxieme_arabesque,G,222 1/2,223
+454,deuxieme_arabesque,E-,223,223 1/2
+455,deuxieme_arabesque,G#,223 1/2,224
+456,deuxieme_arabesque,F,224,224 1/2
+457,deuxieme_arabesque,B-,224 1/2,225
+458,deuxieme_arabesque,G,225,225 1/2
+459,deuxieme_arabesque,C,225 1/2,226
+460,deuxieme_arabesque,G#,226,226 1/2
+461,deuxieme_arabesque,D,226 1/2,227
+462,deuxieme_arabesque,C,227,227 1/2
+463,deuxieme_arabesque,F,227 1/2,228
+464,deuxieme_arabesque,E-,228,228 1/4
+465,deuxieme_arabesque,F,228 1/4,228 1/2
+466,deuxieme_arabesque,B-,228 1/2,228 3/4
+467,deuxieme_arabesque,C#,229,229 1/4
+468,deuxieme_arabesque,G,229 1/2,229 3/4
+469,deuxieme_arabesque,E-,230,230 1/4
+470,deuxieme_arabesque,B-,230 1/2,230 3/4
+471,deuxieme_arabesque,C#,231,231 1/4
+472,deuxieme_arabesque,G,231 1/2,231 3/4
+473,deuxieme_arabesque,E-,232,232 1/4
+474,deuxieme_arabesque,F,232 1/4,232 1/2
+475,deuxieme_arabesque,B-,232 1/2,232 3/4
+476,deuxieme_arabesque,C#,233,233 1/4
+477,deuxieme_arabesque,G,233 1/2,233 3/4
+478,deuxieme_arabesque,E-,234,234 1/4
+479,deuxieme_arabesque,B-,234 1/2,234 3/4
+480,deuxieme_arabesque,C#,235,235 1/4
+481,deuxieme_arabesque,G,235 1/2,235 3/4
+482,deuxieme_arabesque,E-,236,236 1/4
+483,deuxieme_arabesque,F,236 1/4,236 1/2
+484,deuxieme_arabesque,B-,236 1/2,236 3/4
+485,deuxieme_arabesque,C#,237,237 1/4
+486,deuxieme_arabesque,G,237 1/2,237 3/4
+487,deuxieme_arabesque,E-,238,238 1/4
+488,deuxieme_arabesque,B-,238 1/2,238 3/4
+489,deuxieme_arabesque,C#,239,239 1/4
+490,deuxieme_arabesque,G,239 1/2,239 3/4
+491,deuxieme_arabesque,E-,240,240 1/4
+492,deuxieme_arabesque,F,240 1/4,240 1/2
+493,deuxieme_arabesque,B-,240 1/2,240 3/4
+494,deuxieme_arabesque,C#,241,241 1/4
+495,deuxieme_arabesque,G,241 1/2,241 3/4
+496,deuxieme_arabesque,E-,242,242 1/4
+497,deuxieme_arabesque,B-,242 1/2,242 3/4
+498,deuxieme_arabesque,C#,243,243 1/4
+499,deuxieme_arabesque,G,243 1/2,243 3/4
+500,deuxieme_arabesque,E,244,244 1/4
+501,deuxieme_arabesque,F#,244 1/4,244 1/2
+502,deuxieme_arabesque,B,244 1/2,244 3/4
+503,deuxieme_arabesque,D,245,245 1/4
+504,deuxieme_arabesque,G,245 1/2,245 3/4
+505,deuxieme_arabesque,B,246,246 1/4
+506,deuxieme_arabesque,C,246 1/4,246 1/2
+507,deuxieme_arabesque,D,246 1/2,246 3/4
+508,deuxieme_arabesque,A,247,247 1/4
+509,deuxieme_arabesque,E,247 1/2,247 3/4
+510,deuxieme_arabesque,E,248,248 1/4
+511,deuxieme_arabesque,F#,248 1/4,248 1/2
+512,deuxieme_arabesque,B,248 1/2,248 3/4
+513,deuxieme_arabesque,D,249,249 1/4
+514,deuxieme_arabesque,G,249 1/2,249 3/4
+515,deuxieme_arabesque,B,250,250 1/4
+516,deuxieme_arabesque,C,250 1/4,250 1/2
+517,deuxieme_arabesque,D,250 1/2,250 3/4
+518,deuxieme_arabesque,A,251,251 1/4
+519,deuxieme_arabesque,E,251 1/2,251 3/4
+520,deuxieme_arabesque,G,252,252 1/4
+521,deuxieme_arabesque,A,252 1/4,252 1/2
+522,deuxieme_arabesque,D,252 1/2,252 3/4
+523,deuxieme_arabesque,E,253,253 1/4
+524,deuxieme_arabesque,G,253 1/3,253 7/12
+525,deuxieme_arabesque,B,253 2/3,253 11/12
+526,deuxieme_arabesque,G,254,254 1/4
+527,deuxieme_arabesque,A,254 1/4,254 1/2
+528,deuxieme_arabesque,D,254 1/2,254 3/4
+529,deuxieme_arabesque,E,255,255 1/4
+530,deuxieme_arabesque,G,255 1/3,255 7/12
+531,deuxieme_arabesque,B,255 2/3,255 11/12
+532,deuxieme_arabesque,A,256,256 1/4
+533,deuxieme_arabesque,B,256 1/4,256 1/2
+534,deuxieme_arabesque,E,256 1/2,256 3/4
+535,deuxieme_arabesque,A,257,257 1/2
+536,deuxieme_arabesque,C,257,257 1/2
+537,deuxieme_arabesque,E,257,257 1/2
+538,deuxieme_arabesque,D,257 1/2,258
+539,deuxieme_arabesque,D,258,258 1/2
+540,deuxieme_arabesque,B,258,258 1/2
+541,deuxieme_arabesque,A,258 1/2,259
+542,deuxieme_arabesque,F#,259,259 1/4
+543,deuxieme_arabesque,D,259 1/2,259 3/4
+544,deuxieme_arabesque,E,260,260 1/4
+545,deuxieme_arabesque,F#,260 1/4,260 1/2
+546,deuxieme_arabesque,B,260 1/2,260 3/4
+547,deuxieme_arabesque,D,261,261 1/4
+548,deuxieme_arabesque,G,261 1/2,261 3/4
+549,deuxieme_arabesque,B,262,262 1/4
+550,deuxieme_arabesque,C,262 1/4,262 1/2
+551,deuxieme_arabesque,D,262 1/2,262 3/4
+552,deuxieme_arabesque,A,263,263 1/4
+553,deuxieme_arabesque,E,263 1/2,263 3/4
+554,deuxieme_arabesque,E,264,264 1/4
+555,deuxieme_arabesque,F#,264 1/4,264 1/2
+556,deuxieme_arabesque,B,264 1/2,264 3/4
+557,deuxieme_arabesque,D,265,265 1/4
+558,deuxieme_arabesque,G,265 1/2,265 3/4
+559,deuxieme_arabesque,B,266,266 1/4
+560,deuxieme_arabesque,C,266 1/4,266 1/2
+561,deuxieme_arabesque,D,266 1/2,266 3/4
+562,deuxieme_arabesque,A,267,267 1/4
+563,deuxieme_arabesque,E,267 1/2,267 3/4
+564,deuxieme_arabesque,G,268,268 1/4
+565,deuxieme_arabesque,A,268 1/4,268 1/2
+566,deuxieme_arabesque,D,268 1/2,268 3/4
+567,deuxieme_arabesque,E,269,269 1/4
+568,deuxieme_arabesque,G,269 1/3,269 7/12
+569,deuxieme_arabesque,B,269 2/3,269 11/12
+570,deuxieme_arabesque,E,270,270 1/2
+571,deuxieme_arabesque,A,270,270 1/2
+572,deuxieme_arabesque,G,272,272 1/4
+573,deuxieme_arabesque,A,272 1/4,272 1/2
+574,deuxieme_arabesque,D,272 1/2,272 3/4
+575,deuxieme_arabesque,E,273,273 1/4
+576,deuxieme_arabesque,G,273 1/3,273 7/12
+577,deuxieme_arabesque,B,273 2/3,273 11/12
+578,deuxieme_arabesque,E,274,274 1/2
+579,deuxieme_arabesque,A,274,274 1/2
+580,deuxieme_arabesque,A,276,276 1/4
+581,deuxieme_arabesque,B,276 1/4,276 1/2
+582,deuxieme_arabesque,F#,276 1/2,276 3/4
+583,deuxieme_arabesque,D,277,277 1/4
+584,deuxieme_arabesque,B,277 1/2,277 3/4
+585,deuxieme_arabesque,A,278,278 1/4
+586,deuxieme_arabesque,B,278 1/4,278 1/2
+587,deuxieme_arabesque,F#,278 1/2,278 3/4
+588,deuxieme_arabesque,D,279,279 1/4
+589,deuxieme_arabesque,B,279 1/2,279 3/4
+590,deuxieme_arabesque,A,280,280 1/4
+591,deuxieme_arabesque,D,280 1/2,280 3/4
+592,deuxieme_arabesque,B,281,281 1/4
+593,deuxieme_arabesque,C#,281 1/2,281 3/4
+594,deuxieme_arabesque,F#,281 1/2,281 3/4
+595,deuxieme_arabesque,A,282,282 1/2
+596,deuxieme_arabesque,D,282,282 1/2
+597,deuxieme_arabesque,A,284,284 1/4
+598,deuxieme_arabesque,B,284 1/4,284 1/2
+599,deuxieme_arabesque,D,284 1/2,284 3/4
+600,deuxieme_arabesque,A,285,285 1/4
+601,deuxieme_arabesque,B,285 1/4,285 1/2
+602,deuxieme_arabesque,D,285 1/2,286 1/4
+603,deuxieme_arabesque,E,286 1/2,287
+604,deuxieme_arabesque,F,287,287 1/2
+605,deuxieme_arabesque,G,287 1/2,288
+606,deuxieme_arabesque,A,288,288 1/2
+607,deuxieme_arabesque,B,288 1/2,289
+608,deuxieme_arabesque,C,289,289 1/2
+609,deuxieme_arabesque,E,289 1/2,290
+610,deuxieme_arabesque,D,290,290 1/2
+611,deuxieme_arabesque,E,290 1/2,291
+612,deuxieme_arabesque,F,291,291 1/2
+613,deuxieme_arabesque,A,291 1/2,292
+614,deuxieme_arabesque,A,292,292 1/4
+615,deuxieme_arabesque,B,292 1/4,292 1/2
+616,deuxieme_arabesque,D,292 1/2,292 3/4
+617,deuxieme_arabesque,A,293,293 1/4
+618,deuxieme_arabesque,B,293 1/4,293 1/2
+619,deuxieme_arabesque,D,293 1/2,294 1/2
+620,deuxieme_arabesque,E,294 1/2,295
+621,deuxieme_arabesque,F,295,295 1/2
+622,deuxieme_arabesque,G,295 1/2,296
+623,deuxieme_arabesque,A,296,296 1/4
+624,deuxieme_arabesque,B,296 1/2,296 3/4
+625,deuxieme_arabesque,C,297,297 1/4
+626,deuxieme_arabesque,E,297 1/2,297 3/4
+627,deuxieme_arabesque,D,298,298 1/4
+628,deuxieme_arabesque,E,298 1/2,298 3/4
+629,deuxieme_arabesque,F,299,299 1/4
+630,deuxieme_arabesque,A,299 1/2,299 3/4
+631,deuxieme_arabesque,E,312,312 1/4
+632,deuxieme_arabesque,F#,312 1/4,312 1/2
+633,deuxieme_arabesque,C,312 1/2,312 3/4
+634,deuxieme_arabesque,A,313,313 1/4
+635,deuxieme_arabesque,C,313 1/2,313 3/4
+636,deuxieme_arabesque,E,313 1/2,313 3/4
+637,deuxieme_arabesque,B,314,314 1/4
+638,deuxieme_arabesque,D,314,314 1/4
+639,deuxieme_arabesque,G,314 1/2,314 3/4
+640,deuxieme_arabesque,B,315,315 1/4
+641,deuxieme_arabesque,D,315 1/2,315 3/4
+642,deuxieme_arabesque,C,316,316 1/2
+643,deuxieme_arabesque,F#,316 1/2,317
+644,deuxieme_arabesque,A,317,317 1/4
+645,deuxieme_arabesque,D,317 1/2,317 3/4
+646,deuxieme_arabesque,C,318,318 1/2
+647,deuxieme_arabesque,E,318 1/2,319
+648,deuxieme_arabesque,G,319,319 1/4
+649,deuxieme_arabesque,D,319 1/2,319 3/4
+650,deuxieme_arabesque,C,320,320 1/2
+651,deuxieme_arabesque,D,320 1/2,321
+652,deuxieme_arabesque,A,321,321 1/4
+653,deuxieme_arabesque,D,321 1/2,321 3/4
+654,deuxieme_arabesque,D,322,322 1/2
+655,deuxieme_arabesque,D,322 1/2,323
+656,deuxieme_arabesque,D,323,323 1/4
+657,deuxieme_arabesque,D,323 1/2,323 3/4
+658,deuxieme_arabesque,E,324,324 1/4
+659,deuxieme_arabesque,F#,324 1/4,324 1/2
+660,deuxieme_arabesque,B,324 1/2,325 1/2
+661,deuxieme_arabesque,D,326,326 1/4
+662,deuxieme_arabesque,E,326 1/4,326 1/2
+663,deuxieme_arabesque,G,326 1/2,327 1/2
+664,deuxieme_arabesque,B,328,328 1/4
+665,deuxieme_arabesque,C,328 1/4,328 1/2
+666,deuxieme_arabesque,D,328 1/2,329 1/2
+667,deuxieme_arabesque,A,330,330 1/4
+668,deuxieme_arabesque,B,330 1/4,330 1/2
+669,deuxieme_arabesque,E,330 1/2,331 1/2
+670,deuxieme_arabesque,E,332,332 1/4
+671,deuxieme_arabesque,F#,332 1/4,332 1/2
+672,deuxieme_arabesque,B,332 1/2,333 1/2
+673,deuxieme_arabesque,D,334,334 1/4
+674,deuxieme_arabesque,E,334 1/4,334 1/2
+675,deuxieme_arabesque,G,334 1/2,335 1/2
+676,deuxieme_arabesque,D,337,337 1/4
+677,deuxieme_arabesque,G,338,338 1/4
+678,deuxieme_arabesque,B,339,339 1/4
+679,deuxieme_arabesque,D,340,340 1/4
+680,deuxieme_arabesque,E,340 1/4,340 1/2
+681,deuxieme_arabesque,A,340 1/2,341 1/2
+682,deuxieme_arabesque,C,342,342 1/4
+683,deuxieme_arabesque,D,342 1/4,342 1/2
+684,deuxieme_arabesque,F,342 1/2,343 1/2
+685,deuxieme_arabesque,A,344,344 1/4
+686,deuxieme_arabesque,B,344 1/4,344 1/2
+687,deuxieme_arabesque,D,344 1/2,345 1/2
+688,deuxieme_arabesque,G,346,346 1/4
+689,deuxieme_arabesque,A,346 1/4,346 1/2
+690,deuxieme_arabesque,D,346 1/2,347 1/2
+691,deuxieme_arabesque,D,348,348 1/4
+692,deuxieme_arabesque,E,348 1/4,348 1/2
+693,deuxieme_arabesque,A,348 1/2,349 1/2
+694,deuxieme_arabesque,C,350,350 1/4
+695,deuxieme_arabesque,D,350 1/4,350 1/2
+696,deuxieme_arabesque,A,350 1/2,351 1/2
+697,deuxieme_arabesque,C,353,353 1/4
+698,deuxieme_arabesque,F,354,354 1/4
+699,deuxieme_arabesque,A,355,355 1/4
+700,deuxieme_arabesque,A,360 1/2,360 3/4
+701,deuxieme_arabesque,F,361,361 1/4
+702,deuxieme_arabesque,B-,361 1/2,361 3/4
+703,deuxieme_arabesque,G,362,362 1/4
+704,deuxieme_arabesque,C,362 1/2,362 3/4
+705,deuxieme_arabesque,A,363,363 1/4
+706,deuxieme_arabesque,D,363 1/2,363 3/4
+707,deuxieme_arabesque,C,364,364 1/3
+708,deuxieme_arabesque,D,364 1/3,364 2/3
+709,deuxieme_arabesque,E,364 2/3,365
+710,deuxieme_arabesque,D,365,366 1/2
+711,deuxieme_arabesque,G,366 1/2,366 3/4
+712,deuxieme_arabesque,E,367,367 1/4
+713,deuxieme_arabesque,D,367 1/2,367 3/4
+714,deuxieme_arabesque,C,368,368 1/4
+715,deuxieme_arabesque,F,368 1/2,368 3/4
+716,deuxieme_arabesque,D,369,369 1/4
+717,deuxieme_arabesque,G,369 1/2,369 3/4
+718,deuxieme_arabesque,E,370,370 1/4
+719,deuxieme_arabesque,A,370 1/2,370 3/4
+720,deuxieme_arabesque,F,371,371 1/4
+721,deuxieme_arabesque,B-,371 1/2,371 3/4
+722,deuxieme_arabesque,G,372,373
+723,deuxieme_arabesque,A,373,374
+724,deuxieme_arabesque,D,373,374
+725,deuxieme_arabesque,B-,374,375
+726,deuxieme_arabesque,B,375,376
+727,deuxieme_arabesque,C,376,376 1/3
+728,deuxieme_arabesque,D,376 1/3,376 2/3
+729,deuxieme_arabesque,E,376 2/3,377
+730,deuxieme_arabesque,D,377,378 1/2
+731,deuxieme_arabesque,G,378 1/2,379
+732,deuxieme_arabesque,E,379,379 1/2
+733,deuxieme_arabesque,A,379 1/2,380
+734,deuxieme_arabesque,F#,380,380 1/2
+735,deuxieme_arabesque,B,380 1/2,381
+736,deuxieme_arabesque,G,381,381 1/2
+737,deuxieme_arabesque,C,381 1/2,382
+738,deuxieme_arabesque,A,382,382 1/2
+739,deuxieme_arabesque,D,382 1/2,383
+740,deuxieme_arabesque,B,383,383 1/2
+741,deuxieme_arabesque,E,383 1/2,384
+742,deuxieme_arabesque,G,384,384 1/2
+743,deuxieme_arabesque,C,384 1/2,385
+744,deuxieme_arabesque,A,385,385 1/2
+745,deuxieme_arabesque,D,385 1/2,386
+746,deuxieme_arabesque,B,386,386 1/2
+747,deuxieme_arabesque,E,386 1/2,387
+748,deuxieme_arabesque,C,387,387 1/2
+749,deuxieme_arabesque,F#,387 1/2,388
+750,deuxieme_arabesque,F#,388,389
+751,deuxieme_arabesque,A,388,389
+752,deuxieme_arabesque,G,389,390
+753,deuxieme_arabesque,B,389,390
+754,deuxieme_arabesque,A,390,391
+755,deuxieme_arabesque,C,390,391
+756,deuxieme_arabesque,B,391,392
+757,deuxieme_arabesque,D,391,392
+758,deuxieme_arabesque,C,392,393
+759,deuxieme_arabesque,E,392,393
+760,deuxieme_arabesque,D,393,394
+761,deuxieme_arabesque,F#,393,394
+762,deuxieme_arabesque,E,394,395
+763,deuxieme_arabesque,G,394,395
+764,deuxieme_arabesque,F#,395,396
+765,deuxieme_arabesque,A,395,396
+766,deuxieme_arabesque,G,396,396 1/2
+767,deuxieme_arabesque,B,396,396 1/2
+768,deuxieme_arabesque,D,396,396 1/2
+769,deuxieme_arabesque,G,396,396 1/2
+770,deuxieme_arabesque,F#,396 1/2,396 3/4
+771,deuxieme_arabesque,F#,396 3/4,397
+772,deuxieme_arabesque,E,397,397 1/2
+773,deuxieme_arabesque,D,397 1/2,397 3/4
+774,deuxieme_arabesque,D,397 3/4,398
+775,deuxieme_arabesque,B,398,398 1/4
+776,deuxieme_arabesque,D,398 1/2,398 3/4
+777,deuxieme_arabesque,E,399,400 1/2
+778,deuxieme_arabesque,A,400 1/2,400 3/4
+779,deuxieme_arabesque,C,401,401 1/4
+780,deuxieme_arabesque,E,401 1/2,401 3/4
+781,deuxieme_arabesque,F#,402,402 1/4
+782,deuxieme_arabesque,A,402 1/2,402 3/4
+783,deuxieme_arabesque,D,403,403 1/4
+784,deuxieme_arabesque,F#,403 1/2,403 3/4
+785,deuxieme_arabesque,G,404,404 1/2
+786,deuxieme_arabesque,B,404,404 1/2
+787,deuxieme_arabesque,D,404,404 1/2
+788,deuxieme_arabesque,G,404,404 1/2
+789,deuxieme_arabesque,F#,404 1/2,404 3/4
+790,deuxieme_arabesque,F#,404 3/4,405
+791,deuxieme_arabesque,E,405,405 1/2
+792,deuxieme_arabesque,D,405 1/2,405 3/4
+793,deuxieme_arabesque,D,405 3/4,406
+794,deuxieme_arabesque,B,406,406 1/4
+795,deuxieme_arabesque,D,406 1/2,406 3/4
+796,deuxieme_arabesque,E,407,408 1/2
+797,deuxieme_arabesque,A,408 1/2,408 3/4
+798,deuxieme_arabesque,C,409,409 1/4
+799,deuxieme_arabesque,E,409 1/2,409 3/4
+800,deuxieme_arabesque,A,410 1/2,410 3/4
+801,deuxieme_arabesque,D,411,411 1/4
+802,deuxieme_arabesque,F#,411 1/2,411 3/4
+803,deuxieme_arabesque,B,412,412 1/2
+804,deuxieme_arabesque,E-,412,412 1/2
+805,deuxieme_arabesque,F#,412,412 1/2
+806,deuxieme_arabesque,B,412,412 1/2
+807,deuxieme_arabesque,B-,412 1/2,412 3/4
+808,deuxieme_arabesque,B-,412 3/4,413
+809,deuxieme_arabesque,G#,413,413 1/2
+810,deuxieme_arabesque,F#,413 1/2,413 3/4
+811,deuxieme_arabesque,F#,413 3/4,414
+812,deuxieme_arabesque,E-,414,414 1/2
+813,deuxieme_arabesque,F#,414 1/2,415
+814,deuxieme_arabesque,B,415,416
+815,deuxieme_arabesque,E-,415,416
+816,deuxieme_arabesque,G#,415,416
+817,deuxieme_arabesque,B,416,416 1/2
+818,deuxieme_arabesque,E-,416,416 1/2
+819,deuxieme_arabesque,F#,416,416 1/2
+820,deuxieme_arabesque,B,416,416 1/2
+821,deuxieme_arabesque,B-,416 1/2,416 3/4
+822,deuxieme_arabesque,B-,416 3/4,417
+823,deuxieme_arabesque,G#,417,417 1/2
+824,deuxieme_arabesque,F#,417 1/2,417 3/4
+825,deuxieme_arabesque,F#,417 3/4,418
+826,deuxieme_arabesque,E-,418,418 1/2
+827,deuxieme_arabesque,F#,418 1/2,419
+828,deuxieme_arabesque,B,419,420
+829,deuxieme_arabesque,E-,419,420
+830,deuxieme_arabesque,G#,419,420
+831,deuxieme_arabesque,E-,420,420 1/2
+832,deuxieme_arabesque,F#,420,420 1/2
+833,deuxieme_arabesque,B,420,420 1/2
+834,deuxieme_arabesque,E-,421,422
+835,deuxieme_arabesque,F#,421,422
+836,deuxieme_arabesque,B,421,422
+837,deuxieme_arabesque,C,423,424
+838,deuxieme_arabesque,E,423,424
+839,deuxieme_arabesque,A,423,424
+840,deuxieme_arabesque,C,423,424
+841,deuxieme_arabesque,D,424,424 1/2
+842,deuxieme_arabesque,F#,424,424 1/2
+843,deuxieme_arabesque,A,424,424 1/2
+844,deuxieme_arabesque,D,424,424 1/2
+845,deuxieme_arabesque,D,425,425 1/2
+846,deuxieme_arabesque,F#,425,425 1/2
+847,deuxieme_arabesque,A,425,425 1/2
+848,deuxieme_arabesque,D,425,425 1/2
+849,deuxieme_arabesque,C,426 1/2,426 3/4
+850,deuxieme_arabesque,C,426 3/4,427
+851,deuxieme_arabesque,B,427,427 1/2
+852,deuxieme_arabesque,A,427 1/2,427 3/4
+853,deuxieme_arabesque,A,427 3/4,428
+854,deuxieme_arabesque,G,428,428 1/2
+855,deuxieme_arabesque,G,429,429 1/2
+856,deuxieme_arabesque,G,431,431 1/2
+857,deuxieme_arabesque,G,432,432 1/2
+858,deuxieme_arabesque,B,432,432 1/2
+859,deuxieme_arabesque,D,432,432 1/2
+860,deuxieme_arabesque,G,432,432 1/2
+861,deuxieme_arabesque,G,434,434 1/2
+862,deuxieme_arabesque,G,436,436 1/2
+863,deuxieme_arabesque,E,1/3,7/12
+864,deuxieme_arabesque,A,1 1/3,1 7/12
+865,deuxieme_arabesque,E,2 1/3,2 7/12
+866,deuxieme_arabesque,A,3 1/3,3 7/12
+867,deuxieme_arabesque,E,4 1/3,4 7/12
+868,deuxieme_arabesque,B,5 1/3,5 7/12
+869,deuxieme_arabesque,E,6 1/3,6 7/12
+870,deuxieme_arabesque,B,7 1/3,7 7/12
+871,deuxieme_arabesque,E,8 1/3,8 7/12
+872,deuxieme_arabesque,C,9 1/3,9 7/12
+873,deuxieme_arabesque,E,10 1/3,10 7/12
+874,deuxieme_arabesque,C,11 1/3,11 7/12
+875,deuxieme_arabesque,E,12 1/3,12 7/12
+876,deuxieme_arabesque,C,13 1/3,13 7/12
+877,deuxieme_arabesque,E,14 1/3,14 7/12
+878,deuxieme_arabesque,C,15 1/3,15 7/12
+879,deuxieme_arabesque,E,16 1/3,16 7/12
+880,deuxieme_arabesque,D,17 1/3,17 7/12
+881,deuxieme_arabesque,B,18 1/3,18 7/12
+882,deuxieme_arabesque,A,19 1/3,19 7/12
+883,deuxieme_arabesque,E,20 1/3,20 7/12
+884,deuxieme_arabesque,D,21 1/3,21 7/12
+885,deuxieme_arabesque,B,22 1/3,22 7/12
+886,deuxieme_arabesque,A,23 1/3,23 7/12
+887,deuxieme_arabesque,G,24 1/3,24 7/12
+888,deuxieme_arabesque,G,26 1/3,26 7/12
+889,deuxieme_arabesque,A,28 1/3,28 7/12
+890,deuxieme_arabesque,F#,30,30 1/3
+891,deuxieme_arabesque,E,32 1/3,32 7/12
+892,deuxieme_arabesque,D,33 1/3,33 7/12
+893,deuxieme_arabesque,B,34 1/3,34 7/12
+894,deuxieme_arabesque,A,35 1/3,35 7/12
+895,deuxieme_arabesque,E,36 1/3,36 7/12
+896,deuxieme_arabesque,D,37 1/3,37 7/12
+897,deuxieme_arabesque,B,38 1/3,38 7/12
+898,deuxieme_arabesque,A,39 1/3,39 7/12
+899,deuxieme_arabesque,G,40 1/3,40 7/12
+900,deuxieme_arabesque,G,44 1/3,44 7/12
+901,deuxieme_arabesque,A,48 1/3,48 7/12
+902,deuxieme_arabesque,D,49 1/3,49 7/12
+903,deuxieme_arabesque,A,50 1/3,50 7/12
+904,deuxieme_arabesque,D,51 1/3,51 7/12
+905,deuxieme_arabesque,G,56 1/3,56 7/12
+906,deuxieme_arabesque,G,57,57 1/4
+907,deuxieme_arabesque,A,57 1/4,57 1/2
+908,deuxieme_arabesque,E,57 1/2,58 1/2
+909,deuxieme_arabesque,D,60,60 1/4
+910,deuxieme_arabesque,B,60 1/3,60 7/12
+911,deuxieme_arabesque,F#,62 1/3,62 7/12
+912,deuxieme_arabesque,G,64 1/3,64 7/12
+913,deuxieme_arabesque,G,65,65 1/4
+914,deuxieme_arabesque,A,65 1/4,65 1/2
+915,deuxieme_arabesque,E,65 1/2,66 1/2
+916,deuxieme_arabesque,D,68,68 1/2
+917,deuxieme_arabesque,F#,70 1/3,70 7/12
+918,deuxieme_arabesque,A,72,73
+919,deuxieme_arabesque,G,73,74
+920,deuxieme_arabesque,A,74,75
+921,deuxieme_arabesque,G,75,76
+922,deuxieme_arabesque,A,76,77
+923,deuxieme_arabesque,G,77,79
+924,deuxieme_arabesque,D,79,80
+925,deuxieme_arabesque,B,80,81
+926,deuxieme_arabesque,A,81,82
+927,deuxieme_arabesque,B,82,83
+928,deuxieme_arabesque,A,83,84
+929,deuxieme_arabesque,B,84,85
+930,deuxieme_arabesque,A,85,87
+931,deuxieme_arabesque,D,88 1/3,88 7/12
+932,deuxieme_arabesque,G,89 1/3,89 7/12
+933,deuxieme_arabesque,D,90 1/3,90 7/12
+934,deuxieme_arabesque,G,91 1/3,91 7/12
+935,deuxieme_arabesque,D,92 1/3,92 7/12
+936,deuxieme_arabesque,G,93 1/3,93 7/12
+937,deuxieme_arabesque,D,94 1/3,94 7/12
+938,deuxieme_arabesque,G,95 1/3,95 7/12
+939,deuxieme_arabesque,D,96 1/3,96 7/12
+940,deuxieme_arabesque,D,98 1/3,98 7/12
+941,deuxieme_arabesque,F#,106,106 1/2
+942,deuxieme_arabesque,G,108 2/3,108 11/12
+943,deuxieme_arabesque,E,109 2/3,109 11/12
+944,deuxieme_arabesque,G,116 2/3,116 11/12
+945,deuxieme_arabesque,E,117 2/3,117 11/12
+946,deuxieme_arabesque,B,124 2/3,124 11/12
+947,deuxieme_arabesque,G#,125 2/3,125 11/12
+948,deuxieme_arabesque,B,128 2/3,128 11/12
+949,deuxieme_arabesque,G#,129 2/3,129 11/12
+950,deuxieme_arabesque,D,138 2/3,138 11/12
+951,deuxieme_arabesque,B,139 2/3,139 11/12
+952,deuxieme_arabesque,B,143,143 1/4
+953,deuxieme_arabesque,G,143 1/3,143 7/12
+954,deuxieme_arabesque,G,148,148 1/3
+955,deuxieme_arabesque,B,151,151 1/4
+956,deuxieme_arabesque,D,151 1/2,151 3/4
+957,deuxieme_arabesque,C,152,152 1/4
+958,deuxieme_arabesque,E,152 1/2,152 3/4
+959,deuxieme_arabesque,D,153,153 1/4
+960,deuxieme_arabesque,F,153 1/2,153 3/4
+961,deuxieme_arabesque,E,154,154 1/4
+962,deuxieme_arabesque,G,154 1/2,154 3/4
+963,deuxieme_arabesque,F,155,155 1/4
+964,deuxieme_arabesque,A,155 1/2,155 3/4
+965,deuxieme_arabesque,G,156,156 1/2
+966,deuxieme_arabesque,E,156 1/2,157
+967,deuxieme_arabesque,F,157,157 1/2
+968,deuxieme_arabesque,D,157 1/2,158
+969,deuxieme_arabesque,E,158,158 1/2
+970,deuxieme_arabesque,C,158 1/2,159
+971,deuxieme_arabesque,D,159,159 1/2
+972,deuxieme_arabesque,B,159 1/2,160
+973,deuxieme_arabesque,A,160,160 1/2
+974,deuxieme_arabesque,C,160 1/2,161
+975,deuxieme_arabesque,B,161,161 1/4
+976,deuxieme_arabesque,G,180,180 1/3
+977,deuxieme_arabesque,A,180 1/3,180 2/3
+978,deuxieme_arabesque,B,180 2/3,181
+979,deuxieme_arabesque,A,181,182 1/2
+980,deuxieme_arabesque,C,182 1/2,182 3/4
+981,deuxieme_arabesque,B,183,183 1/4
+982,deuxieme_arabesque,D,183 1/2,183 3/4
+983,deuxieme_arabesque,C,184,184 1/4
+984,deuxieme_arabesque,E,184 1/2,184 3/4
+985,deuxieme_arabesque,D,185,185 1/4
+986,deuxieme_arabesque,F,185 1/2,185 3/4
+987,deuxieme_arabesque,E,186,186 1/4
+988,deuxieme_arabesque,G,186 1/2,186 3/4
+989,deuxieme_arabesque,F,187,187 1/4
+990,deuxieme_arabesque,A,187 1/2,187 3/4
+991,deuxieme_arabesque,G,188,188 1/2
+992,deuxieme_arabesque,E,188 1/2,189
+993,deuxieme_arabesque,F,189,189 1/2
+994,deuxieme_arabesque,D,189 1/2,190
+995,deuxieme_arabesque,E,190,190 1/2
+996,deuxieme_arabesque,C,190 1/2,191
+997,deuxieme_arabesque,D,191,191 1/2
+998,deuxieme_arabesque,B,191 1/2,192
+999,deuxieme_arabesque,A,192,192 1/2
+1000,deuxieme_arabesque,C,192 1/2,193
+1001,deuxieme_arabesque,F,193,193 1/4
+1002,deuxieme_arabesque,B,193,193 1/4
+1003,deuxieme_arabesque,A,198,199
+1004,deuxieme_arabesque,E-,199,199 1/2
+1005,deuxieme_arabesque,C#,199 1/2,200
+1006,deuxieme_arabesque,A,202,203
+1007,deuxieme_arabesque,E-,203,203 1/2
+1008,deuxieme_arabesque,C#,203 1/2,204
+1009,deuxieme_arabesque,E-,210 1/2,211
+1010,deuxieme_arabesque,C#,211,211 1/2
+1011,deuxieme_arabesque,E-,211 1/2,212
+1012,deuxieme_arabesque,A,214,215
+1013,deuxieme_arabesque,E-,215,215 1/2
+1014,deuxieme_arabesque,C#,215 1/2,216
+1015,deuxieme_arabesque,A,218,219
+1016,deuxieme_arabesque,E-,228 1/3,228 7/12
+1017,deuxieme_arabesque,E-,232 1/3,232 7/12
+1018,deuxieme_arabesque,E-,236 1/3,236 7/12
+1019,deuxieme_arabesque,E-,240 1/3,240 7/12
+1020,deuxieme_arabesque,E,244 1/3,244 7/12
+1021,deuxieme_arabesque,B,246 1/3,246 7/12
+1022,deuxieme_arabesque,E,248 1/3,248 7/12
+1023,deuxieme_arabesque,B,250 1/3,250 7/12
+1024,deuxieme_arabesque,G,252 1/3,252 7/12
+1025,deuxieme_arabesque,G,254 1/3,254 7/12
+1026,deuxieme_arabesque,A,256 1/3,256 7/12
+1027,deuxieme_arabesque,F#,258,258 1/2
+1028,deuxieme_arabesque,E,260 1/3,260 7/12
+1029,deuxieme_arabesque,B,262 1/3,262 7/12
+1030,deuxieme_arabesque,E,264 1/3,264 7/12
+1031,deuxieme_arabesque,B,266 1/3,266 7/12
+1032,deuxieme_arabesque,G,268 1/3,268 7/12
+1033,deuxieme_arabesque,G,272 1/3,272 7/12
+1034,deuxieme_arabesque,A,276 1/3,276 7/12
+1035,deuxieme_arabesque,A,278 1/3,278 7/12
+1036,deuxieme_arabesque,A,284 1/3,284 7/12
+1037,deuxieme_arabesque,A,285 1/3,285 7/12
+1038,deuxieme_arabesque,A,292 1/3,292 7/12
+1039,deuxieme_arabesque,A,293 1/3,293 7/12
+1040,deuxieme_arabesque,E,312 1/3,312 7/12
+1041,deuxieme_arabesque,E,324 1/3,324 7/12
+1042,deuxieme_arabesque,D,326 1/3,326 7/12
+1043,deuxieme_arabesque,B,328 1/3,328 7/12
+1044,deuxieme_arabesque,A,330 1/3,330 7/12
+1045,deuxieme_arabesque,E,332 1/3,332 7/12
+1046,deuxieme_arabesque,D,334 1/3,334 7/12
+1047,deuxieme_arabesque,D,340 1/3,340 7/12
+1048,deuxieme_arabesque,C,342 1/3,342 7/12
+1049,deuxieme_arabesque,A,344 1/3,344 7/12
+1050,deuxieme_arabesque,G,346 1/3,346 7/12
+1051,deuxieme_arabesque,D,348 1/3,348 7/12
+1052,deuxieme_arabesque,C,350 1/3,350 7/12
+1053,deuxieme_arabesque,C,372,372 1/3
+1054,deuxieme_arabesque,D,372 1/3,372 2/3
+1055,deuxieme_arabesque,E,372 2/3,373
+1056,deuxieme_arabesque,D,374,374 1/2
+1057,deuxieme_arabesque,G,374 1/2,375
+1058,deuxieme_arabesque,E,375,375 1/2
+1059,deuxieme_arabesque,D,375 1/2,376
+1060,deuxieme_arabesque,D,388,388 1/2
+1061,deuxieme_arabesque,F#,388 1/2,389
+1062,deuxieme_arabesque,E,389,389 1/2
+1063,deuxieme_arabesque,G,389 1/2,390
+1064,deuxieme_arabesque,F#,390,390 1/2
+1065,deuxieme_arabesque,A,390 1/2,391
+1066,deuxieme_arabesque,G,391,391 1/2
+1067,deuxieme_arabesque,B,391 1/2,392
+1068,deuxieme_arabesque,A,392,392 1/2
+1069,deuxieme_arabesque,C,392 1/2,393
+1070,deuxieme_arabesque,B,393,393 1/2
+1071,deuxieme_arabesque,D,393 1/2,394
+1072,deuxieme_arabesque,C,394,394 1/2
+1073,deuxieme_arabesque,E,394 1/2,395
+1074,deuxieme_arabesque,D,395,395 1/2
+1075,deuxieme_arabesque,F#,395 1/2,396
+1076,deuxieme_arabesque,G,396 2/3,396 11/12
+1077,deuxieme_arabesque,E,397 2/3,397 11/12
+1078,deuxieme_arabesque,G,404 2/3,404 11/12
+1079,deuxieme_arabesque,E,405 2/3,405 11/12
+1080,deuxieme_arabesque,B,412 2/3,412 11/12
+1081,deuxieme_arabesque,G#,413 2/3,413 11/12
+1082,deuxieme_arabesque,B,416 2/3,416 11/12
+1083,deuxieme_arabesque,G#,417 2/3,417 11/12
+1084,deuxieme_arabesque,D,426 2/3,426 11/12
+1085,deuxieme_arabesque,B,427 2/3,427 11/12
+1086,deuxieme_arabesque,B,431,431 1/2
+1087,deuxieme_arabesque,B,30 1/4,30 3/4
+1088,deuxieme_arabesque,G,57 1/3,57 7/12
+1089,deuxieme_arabesque,G,65 1/3,65 7/12
+1090,deuxieme_arabesque,F#,68 1/4,68 3/4
+1091,deuxieme_arabesque,B-,106 1/4,106 3/4
+1092,deuxieme_arabesque,B,258 1/4,258 1/2
+1093,deuxieme_arabesque,D,431 1/4,431 3/4
+1094,deuxieme_arabesque,B,68 1/3,68 5/6
+1095,deuxieme_arabesque,D,106 1/3,106 5/6
+1096,deuxieme_arabesque,G,431 1/3,431 5/6
+1097,deuxieme_arabesque,C,0,4
+1098,deuxieme_arabesque,D,0,4
+1099,deuxieme_arabesque,F#,0,4
+1100,deuxieme_arabesque,B,4,8
+1101,deuxieme_arabesque,D,4,8
+1102,deuxieme_arabesque,F#,4,8
+1103,deuxieme_arabesque,A,8,12
+1104,deuxieme_arabesque,D,8,12
+1105,deuxieme_arabesque,F#,8,12
+1106,deuxieme_arabesque,D,12,16
+1107,deuxieme_arabesque,G,16,17 1/2
+1108,deuxieme_arabesque,D,16,17 1/2
+1109,deuxieme_arabesque,B,16,17 1/2
+1110,deuxieme_arabesque,C,19,19 1/4
+1111,deuxieme_arabesque,G,19,19 1/4
+1112,deuxieme_arabesque,G,20,21 1/2
+1113,deuxieme_arabesque,D,20,21 1/2
+1114,deuxieme_arabesque,B,20,21 1/2
+1115,deuxieme_arabesque,C,23,23 1/4
+1116,deuxieme_arabesque,G,23,23 1/4
+1117,deuxieme_arabesque,B,24,24 1/4
+1118,deuxieme_arabesque,G,24,24 1/4
+1119,deuxieme_arabesque,C,25,25 1/4
+1120,deuxieme_arabesque,G,25,25 1/4
+1121,deuxieme_arabesque,B,26,26 1/4
+1122,deuxieme_arabesque,G,26,26 1/4
+1123,deuxieme_arabesque,C,27,27 1/4
+1124,deuxieme_arabesque,G,27,27 1/4
+1125,deuxieme_arabesque,C#,28,28 1/2
+1126,deuxieme_arabesque,G,28,28 1/2
+1127,deuxieme_arabesque,A,28,28 1/2
+1128,deuxieme_arabesque,D,29,29 1/2
+1129,deuxieme_arabesque,D,30,30 1/2
+1130,deuxieme_arabesque,G,32,33 1/2
+1131,deuxieme_arabesque,D,32,33 1/2
+1132,deuxieme_arabesque,B,32,33 1/2
+1133,deuxieme_arabesque,C,35,35 1/4
+1134,deuxieme_arabesque,G,35,35 1/4
+1135,deuxieme_arabesque,G,36,37 1/2
+1136,deuxieme_arabesque,D,36,37 1/2
+1137,deuxieme_arabesque,B,36,37 1/2
+1138,deuxieme_arabesque,C,39,39 1/4
+1139,deuxieme_arabesque,G,39,39 1/4
+1140,deuxieme_arabesque,B,40,40 1/4
+1141,deuxieme_arabesque,G,40,40 1/4
+1142,deuxieme_arabesque,C,41,41 1/4
+1143,deuxieme_arabesque,G,41,41 1/4
+1144,deuxieme_arabesque,C#,42,42 1/2
+1145,deuxieme_arabesque,E,42 1/2,42 3/4
+1146,deuxieme_arabesque,A,43,43 1/4
+1147,deuxieme_arabesque,E,43 1/2,44
+1148,deuxieme_arabesque,B,44,44 1/2
+1149,deuxieme_arabesque,G,44,44 1/2
+1150,deuxieme_arabesque,C,45,45 1/2
+1151,deuxieme_arabesque,G,45,45 1/2
+1152,deuxieme_arabesque,C#,46,46 1/2
+1153,deuxieme_arabesque,E,46 1/2,46 3/4
+1154,deuxieme_arabesque,A,47,47 1/4
+1155,deuxieme_arabesque,E,47 1/2,48
+1156,deuxieme_arabesque,F#,48,48 1/2
+1157,deuxieme_arabesque,A,48,48 1/2
+1158,deuxieme_arabesque,D,48,48 1/2
+1159,deuxieme_arabesque,E,49,49 1/2
+1160,deuxieme_arabesque,G,49,49 1/2
+1161,deuxieme_arabesque,B,49,49 1/2
+1162,deuxieme_arabesque,F#,50,50 1/2
+1163,deuxieme_arabesque,A,50,50 1/2
+1164,deuxieme_arabesque,D,50,50 1/2
+1165,deuxieme_arabesque,E,51,51 1/2
+1166,deuxieme_arabesque,G,51,51 1/2
+1167,deuxieme_arabesque,B,51,51 1/2
+1168,deuxieme_arabesque,A,52,54
+1169,deuxieme_arabesque,F#,54,54 1/4
+1170,deuxieme_arabesque,D,54 1/2,54 3/4
+1171,deuxieme_arabesque,A,55,55 1/4
+1172,deuxieme_arabesque,D,55 1/2,55 3/4
+1173,deuxieme_arabesque,A,56,56 1/2
+1174,deuxieme_arabesque,A,56,56 1/2
+1175,deuxieme_arabesque,A,57,58 1/2
+1176,deuxieme_arabesque,E,57,58 1/2
+1177,deuxieme_arabesque,D,60,60 1/2
+1178,deuxieme_arabesque,D,60,60 1/2
+1179,deuxieme_arabesque,G,62,62 1/2
+1180,deuxieme_arabesque,G,62,62 1/2
+1181,deuxieme_arabesque,D,63,63 1/2
+1182,deuxieme_arabesque,G,63,63 1/2
+1183,deuxieme_arabesque,B,63,63 1/2
+1184,deuxieme_arabesque,D,63,63 1/2
+1185,deuxieme_arabesque,A,64,64 1/2
+1186,deuxieme_arabesque,A,64,64 1/2
+1187,deuxieme_arabesque,A,65,66 1/2
+1188,deuxieme_arabesque,E,65,66 1/2
+1189,deuxieme_arabesque,D,68,68 1/2
+1190,deuxieme_arabesque,D,68,68 1/2
+1191,deuxieme_arabesque,G,70,70 1/2
+1192,deuxieme_arabesque,G,70,70 1/2
+1193,deuxieme_arabesque,D,71,71 1/2
+1194,deuxieme_arabesque,G,71,71 1/2
+1195,deuxieme_arabesque,B,71,71 1/2
+1196,deuxieme_arabesque,D,71,71 1/2
+1197,deuxieme_arabesque,F,72,72 1/4
+1198,deuxieme_arabesque,G,72 1/4,72 1/2
+1199,deuxieme_arabesque,D,72 1/2,72 3/4
+1200,deuxieme_arabesque,F,73,73 1/4
+1201,deuxieme_arabesque,E,73 1/2,73 3/4
+1202,deuxieme_arabesque,F,74,74 1/4
+1203,deuxieme_arabesque,G,74 1/4,74 1/2
+1204,deuxieme_arabesque,D,74 1/2,75
+1205,deuxieme_arabesque,F,75,75 1/4
+1206,deuxieme_arabesque,E,75 1/2,75 3/4
+1207,deuxieme_arabesque,F,76,76 1/4
+1208,deuxieme_arabesque,G,76 1/4,76 1/2
+1209,deuxieme_arabesque,D,76 1/2,76 3/4
+1210,deuxieme_arabesque,F,77,77 1/4
+1211,deuxieme_arabesque,E,77 1/2,77 3/4
+1212,deuxieme_arabesque,F,78,78 1/4
+1213,deuxieme_arabesque,D,78 1/2,78 3/4
+1214,deuxieme_arabesque,E,79,79 1/4
+1215,deuxieme_arabesque,F,79 1/2,79 3/4
+1216,deuxieme_arabesque,G,80,80 1/4
+1217,deuxieme_arabesque,A,80 1/4,80 1/2
+1218,deuxieme_arabesque,E,80 1/2,80 3/4
+1219,deuxieme_arabesque,G,81,81 1/4
+1220,deuxieme_arabesque,F#,81 1/2,81 3/4
+1221,deuxieme_arabesque,G,82,82 1/4
+1222,deuxieme_arabesque,A,82 1/4,82 1/2
+1223,deuxieme_arabesque,E,82 1/2,82 3/4
+1224,deuxieme_arabesque,G,83,83 1/4
+1225,deuxieme_arabesque,F#,83 1/2,83 3/4
+1226,deuxieme_arabesque,G,84,84 1/4
+1227,deuxieme_arabesque,A,84 1/4,84 1/2
+1228,deuxieme_arabesque,E,84 1/2,84 3/4
+1229,deuxieme_arabesque,G,85,85 1/4
+1230,deuxieme_arabesque,F#,85 1/2,85 3/4
+1231,deuxieme_arabesque,G,86,86 1/4
+1232,deuxieme_arabesque,A,86 1/2,86 3/4
+1233,deuxieme_arabesque,B,87,87 1/4
+1234,deuxieme_arabesque,C#,87 1/2,87 3/4
+1235,deuxieme_arabesque,D,88,88 1/2
+1236,deuxieme_arabesque,G,88,88 1/2
+1237,deuxieme_arabesque,B,88,88 1/2
+1238,deuxieme_arabesque,D,88,88 1/2
+1239,deuxieme_arabesque,D,91,91 1/2
+1240,deuxieme_arabesque,D,92,92 1/2
+1241,deuxieme_arabesque,G,92,92 1/2
+1242,deuxieme_arabesque,B,92,92 1/2
+1243,deuxieme_arabesque,D,92,92 1/2
+1244,deuxieme_arabesque,D,95,95 1/2
+1245,deuxieme_arabesque,G,97,97 1/4
+1246,deuxieme_arabesque,A,97 1/4,97 1/2
+1247,deuxieme_arabesque,E,97 1/2,97 3/4
+1248,deuxieme_arabesque,G,99,99 1/4
+1249,deuxieme_arabesque,A,99 1/4,99 1/2
+1250,deuxieme_arabesque,E,99 1/2,99 3/4
+1251,deuxieme_arabesque,D,100,100 1/4
+1252,deuxieme_arabesque,E,100 1/2,100 3/4
+1253,deuxieme_arabesque,G,101,101 1/4
+1254,deuxieme_arabesque,B,101 1/2,101 3/4
+1255,deuxieme_arabesque,D,106,106 1/2
+1256,deuxieme_arabesque,G,108,108 1/2
+1257,deuxieme_arabesque,G,108,108 1/2
+1258,deuxieme_arabesque,D,110,116
+1259,deuxieme_arabesque,G,116,116 1/2
+1260,deuxieme_arabesque,G,116,116 1/2
+1261,deuxieme_arabesque,D,118,122
+1262,deuxieme_arabesque,C,122,124
+1263,deuxieme_arabesque,E,122,124
+1264,deuxieme_arabesque,F#,122,124
+1265,deuxieme_arabesque,B,124,125
+1266,deuxieme_arabesque,E-,124,125
+1267,deuxieme_arabesque,F#,124,125
+1268,deuxieme_arabesque,G#,127,128
+1269,deuxieme_arabesque,B,127,128
+1270,deuxieme_arabesque,E-,127,128
+1271,deuxieme_arabesque,G#,127,128
+1272,deuxieme_arabesque,B,128,129
+1273,deuxieme_arabesque,E-,128,129
+1274,deuxieme_arabesque,F#,128,129
+1275,deuxieme_arabesque,B,128,129
+1276,deuxieme_arabesque,G#,131,132
+1277,deuxieme_arabesque,B,131,132
+1278,deuxieme_arabesque,E-,131,132
+1279,deuxieme_arabesque,G#,131,132
+1280,deuxieme_arabesque,B,132,132 1/2
+1281,deuxieme_arabesque,E-,132,132 1/2
+1282,deuxieme_arabesque,F#,132,132 1/2
+1283,deuxieme_arabesque,B,132,132 1/2
+1284,deuxieme_arabesque,B,133,133 1/2
+1285,deuxieme_arabesque,E-,133,133 1/2
+1286,deuxieme_arabesque,F#,133,133 1/2
+1287,deuxieme_arabesque,B,133,133 1/2
+1288,deuxieme_arabesque,A,135,135 1/2
+1289,deuxieme_arabesque,C,135,135 1/2
+1290,deuxieme_arabesque,E,135,135 1/2
+1291,deuxieme_arabesque,A,135,135 1/2
+1292,deuxieme_arabesque,D,136,136 1/2
+1293,deuxieme_arabesque,F#,136,136 1/2
+1294,deuxieme_arabesque,A,136,136 1/2
+1295,deuxieme_arabesque,C,136,136 1/2
+1296,deuxieme_arabesque,D,137,137 1/2
+1297,deuxieme_arabesque,F#,137,137 1/2
+1298,deuxieme_arabesque,A,137,137 1/2
+1299,deuxieme_arabesque,C,137,137 1/2
+1300,deuxieme_arabesque,C,138 1/2,138 3/4
+1301,deuxieme_arabesque,C,138 1/2,138 3/4
+1302,deuxieme_arabesque,B,139,139 1/4
+1303,deuxieme_arabesque,B,139,139 1/4
+1304,deuxieme_arabesque,A,139 1/2,139 3/4
+1305,deuxieme_arabesque,A,139 1/2,139 3/4
+1306,deuxieme_arabesque,G,140,140 1/4
+1307,deuxieme_arabesque,G,140,140 1/4
+1308,deuxieme_arabesque,G,141,141 1/4
+1309,deuxieme_arabesque,G,141,141 1/4
+1310,deuxieme_arabesque,D,143,143 1/4
+1311,deuxieme_arabesque,B,143 1/4,143 1/2
+1312,deuxieme_arabesque,G,145,145 1/2
+1313,deuxieme_arabesque,G,145,145 1/2
+1314,deuxieme_arabesque,D,148,149
+1315,deuxieme_arabesque,E,149,151
+1316,deuxieme_arabesque,D,151,152
+1317,deuxieme_arabesque,C,152,153
+1318,deuxieme_arabesque,B,153,154
+1319,deuxieme_arabesque,A,154,155
+1320,deuxieme_arabesque,G,155,156
+1321,deuxieme_arabesque,A,156,157
+1322,deuxieme_arabesque,B,157,158
+1323,deuxieme_arabesque,C,158,159
+1324,deuxieme_arabesque,D,159,160
+1325,deuxieme_arabesque,E,160,161
+1326,deuxieme_arabesque,D,161,161 1/2
+1327,deuxieme_arabesque,F,161,161 1/2
+1328,deuxieme_arabesque,D,162,164
+1329,deuxieme_arabesque,F,162,164
+1330,deuxieme_arabesque,F,164,165
+1331,deuxieme_arabesque,A,164,165
+1332,deuxieme_arabesque,E,165,168
+1333,deuxieme_arabesque,G,165,168
+1334,deuxieme_arabesque,F,168,169
+1335,deuxieme_arabesque,A,168,169
+1336,deuxieme_arabesque,E,169,172
+1337,deuxieme_arabesque,G,169,172
+1338,deuxieme_arabesque,F,172,172 1/4
+1339,deuxieme_arabesque,G,172 1/2,172 3/4
+1340,deuxieme_arabesque,A,173,173 1/4
+1341,deuxieme_arabesque,B,173 1/2,173 3/4
+1342,deuxieme_arabesque,C,174,174 1/4
+1343,deuxieme_arabesque,D,174 1/2,174 3/4
+1344,deuxieme_arabesque,E,175,175 1/4
+1345,deuxieme_arabesque,F,175 1/2,175 3/4
+1346,deuxieme_arabesque,G,176,176 1/4
+1347,deuxieme_arabesque,A,176 1/2,176 3/4
+1348,deuxieme_arabesque,A,177,177 1/4
+1349,deuxieme_arabesque,A,177 1/2,177 3/4
+1350,deuxieme_arabesque,B,178,178 1/4
+1351,deuxieme_arabesque,F#,178,178 1/4
+1352,deuxieme_arabesque,A,178,178 1/4
+1353,deuxieme_arabesque,B,178 1/2,178 3/4
+1354,deuxieme_arabesque,F#,178 1/2,178 3/4
+1355,deuxieme_arabesque,A,178 1/2,178 3/4
+1356,deuxieme_arabesque,B,179,179 1/4
+1357,deuxieme_arabesque,F#,179,179 1/4
+1358,deuxieme_arabesque,A,179,179 1/4
+1359,deuxieme_arabesque,B,179 1/2,179 3/4
+1360,deuxieme_arabesque,F#,179 1/2,179 3/4
+1361,deuxieme_arabesque,A,179 1/2,179 3/4
+1362,deuxieme_arabesque,D,180,181
+1363,deuxieme_arabesque,F,180,181
+1364,deuxieme_arabesque,G,180,181
+1365,deuxieme_arabesque,E,181,183
+1366,deuxieme_arabesque,F,181,183
+1367,deuxieme_arabesque,G,181,183
+1368,deuxieme_arabesque,D,183,183 1/2
+1369,deuxieme_arabesque,F,183,183 1/2
+1370,deuxieme_arabesque,G,183,183 1/2
+1371,deuxieme_arabesque,C,184,184 1/2
+1372,deuxieme_arabesque,F,184,184 1/2
+1373,deuxieme_arabesque,G,184,184 1/2
+1374,deuxieme_arabesque,B,185,185 1/2
+1375,deuxieme_arabesque,F,185,185 1/2
+1376,deuxieme_arabesque,G,185,185 1/2
+1377,deuxieme_arabesque,A,186,186 1/2
+1378,deuxieme_arabesque,F,186,186 1/2
+1379,deuxieme_arabesque,G,186,186 1/2
+1380,deuxieme_arabesque,G,187,187 1/2
+1381,deuxieme_arabesque,F,187,187 1/2
+1382,deuxieme_arabesque,G,187,187 1/2
+1383,deuxieme_arabesque,A,188,188 1/2
+1384,deuxieme_arabesque,F,188,188 1/2
+1385,deuxieme_arabesque,G,188,188 1/2
+1386,deuxieme_arabesque,B,189,189 1/2
+1387,deuxieme_arabesque,F,189,189 1/2
+1388,deuxieme_arabesque,G,189,189 1/2
+1389,deuxieme_arabesque,C,190,190 1/2
+1390,deuxieme_arabesque,F,190,190 1/2
+1391,deuxieme_arabesque,G,190,190 1/2
+1392,deuxieme_arabesque,D,191,191 1/2
+1393,deuxieme_arabesque,F,191,191 1/2
+1394,deuxieme_arabesque,G,191,191 1/2
+1395,deuxieme_arabesque,E,192,193
+1396,deuxieme_arabesque,F,192,193
+1397,deuxieme_arabesque,G,192,193
+1398,deuxieme_arabesque,D,193,193 1/2
+1399,deuxieme_arabesque,F,193,193 1/2
+1400,deuxieme_arabesque,G,193,193 1/2
+1401,deuxieme_arabesque,D,194,196
+1402,deuxieme_arabesque,F,194,196
+1403,deuxieme_arabesque,G,194,196
+1404,deuxieme_arabesque,B,196,200
+1405,deuxieme_arabesque,B,200,204
+1406,deuxieme_arabesque,B,204,208
+1407,deuxieme_arabesque,B,208,212
+1408,deuxieme_arabesque,B,212,216
+1409,deuxieme_arabesque,B,216,220
+1410,deuxieme_arabesque,B-,220,224
+1411,deuxieme_arabesque,B-,224,228
+1412,deuxieme_arabesque,E-,228,232
+1413,deuxieme_arabesque,G,228,232
+1414,deuxieme_arabesque,B-,232,236
+1415,deuxieme_arabesque,E-,236,240
+1416,deuxieme_arabesque,B-,240,242
+1417,deuxieme_arabesque,E-,242,244
+1418,deuxieme_arabesque,G,244,245 1/2
+1419,deuxieme_arabesque,C,247,247 1/2
+1420,deuxieme_arabesque,G,247,247 1/2
+1421,deuxieme_arabesque,G,248,249 1/2
+1422,deuxieme_arabesque,C,251,251 1/2
+1423,deuxieme_arabesque,G,251,251 1/2
+1424,deuxieme_arabesque,B,252,252 1/2
+1425,deuxieme_arabesque,G,252,252 1/2
+1426,deuxieme_arabesque,C,253,253 1/2
+1427,deuxieme_arabesque,G,253,253 1/2
+1428,deuxieme_arabesque,B,254,254 1/2
+1429,deuxieme_arabesque,G,254,254 1/2
+1430,deuxieme_arabesque,C,255,255 1/2
+1431,deuxieme_arabesque,G,255,255 1/2
+1432,deuxieme_arabesque,C#,256,256 1/2
+1433,deuxieme_arabesque,G,256,256 1/2
+1434,deuxieme_arabesque,A,256,256 1/2
+1435,deuxieme_arabesque,D,257,257 1/2
+1436,deuxieme_arabesque,D,258,258 1/2
+1437,deuxieme_arabesque,G,260,261 1/2
+1438,deuxieme_arabesque,D,260,261 1/2
+1439,deuxieme_arabesque,B,260,261 1/2
+1440,deuxieme_arabesque,C,263,263 1/4
+1441,deuxieme_arabesque,G,263,263 1/4
+1442,deuxieme_arabesque,G,264,265 1/2
+1443,deuxieme_arabesque,D,264,265 1/2
+1444,deuxieme_arabesque,B,264,265 1/2
+1445,deuxieme_arabesque,C,267,267 1/4
+1446,deuxieme_arabesque,G,267,267 1/4
+1447,deuxieme_arabesque,B,268,268 1/4
+1448,deuxieme_arabesque,G,268,268 1/4
+1449,deuxieme_arabesque,C,269,269 1/4
+1450,deuxieme_arabesque,G,269,269 1/4
+1451,deuxieme_arabesque,C#,270,270 1/2
+1452,deuxieme_arabesque,E,270 1/2,270 3/4
+1453,deuxieme_arabesque,A,271,271 1/4
+1454,deuxieme_arabesque,E,271 1/2,272
+1455,deuxieme_arabesque,A,271 1/2,272
+1456,deuxieme_arabesque,B,272,272 1/4
+1457,deuxieme_arabesque,G,272,272 1/4
+1458,deuxieme_arabesque,C,273,273 1/4
+1459,deuxieme_arabesque,G,273,273 1/4
+1460,deuxieme_arabesque,C#,274,274 1/2
+1461,deuxieme_arabesque,E,274 1/2,274 3/4
+1462,deuxieme_arabesque,A,275,275 1/4
+1463,deuxieme_arabesque,E,275 1/2,276
+1464,deuxieme_arabesque,A,275 1/2,276
+1465,deuxieme_arabesque,F#,276,276 1/2
+1466,deuxieme_arabesque,A,276,276 1/2
+1467,deuxieme_arabesque,D,276,276 1/2
+1468,deuxieme_arabesque,E,277,277 1/2
+1469,deuxieme_arabesque,G,277,277 1/2
+1470,deuxieme_arabesque,B,277,277 1/2
+1471,deuxieme_arabesque,F#,278,278 1/2
+1472,deuxieme_arabesque,A,278,278 1/2
+1473,deuxieme_arabesque,D,278,278 1/2
+1474,deuxieme_arabesque,E,279,279 1/2
+1475,deuxieme_arabesque,G,279,279 1/2
+1476,deuxieme_arabesque,B,279,279 1/2
+1477,deuxieme_arabesque,A,280,282
+1478,deuxieme_arabesque,F#,282,282 1/4
+1479,deuxieme_arabesque,D,282 1/2,282 3/4
+1480,deuxieme_arabesque,A,283,283 1/4
+1481,deuxieme_arabesque,D,283 1/2,283 3/4
+1482,deuxieme_arabesque,F,284,284 1/2
+1483,deuxieme_arabesque,F,284,284 1/2
+1484,deuxieme_arabesque,F,286,288
+1485,deuxieme_arabesque,F,288,290
+1486,deuxieme_arabesque,C,288,290
+1487,deuxieme_arabesque,B,290,291
+1488,deuxieme_arabesque,F,290,291
+1489,deuxieme_arabesque,A,290,291
+1490,deuxieme_arabesque,F,292,292 1/2
+1491,deuxieme_arabesque,F,292,292 1/2
+1492,deuxieme_arabesque,F,294,298
+1493,deuxieme_arabesque,B,298,299
+1494,deuxieme_arabesque,F,298,299
+1495,deuxieme_arabesque,A,298,299
+1496,deuxieme_arabesque,G,300,300 1/4
+1497,deuxieme_arabesque,A,300 1/4,300 1/2
+1498,deuxieme_arabesque,E,300 1/2,300 3/4
+1499,deuxieme_arabesque,C,301,301 1/4
+1500,deuxieme_arabesque,E,301 1/2,301 3/4
+1501,deuxieme_arabesque,G,301 1/2,301 3/4
+1502,deuxieme_arabesque,E-,302,302 1/4
+1503,deuxieme_arabesque,F#,302,302 1/4
+1504,deuxieme_arabesque,B,302 1/2,302 3/4
+1505,deuxieme_arabesque,E-,303,303 1/4
+1506,deuxieme_arabesque,F#,303 1/2,303 3/4
+1507,deuxieme_arabesque,G,304,304 1/4
+1508,deuxieme_arabesque,A,304 1/4,304 1/2
+1509,deuxieme_arabesque,E,304 1/2,304 3/4
+1510,deuxieme_arabesque,C,305,305 1/4
+1511,deuxieme_arabesque,E,305 1/2,305 3/4
+1512,deuxieme_arabesque,G,305 1/2,305 3/4
+1513,deuxieme_arabesque,D,306,306 1/4
+1514,deuxieme_arabesque,F#,306,306 1/4
+1515,deuxieme_arabesque,B,306 1/2,306 3/4
+1516,deuxieme_arabesque,D,307,307 1/4
+1517,deuxieme_arabesque,F#,307 1/2,307 3/4
+1518,deuxieme_arabesque,E,308,308 1/4
+1519,deuxieme_arabesque,F#,308 1/4,308 1/2
+1520,deuxieme_arabesque,C,308 1/2,308 3/4
+1521,deuxieme_arabesque,A,309,309 1/4
+1522,deuxieme_arabesque,C,309 1/2,309 3/4
+1523,deuxieme_arabesque,E,309 1/2,309 3/4
+1524,deuxieme_arabesque,B,310,310 1/4
+1525,deuxieme_arabesque,D,310,310 1/4
+1526,deuxieme_arabesque,G#,310 1/2,310 3/4
+1527,deuxieme_arabesque,B,311,311 1/4
+1528,deuxieme_arabesque,D,311 1/2,311 3/4
+1529,deuxieme_arabesque,A,316,317
+1530,deuxieme_arabesque,G,318,319
+1531,deuxieme_arabesque,F#,320,321
+1532,deuxieme_arabesque,D,322,323
+1533,deuxieme_arabesque,G,324,328
+1534,deuxieme_arabesque,G,324,328
+1535,deuxieme_arabesque,G,328,328 1/2
+1536,deuxieme_arabesque,B,329,329 1/2
+1537,deuxieme_arabesque,D,330,332
+1538,deuxieme_arabesque,G,330,332
+1539,deuxieme_arabesque,A,330,332
+1540,deuxieme_arabesque,B,330,332
+1541,deuxieme_arabesque,G,332,336
+1542,deuxieme_arabesque,G,332,336
+1543,deuxieme_arabesque,B,336,336 1/2
+1544,deuxieme_arabesque,F,340,344
+1545,deuxieme_arabesque,F,340,344
+1546,deuxieme_arabesque,F,344,344 1/2
+1547,deuxieme_arabesque,A,345,345 1/2
+1548,deuxieme_arabesque,C,346,348
+1549,deuxieme_arabesque,F,346,348
+1550,deuxieme_arabesque,G,346,348
+1551,deuxieme_arabesque,B,346,348
+1552,deuxieme_arabesque,F,348,352
+1553,deuxieme_arabesque,F,348,352
+1554,deuxieme_arabesque,A,352,352 1/4
+1555,deuxieme_arabesque,C,356,356 1/3
+1556,deuxieme_arabesque,D,356 1/3,356 2/3
+1557,deuxieme_arabesque,E,356 2/3,357
+1558,deuxieme_arabesque,D,357,358 1/2
+1559,deuxieme_arabesque,G,358 1/2,358 3/4
+1560,deuxieme_arabesque,E,359,359 1/4
+1561,deuxieme_arabesque,D,359 1/2,359 3/4
+1562,deuxieme_arabesque,C,360,360 1/2
+1563,deuxieme_arabesque,D,361,361 1/2
+1564,deuxieme_arabesque,E,362,362 1/2
+1565,deuxieme_arabesque,F,363,363 1/2
+1566,deuxieme_arabesque,E,364,364 1/2
+1567,deuxieme_arabesque,F,365,365 1/2
+1568,deuxieme_arabesque,G,366,366 1/2
+1569,deuxieme_arabesque,B-,367,367 1/2
+1570,deuxieme_arabesque,A,368,368 1/2
+1571,deuxieme_arabesque,B-,369,369 1/2
+1572,deuxieme_arabesque,C,370,370 1/2
+1573,deuxieme_arabesque,D,371,371 1/2
+1574,deuxieme_arabesque,E,372,372 1/2
+1575,deuxieme_arabesque,F,373,373 1/2
+1576,deuxieme_arabesque,G,374,374 1/2
+1577,deuxieme_arabesque,G#,375,375 1/2
+1578,deuxieme_arabesque,A,376,376 1/2
+1579,deuxieme_arabesque,B-,377,377 1/2
+1580,deuxieme_arabesque,B,378,378 1/2
+1581,deuxieme_arabesque,C,379,379 1/2
+1582,deuxieme_arabesque,D,380,381
+1583,deuxieme_arabesque,D,380,381
+1584,deuxieme_arabesque,E,381,382
+1585,deuxieme_arabesque,F#,382,383
+1586,deuxieme_arabesque,G,383,384
+1587,deuxieme_arabesque,D,384,388
+1588,deuxieme_arabesque,C,388,389
+1589,deuxieme_arabesque,D,388,389
+1590,deuxieme_arabesque,B,389,390
+1591,deuxieme_arabesque,D,389,390
+1592,deuxieme_arabesque,A,390,391
+1593,deuxieme_arabesque,D,390,391
+1594,deuxieme_arabesque,G,391,392
+1595,deuxieme_arabesque,D,391,392
+1596,deuxieme_arabesque,D,392,393
+1597,deuxieme_arabesque,D,392,393
+1598,deuxieme_arabesque,C,393,394
+1599,deuxieme_arabesque,D,393,394
+1600,deuxieme_arabesque,C,394,395
+1601,deuxieme_arabesque,D,394,395
+1602,deuxieme_arabesque,B,395,396
+1603,deuxieme_arabesque,C,395,396
+1604,deuxieme_arabesque,D,395,396
+1605,deuxieme_arabesque,G,396,396 1/2
+1606,deuxieme_arabesque,G,396,396 1/2
+1607,deuxieme_arabesque,D,398,402
+1608,deuxieme_arabesque,A,402,404
+1609,deuxieme_arabesque,C,402,404
+1610,deuxieme_arabesque,D,402,404
+1611,deuxieme_arabesque,G,404,404 1/2
+1612,deuxieme_arabesque,G,404,404 1/2
+1613,deuxieme_arabesque,D,406,410
+1614,deuxieme_arabesque,C,410,412
+1615,deuxieme_arabesque,E,410,412
+1616,deuxieme_arabesque,F#,410,412
+1617,deuxieme_arabesque,B,412,413
+1618,deuxieme_arabesque,E-,412,413
+1619,deuxieme_arabesque,F#,412,413
+1620,deuxieme_arabesque,G#,415,416
+1621,deuxieme_arabesque,B,415,416
+1622,deuxieme_arabesque,E-,415,416
+1623,deuxieme_arabesque,G#,415,416
+1624,deuxieme_arabesque,B,416,416 1/2
+1625,deuxieme_arabesque,E-,416,416 1/2
+1626,deuxieme_arabesque,F#,416,416 1/2
+1627,deuxieme_arabesque,B,416,416 1/2
+1628,deuxieme_arabesque,G#,419,420
+1629,deuxieme_arabesque,B,419,420
+1630,deuxieme_arabesque,E-,419,420
+1631,deuxieme_arabesque,G#,419,420
+1632,deuxieme_arabesque,B,420,420 1/2
+1633,deuxieme_arabesque,E-,420,420 1/2
+1634,deuxieme_arabesque,F#,420,420 1/2
+1635,deuxieme_arabesque,B,420,420 1/2
+1636,deuxieme_arabesque,B,421,422
+1637,deuxieme_arabesque,E-,421,422
+1638,deuxieme_arabesque,F#,421,422
+1639,deuxieme_arabesque,B,421,422
+1640,deuxieme_arabesque,A,423,424
+1641,deuxieme_arabesque,C,423,424
+1642,deuxieme_arabesque,E,423,424
+1643,deuxieme_arabesque,A,423,424
+1644,deuxieme_arabesque,D,424,424 1/2
+1645,deuxieme_arabesque,F#,424,424 1/2
+1646,deuxieme_arabesque,A,424,424 1/2
+1647,deuxieme_arabesque,C,424,424 1/2
+1648,deuxieme_arabesque,D,425,425 1/2
+1649,deuxieme_arabesque,F#,425,425 1/2
+1650,deuxieme_arabesque,A,425,425 1/2
+1651,deuxieme_arabesque,C,425,425 1/2
+1652,deuxieme_arabesque,C,426 1/2,427
+1653,deuxieme_arabesque,C,426 1/2,427
+1654,deuxieme_arabesque,B,427,427 1/2
+1655,deuxieme_arabesque,B,427,427 1/2
+1656,deuxieme_arabesque,A,427 1/2,428
+1657,deuxieme_arabesque,A,427 1/2,428
+1658,deuxieme_arabesque,G,428,428 1/2
+1659,deuxieme_arabesque,G,428,428 1/2
+1660,deuxieme_arabesque,G,429,429 1/2
+1661,deuxieme_arabesque,G,429,429 1/2
+1662,deuxieme_arabesque,D,431,431 1/2
+1663,deuxieme_arabesque,D,432,432 1/2
+1664,deuxieme_arabesque,G,432,432 1/2
+1665,deuxieme_arabesque,B,432,432 1/2
+1666,deuxieme_arabesque,D,432,432 1/2
+1667,deuxieme_arabesque,G,434,434 1/2
+1668,deuxieme_arabesque,G,434,434 1/2
+1669,deuxieme_arabesque,G,436,436 1/2
+1670,deuxieme_arabesque,G,436,436 1/2
+1671,deuxieme_arabesque,C,29,29 1/2
+1672,deuxieme_arabesque,A,30,30 1/2
+1673,deuxieme_arabesque,G,42,42 1/2
+1674,deuxieme_arabesque,A,43 2/3,44 1/6
+1675,deuxieme_arabesque,G,46,46 1/2
+1676,deuxieme_arabesque,A,47 2/3,48 1/6
+1677,deuxieme_arabesque,F#,52,53
+1678,deuxieme_arabesque,G,53,53 1/2
+1679,deuxieme_arabesque,A,53 1/2,54
+1680,deuxieme_arabesque,F,72 1/3,72 7/12
+1681,deuxieme_arabesque,F,74 1/3,74 7/12
+1682,deuxieme_arabesque,F,76 1/3,76 7/12
+1683,deuxieme_arabesque,G,80 1/3,80 7/12
+1684,deuxieme_arabesque,G,82 1/3,82 7/12
+1685,deuxieme_arabesque,G,84 1/3,84 7/12
+1686,deuxieme_arabesque,G,91,91 1/2
+1687,deuxieme_arabesque,G,95,95 1/2
+1688,deuxieme_arabesque,G,97 1/3,97 7/12
+1689,deuxieme_arabesque,G,99 1/3,99 7/12
+1690,deuxieme_arabesque,C,106,106 1/2
+1691,deuxieme_arabesque,G,110,112
+1692,deuxieme_arabesque,G,112,114
+1693,deuxieme_arabesque,A,112,114
+1694,deuxieme_arabesque,C,112,114
+1695,deuxieme_arabesque,A,114,116
+1696,deuxieme_arabesque,C,114,116
+1697,deuxieme_arabesque,D,114,116
+1698,deuxieme_arabesque,G,118,120
+1699,deuxieme_arabesque,G,120,122
+1700,deuxieme_arabesque,A,120,122
+1701,deuxieme_arabesque,C,120,122
+1702,deuxieme_arabesque,G,143,143 1/4
+1703,deuxieme_arabesque,D,143 1/3,143 7/12
+1704,deuxieme_arabesque,F,148,151
+1705,deuxieme_arabesque,F,151,153
+1706,deuxieme_arabesque,F,153,155
+1707,deuxieme_arabesque,F,155,157
+1708,deuxieme_arabesque,F,157,159
+1709,deuxieme_arabesque,F,159,161
+1710,deuxieme_arabesque,G,163,163 1/2
+1711,deuxieme_arabesque,G,166,166 1/2
+1712,deuxieme_arabesque,G,167,167 1/2
+1713,deuxieme_arabesque,G,170,170 1/2
+1714,deuxieme_arabesque,G,171,171 1/2
+1715,deuxieme_arabesque,G,195,196
+1716,deuxieme_arabesque,G#,196,197
+1717,deuxieme_arabesque,A,197,198
+1718,deuxieme_arabesque,F#,198,199
+1719,deuxieme_arabesque,G,199,200
+1720,deuxieme_arabesque,G#,200,201
+1721,deuxieme_arabesque,A,201,202
+1722,deuxieme_arabesque,F#,202,203
+1723,deuxieme_arabesque,G,203,204
+1724,deuxieme_arabesque,G#,204,205
+1725,deuxieme_arabesque,A,205,206
+1726,deuxieme_arabesque,B,206,207
+1727,deuxieme_arabesque,C#,207,208
+1728,deuxieme_arabesque,E-,208,209
+1729,deuxieme_arabesque,E,209,210
+1730,deuxieme_arabesque,F#,210,211
+1731,deuxieme_arabesque,G,211,212
+1732,deuxieme_arabesque,G#,212,213
+1733,deuxieme_arabesque,A,213,214
+1734,deuxieme_arabesque,F#,214,215
+1735,deuxieme_arabesque,G,215,216
+1736,deuxieme_arabesque,G#,216,217
+1737,deuxieme_arabesque,A,217,218
+1738,deuxieme_arabesque,F#,218,220
+1739,deuxieme_arabesque,G,220,221
+1740,deuxieme_arabesque,G#,221,222
+1741,deuxieme_arabesque,B-,222,223
+1742,deuxieme_arabesque,C,223,224
+1743,deuxieme_arabesque,D,224,225
+1744,deuxieme_arabesque,E-,225,226
+1745,deuxieme_arabesque,F,226,227
+1746,deuxieme_arabesque,G#,227,228
+1747,deuxieme_arabesque,D,244,245 1/2
+1748,deuxieme_arabesque,D,248,249 1/2
+1749,deuxieme_arabesque,C,257,257 1/2
+1750,deuxieme_arabesque,A,258,258 1/2
+1751,deuxieme_arabesque,G,270,270 1/2
+1752,deuxieme_arabesque,G,274,274 1/2
+1753,deuxieme_arabesque,F#,280,281
+1754,deuxieme_arabesque,G,281,281 1/2
+1755,deuxieme_arabesque,A,281 1/2,282
+1756,deuxieme_arabesque,C,296,298
+1757,deuxieme_arabesque,G,300 1/3,300 7/12
+1758,deuxieme_arabesque,G,304 1/3,304 7/12
+1759,deuxieme_arabesque,E,308 1/3,308 7/12
+1760,deuxieme_arabesque,D,325,325 1/4
+1761,deuxieme_arabesque,G,325 1/2,325 3/4
+1762,deuxieme_arabesque,B,326,326 1/4
+1763,deuxieme_arabesque,D,327,327 1/4
+1764,deuxieme_arabesque,E,327 1/2,327 3/4
+1765,deuxieme_arabesque,D,333,333 1/4
+1766,deuxieme_arabesque,G,333 1/2,333 3/4
+1767,deuxieme_arabesque,B,334,334 1/4
+1768,deuxieme_arabesque,D,335,335 1/4
+1769,deuxieme_arabesque,G,335 1/2,335 3/4
+1770,deuxieme_arabesque,C,341,341 1/4
+1771,deuxieme_arabesque,F,341 1/2,341 3/4
+1772,deuxieme_arabesque,A,342,342 1/4
+1773,deuxieme_arabesque,C,343,343 1/4
+1774,deuxieme_arabesque,D,343 1/2,343 3/4
+1775,deuxieme_arabesque,C,349,349 1/4
+1776,deuxieme_arabesque,F,349 1/2,349 3/4
+1777,deuxieme_arabesque,A,350,350 1/4
+1778,deuxieme_arabesque,C,351,351 1/4
+1779,deuxieme_arabesque,F,351 1/2,351 3/4
+1780,deuxieme_arabesque,E,384,385
+1781,deuxieme_arabesque,F#,385,386
+1782,deuxieme_arabesque,G,386,387
+1783,deuxieme_arabesque,A,387,388
+1784,deuxieme_arabesque,G,398,400
+1785,deuxieme_arabesque,G,400,402
+1786,deuxieme_arabesque,A,400,402
+1787,deuxieme_arabesque,C,400,402
+1788,deuxieme_arabesque,G,406,408
+1789,deuxieme_arabesque,G,408,410
+1790,deuxieme_arabesque,A,408,410
+1791,deuxieme_arabesque,C,408,410
+1792,deuxieme_arabesque,G,431,431 1/2
+1793,deuxieme_arabesque,F#,29 1/4,29 3/4
+1794,deuxieme_arabesque,C,30 1/4,30 3/4
+1795,deuxieme_arabesque,A,42 1/4,42 3/4
+1796,deuxieme_arabesque,A,46 1/4,46 3/4
+1797,deuxieme_arabesque,A,91 1/4,91 3/4
+1798,deuxieme_arabesque,A,95 1/4,95 3/4
+1799,deuxieme_arabesque,B,244 1/4,245 3/4
+1800,deuxieme_arabesque,B,248 1/4,249 3/4
+1801,deuxieme_arabesque,F#,257 1/4,257 3/4
+1802,deuxieme_arabesque,C,258 1/4,258 3/4
+1803,deuxieme_arabesque,A,270 1/4,270 3/4
+1804,deuxieme_arabesque,A,274 1/4,274 3/4
+1805,deuxieme_arabesque,B,431 1/4,431 3/4
+1806,deuxieme_arabesque,C,91 1/3,91 5/6
+1807,deuxieme_arabesque,C,95 1/3,95 5/6
+1808,deuxieme_arabesque,D,431 1/3,431 5/6

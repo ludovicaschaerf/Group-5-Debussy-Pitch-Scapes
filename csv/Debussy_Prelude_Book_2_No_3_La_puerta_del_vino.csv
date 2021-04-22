@@ -1,0 +1,957 @@
+﻿,score_name,pitch_name,pitch_onset,pitch_offset
+0,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,1,1 1/4
+1,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,1 1/2,1 3/4
+2,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,3,3 1/4
+3,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,3 1/2,3 3/4
+4,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,8,13
+5,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,13,15
+6,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,15,16 1/3
+7,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,16 1/3,16 2/3
+8,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,16 2/3,17
+9,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,17,17 1/2
+10,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,17 1/2,18
+11,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,18 1/3,18 2/3
+12,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,18 2/3,19
+13,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,19,19 1/2
+14,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,19 1/2,20
+15,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,20,20 3/4
+16,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,20 3/4,21
+17,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,21,21 1/4
+18,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,23,24 3/4
+19,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,24 3/4,25
+20,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,24 3/4,25
+21,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,25,25 1/4
+22,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,25 3/4,26
+23,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,25 3/4,26
+24,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,26,26 1/4
+25,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,26 3/4,27
+26,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,26 3/4,27
+27,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,27,27 1/4
+28,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,27 3/4,28
+29,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,27 3/4,28
+30,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,28,28 1/4
+31,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,31 3/4,32
+32,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,31 3/4,32
+33,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,32,32 1/4
+34,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,32,32 1/4
+35,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,32 1/3,32 7/12
+36,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,32 2/3,32 11/12
+37,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,33,33 1/4
+38,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,33 1/2,33 3/4
+39,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,34,34 1/4
+40,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,34 1/3,34 7/12
+41,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,34 2/3,34 11/12
+42,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,35,35 1/4
+43,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,35 1/2,35 3/4
+44,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,36,39 3/4
+45,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,36,39 3/4
+46,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,40,41 3/4
+47,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,44,44 1/3
+48,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,44 1/3,44 2/3
+49,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,44 2/3,47 11/12
+50,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,48,48 1/4
+51,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,48 1/4,48 1/2
+52,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,48 2/3,48 11/12
+53,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,48 2/3,48 11/12
+54,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,49,49 1/4
+55,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,49,49 1/4
+56,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,49 1/3,49 7/12
+57,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,49 1/3,49 7/12
+58,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,49 2/3,49 11/12
+59,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,49 2/3,49 11/12
+60,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,50,50 1/4
+61,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,50 1/4,50 1/2
+62,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,50 2/3,50 11/12
+63,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,50 2/3,50 11/12
+64,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,51,51 1/4
+65,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,51,51 1/4
+66,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,51 1/3,51 7/12
+67,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,51 1/3,51 7/12
+68,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,51 2/3,51 11/12
+69,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,51 2/3,51 11/12
+70,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,52,54 3/4
+71,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,55,56
+72,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,56,58 3/4
+73,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,59,60
+74,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,60 1/2,61 1/4
+75,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,61 1/4,61 1/2
+76,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,61 1/2,61 3/4
+77,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,61 3/4,62
+78,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,62,63 1/4
+79,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,63 1/4,63 1/2
+80,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,63 1/2,63 3/4
+81,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,63 3/4,64
+82,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,64,64 1/4
+83,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,64,64 1/4
+84,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,65,65 1/3
+85,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,65,65 1/3
+86,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,65 1/3,65 2/3
+87,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,65 1/3,65 2/3
+88,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,65 2/3,66
+89,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,65 2/3,66
+90,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,66,66 1/4
+91,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,66,66 1/4
+92,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,67,67 1/3
+93,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,67,67 1/3
+94,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,67 1/3,67 2/3
+95,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,67 1/3,67 2/3
+96,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,67 2/3,68
+97,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,67 2/3,68
+98,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,68,68 1/3
+99,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,68,68 1/3
+100,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,68,68 1/3
+101,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,68,68 1/3
+102,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,68 1/3,68 2/3
+103,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,68 1/3,68 2/3
+104,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,68 1/3,68 2/3
+105,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,68 1/3,68 2/3
+106,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,68 2/3,69
+107,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,68 2/3,69
+108,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,68 2/3,69
+109,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,68 2/3,69
+110,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,69,69 1/4
+111,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,69,69 1/4
+112,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,69 1/2,69 3/4
+113,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,69 1/2,69 3/4
+114,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,70,70 1/3
+115,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,70,70 1/3
+116,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,70,70 1/3
+117,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,70 1/3,70 2/3
+118,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,70 1/3,70 2/3
+119,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,70 1/3,70 2/3
+120,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,70 1/3,70 2/3
+121,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,70 2/3,71
+122,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,70 2/3,71
+123,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,70 2/3,71
+124,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,70 2/3,71
+125,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,71,71 1/4
+126,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,71,71 1/4
+127,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,71 1/2,71 3/4
+128,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,71 1/2,71 3/4
+129,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,71 1/2,71 3/4
+130,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,72,74 1/3
+131,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,72,74 1/3
+132,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,72,74 1/3
+133,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,72,74 1/3
+134,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,74 1/2,75
+135,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,74 1/2,75
+136,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,74 1/2,75
+137,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,74 1/2,75
+138,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,75,75 1/4
+139,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,75,75 1/4
+140,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,75,75 1/4
+141,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,75,75 1/4
+142,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,75 1/3,75 7/12
+143,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,75 1/3,75 7/12
+144,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,75 1/3,75 7/12
+145,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,75 1/3,75 7/12
+146,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,75 2/3,75 11/12
+147,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,75 2/3,75 11/12
+148,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,75 2/3,75 11/12
+149,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,75 2/3,75 11/12
+150,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,76,76 1/2
+151,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,76,76 1/2
+152,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,76,76 1/2
+153,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,76,76 1/2
+154,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,76 1/2,77
+155,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,76 1/2,77
+156,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,76 1/2,77
+157,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,76 1/2,77
+158,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,77,77 1/4
+159,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,77,77 1/4
+160,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,77,77 1/4
+161,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,77,77 1/4
+162,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,77 1/3,77 7/12
+163,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,77 1/3,77 7/12
+164,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,77 1/3,77 7/12
+165,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,77 1/3,77 7/12
+166,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,77 2/3,77 11/12
+167,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,77 2/3,77 11/12
+168,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,77 2/3,77 11/12
+169,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,77 2/3,77 11/12
+170,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,78,78 1/2
+171,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,78,78 1/2
+172,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,78,78 1/2
+173,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,78,78 1/2
+174,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,78 1/2,79
+175,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,78 1/2,79
+176,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,78 1/2,79
+177,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,78 1/2,79
+178,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,79,79 1/4
+179,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,79,79 1/4
+180,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,79,79 1/4
+181,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,79,79 1/4
+182,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,79 1/3,79 7/12
+183,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,79 1/3,79 7/12
+184,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,79 1/3,79 7/12
+185,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,79 1/3,79 7/12
+186,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,79 2/3,79 11/12
+187,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,79 2/3,79 11/12
+188,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,79 2/3,79 11/12
+189,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,79 2/3,79 11/12
+190,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,80,82
+191,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,80,82
+192,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,80,82
+193,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,80,82
+194,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,83,83 1/4
+195,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,83 1/2,83 3/4
+196,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,85,85 1/4
+197,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,85 1/2,85 3/4
+198,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,87,88 1/2
+199,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,87,88 1/2
+200,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,88 1/2,89 1/4
+201,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,88 1/2,89 1/4
+202,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,89 1/3,89 2/3
+203,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,89 1/3,89 2/3
+204,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,89 2/3,90
+205,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,89 2/3,90
+206,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,90,90 1/2
+207,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,90,90 1/2
+208,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,90 1/2,91 1/4
+209,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,90 1/2,91 1/4
+210,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,91 1/3,91 2/3
+211,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,91 1/3,91 2/3
+212,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,91 2/3,92
+213,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,91 2/3,92
+214,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,92,94 1/2
+215,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,92,94 1/2
+216,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,94 1/2,95 1/4
+217,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,94 1/2,95 1/4
+218,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,95 1/3,95 2/3
+219,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,95 1/3,95 2/3
+220,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,95 2/3,96
+221,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,95 2/3,96
+222,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,96,96 1/2
+223,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,96,96 1/2
+224,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,96 1/2,97 1/4
+225,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,96 1/2,97 1/4
+226,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,97 1/3,97 2/3
+227,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,97 1/3,97 2/3
+228,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,97 2/3,98
+229,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,97 2/3,98
+230,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,98,99
+231,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,99,99 1/2
+232,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,99 1/2,100
+233,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,100,101
+234,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,101,101 1/2
+235,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,101 1/2,102
+236,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,102,102 1/4
+237,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,102,102 1/4
+238,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,102 1/3,102 7/12
+239,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,102 1/3,102 7/12
+240,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,102 2/3,102 11/12
+241,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,102 2/3,102 11/12
+242,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,103,103 1/2
+243,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,103,103 1/2
+244,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,103 1/2,104
+245,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,103 1/2,104
+246,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,104,105
+247,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,105,106
+248,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,105,106
+249,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,106,107
+250,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,107,108
+251,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,107,108
+252,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,108,108 1/4
+253,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,108 1/4,109
+254,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,108 1/4,109
+255,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,109,109 1/4
+256,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,109,109 1/4
+257,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,109 1/2,109 3/4
+258,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,109 1/2,109 3/4
+259,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,110,110 1/4
+260,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,110 1/4,111
+261,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,110 1/4,111
+262,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,111,111 1/4
+263,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,111,111 1/4
+264,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,111 1/2,111 3/4
+265,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,111 1/2,111 3/4
+266,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,112,112 1/3
+267,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,112,112 1/3
+268,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,112 1/3,112 2/3
+269,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,112 1/3,112 2/3
+270,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,112 2/3,113
+271,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,112 2/3,113
+272,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,113,113 1/4
+273,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,113,113 1/4
+274,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,113 1/2,113 3/4
+275,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,113 1/2,113 3/4
+276,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,114,115
+277,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,115,115 1/4
+278,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,115 1/2,115 3/4
+279,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,116,116 1/4
+280,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,116,116 1/4
+281,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,116 1/3,116 7/12
+282,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,116 1/3,116 7/12
+283,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,116 2/3,116 11/12
+284,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,116 2/3,116 11/12
+285,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,117,117 1/2
+286,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,117,117 1/2
+287,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,117 1/2,118
+288,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,117 1/2,118
+289,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,118,119
+290,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,118,119
+291,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,119,121
+292,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,119,121
+293,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,121,122
+294,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,121,122
+295,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,122,123
+296,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,122,123
+297,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,122,123
+298,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,123,124
+299,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,123,124
+300,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,123,124
+301,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,124,125
+302,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,124,125
+303,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,124,125
+304,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,125,126
+305,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,125,126
+306,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,125,126
+307,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,126,127
+308,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,126,127
+309,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,126,127
+310,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,127,128 1/2
+311,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,127,128 1/2
+312,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,127,128 1/2
+313,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,130,137 2/3
+314,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,138 1/3,138 7/12
+315,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,138 1/3,138 7/12
+316,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,138 2/3,138 11/12
+317,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,138 2/3,138 11/12
+318,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,139,139 1/2
+319,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,139,139 1/2
+320,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,139 1/2,140
+321,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,139 1/2,140
+322,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,140 1/3,140 7/12
+323,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,140 1/3,140 7/12
+324,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,140 2/3,140 11/12
+325,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,140 2/3,140 11/12
+326,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,141,141 1/2
+327,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,141,141 1/2
+328,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,141 1/2,142
+329,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,141 1/2,142
+330,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,142,142 3/4
+331,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,142,142 3/4
+332,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,142 3/4,143
+333,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,142 3/4,143
+334,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,143,143 1/4
+335,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,143,143 1/4
+336,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,145,146 3/4
+337,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,145,146 3/4
+338,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,146 3/4,147
+339,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,146 3/4,147
+340,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,146 3/4,147
+341,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,146 3/4,147
+342,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,147,147 1/4
+343,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,147,147 1/4
+344,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,147 3/4,148
+345,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,147 3/4,148
+346,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,148,148 1/4
+347,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,148,148 1/4
+348,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,156,159 3/4
+349,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,164,164 1/3
+350,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,164 1/3,164 7/12
+351,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,164 1/3,164 7/12
+352,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,164 2/3,164 11/12
+353,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,164 2/3,164 11/12
+354,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,165,165 1/4
+355,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,165,165 1/4
+356,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,165 1/3,165 7/12
+357,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,165 1/3,165 7/12
+358,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,165 2/3,165 11/12
+359,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,165 2/3,165 11/12
+360,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,166,166 1/3
+361,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,166 1/3,166 7/12
+362,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,166 1/3,166 7/12
+363,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,166 2/3,166 11/12
+364,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,166 2/3,166 11/12
+365,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,167,167 1/4
+366,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,167,167 1/4
+367,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,167 1/3,167 7/12
+368,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,167 1/3,167 7/12
+369,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,167 2/3,167 11/12
+370,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,167 2/3,167 11/12
+371,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,1,1 1/3
+372,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,1 1/2,1 5/6
+373,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,3,3 1/3
+374,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,3 1/2,3 5/6
+375,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,20 3/4,21
+376,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,21,22 1/2
+377,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,24 3/4,25
+378,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,24 3/4,25
+379,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,25,25 3/4
+380,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,25 3/4,26
+381,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,25 3/4,26
+382,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,26,26 3/4
+383,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,26 3/4,27
+384,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,26 3/4,27
+385,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,27,27 3/4
+386,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,27 3/4,28
+387,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,27 3/4,28
+388,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,28,31 2/3
+389,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,31 3/4,32
+390,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,31 3/4,32
+391,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,32,34
+392,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,34,36
+393,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,40 1/4,42
+394,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,44,48
+395,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,48,48 1/4
+396,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,48 1/4,48 1/2
+397,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,50,50 1/4
+398,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,50 1/4,50 1/2
+399,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,52 1/4,55
+400,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,55 1/4,56
+401,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,56 1/4,59
+402,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,59 1/4,60
+403,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,62,62 1/4
+404,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,62 1/4,63
+405,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,64,65
+406,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,64,65
+407,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,66,67
+408,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,66,67
+409,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,83,83 1/3
+410,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,83 1/2,83 5/6
+411,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,85,85 1/3
+412,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,85 1/2,85 5/6
+413,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,87,90
+414,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,87,90
+415,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,90,92
+416,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,90,92
+417,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,92,96
+418,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,92,96
+419,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,96,98
+420,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,96,98
+421,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,98,98 1/4
+422,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,98 1/4,98 1/2
+423,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,99,99 1/4
+424,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,99 1/4,99 1/2
+425,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,99 1/2,99 3/4
+426,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,100,100 1/4
+427,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,100 1/4,100 1/2
+428,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,101,101 1/4
+429,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,101 1/4,101 1/2
+430,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,101 1/2,101 3/4
+431,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,108,108 1/4
+432,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,110,110 1/4
+433,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,142 3/4,143
+434,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,142 3/4,143
+435,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,143,144 1/2
+436,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,143,144 1/2
+437,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,146 3/4,147
+438,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,146 3/4,147
+439,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,146 3/4,147
+440,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,146 3/4,147
+441,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,147,147 3/4
+442,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,147 3/4,148
+443,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,147 3/4,148
+444,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,156 1/4,159 11/12
+445,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,164,164 1/4
+446,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,164 1/4,164 1/2
+447,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,166,166 1/4
+448,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,166 1/4,166 1/2
+449,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,40 1/4,42
+450,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,48 1/4,48 1/2
+451,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,50 1/4,50 1/2
+452,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,52 1/4,54 11/12
+453,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,55 1/4,56
+454,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,56 1/4,58 11/12
+455,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,59 1/4,60
+456,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,64,65 3/4
+457,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,66,67 3/4
+458,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,99 2/3,99 11/12
+459,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,101 2/3,101 11/12
+460,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,147,148
+461,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,156 1/4,159 11/12
+462,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,164 1/4,164 1/2
+463,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,166 1/4,166 1/2
+464,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,40 1/4,41 11/12
+465,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,48 1/3,48 7/12
+466,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,48 1/3,48 7/12
+467,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,50 1/3,50 7/12
+468,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,50 1/3,50 7/12
+469,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,52 1/4,54 11/12
+470,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,55 1/4,55 11/12
+471,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,56 1/4,58 11/12
+472,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,59 1/4,59 11/12
+473,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,156 1/4,159 3/4
+474,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,164 1/4,164 1/2
+475,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,166 1/4,166 1/2
+476,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,0,1/4
+477,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,2,2 1/4
+478,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,2 1/4,2 1/2
+479,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,4,4 1/4
+480,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,4 1/4,4 1/2
+481,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,4 3/4,5
+482,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,5,5 1/4
+483,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,5 1/2,5 3/4
+484,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,6,6 1/4
+485,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,6 1/4,6 1/2
+486,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,6 3/4,7
+487,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,7,7 1/4
+488,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,7 1/2,7 3/4
+489,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,8,8 3/4
+490,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,8 3/4,9
+491,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,9,9 1/4
+492,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,9 1/2,9 3/4
+493,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,10,10 3/4
+494,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,10 3/4,11
+495,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,11,11 1/4
+496,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,11 1/2,11 3/4
+497,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,12,12 3/4
+498,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,12 3/4,13
+499,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,13,13 1/4
+500,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,13 1/2,13 3/4
+501,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,14,14 3/4
+502,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,14 3/4,15
+503,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,15,15 1/4
+504,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,15 1/2,15 3/4
+505,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,16,16 3/4
+506,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,16 3/4,17
+507,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,17,17 1/4
+508,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,17 1/2,17 3/4
+509,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,18,18 3/4
+510,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,18 3/4,19
+511,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,19,19 1/4
+512,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,19 1/2,19 3/4
+513,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,20,20 3/4
+514,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,20 3/4,21
+515,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,21,21 1/4
+516,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,21 1/2,21 3/4
+517,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,22,22 3/4
+518,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,22 3/4,23
+519,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,23,23 1/4
+520,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,23 1/2,23 3/4
+521,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,24,24 3/4
+522,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,24 3/4,25
+523,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,25,25 1/4
+524,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,25 1/2,25 3/4
+525,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,26,26 3/4
+526,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,26 3/4,27
+527,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,27,27 1/4
+528,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,27 1/2,27 3/4
+529,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,28,28 3/4
+530,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,28 3/4,29
+531,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,29,29 1/4
+532,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,29 1/2,29 3/4
+533,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,30,30 3/4
+534,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,30 3/4,31
+535,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,31,31 1/4
+536,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,31 1/2,31 3/4
+537,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,32,32 3/4
+538,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,32 3/4,33
+539,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,33,33 1/4
+540,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,33 1/2,33 3/4
+541,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,34,34 3/4
+542,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,34 3/4,35
+543,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,35,35 1/4
+544,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,35 1/2,35 3/4
+545,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,36,36 3/4
+546,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,36 3/4,37
+547,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,37,37 1/4
+548,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,37 1/2,37 3/4
+549,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,38,38 3/4
+550,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,38 3/4,39
+551,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,39,39 1/4
+552,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,39 1/2,39 3/4
+553,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,40,42
+554,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,42,42 3/4
+555,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,42 3/4,43
+556,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,43,43 1/4
+557,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,43 1/2,43 3/4
+558,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,44,44 3/4
+559,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,44 3/4,45
+560,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,45,45 1/4
+561,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,45 1/2,45 3/4
+562,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,46,46 3/4
+563,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,46 3/4,47
+564,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,47,47 1/4
+565,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,47 1/2,47 3/4
+566,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,48,49 3/4
+567,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,50,51 3/4
+568,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,52,54 3/4
+569,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,55,56
+570,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,56,58 3/4
+571,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,59,60
+572,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,60,60 3/4
+573,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,60 3/4,61
+574,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,61,61 1/4
+575,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,61 1/2,61 3/4
+576,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,62,62 3/4
+577,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,62 3/4,63
+578,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,63,63 1/4
+579,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,63 1/2,63 3/4
+580,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,64,64 3/4
+581,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,64 3/4,65
+582,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,65,65 1/4
+583,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,65 1/2,65 3/4
+584,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,66,66 3/4
+585,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,66 3/4,67
+586,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,67,67 1/4
+587,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,67 1/2,67 3/4
+588,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,68,68 3/4
+589,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,68 3/4,69
+590,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,69,69 1/4
+591,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,69 1/2,69 3/4
+592,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,70,70 3/4
+593,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,70 3/4,71
+594,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,71,71 1/4
+595,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,71 1/2,71 3/4
+596,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,72,72 3/4
+597,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,72 3/4,73
+598,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,73,73 1/4
+599,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,73 1/2,73 3/4
+600,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,74,74 3/4
+601,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,74 3/4,75
+602,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,75,75 1/4
+603,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,75 1/2,75 3/4
+604,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,76,76 3/4
+605,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,76 3/4,77
+606,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,77,77 1/4
+607,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,77 1/2,77 3/4
+608,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,78,78 3/4
+609,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,78 3/4,79
+610,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,79,79 1/4
+611,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,79 1/2,79 3/4
+612,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,80,80 3/4
+613,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,80 3/4,81
+614,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,81,81 1/4
+615,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,81 1/2,81 3/4
+616,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,82,82 1/4
+617,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,84,84 1/4
+618,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,84 1/4,84 1/2
+619,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,86,86 1/4
+620,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,86 1/4,86 1/2
+621,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,86 3/4,90
+622,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,90,90 3/4
+623,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,90 3/4,91
+624,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,91,91 1/4
+625,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,91 1/2,91 3/4
+626,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,92,96
+627,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,92,96
+628,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,92,96
+629,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,92,96
+630,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,96,98
+631,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,96,98
+632,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,96,98
+633,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,96,98
+634,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,98 1/4,99 1/4
+635,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,99 1/4,99 3/4
+636,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,99 3/4,100
+637,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,100 1/4,101 1/4
+638,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,101 1/4,101 3/4
+639,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,101 3/4,102
+640,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,102,102 1/4
+641,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,102 2/3,102 11/12
+642,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,103,103 1/4
+643,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,103 1/2,103 3/4
+644,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,104,104 1/4
+645,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,104 1/4,104 1/2
+646,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,105,106
+647,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,105,106
+648,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,106,106 1/4
+649,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,106 1/4,106 1/2
+650,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,107,108
+651,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,107,108
+652,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,108,108 1/4
+653,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,108 1/4,110
+654,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,108 1/4,110
+655,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,108 1/4,110
+656,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,110,110 1/4
+657,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,110 1/4,112
+658,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,110 1/4,112
+659,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,110 1/4,112
+660,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,112,114
+661,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,112,114
+662,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,114,114 1/4
+663,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,114,114 1/4
+664,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,114 1/4,114 1/2
+665,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,115,115 1/4
+666,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,115,115 1/4
+667,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,115 1/4,115 1/2
+668,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,115 1/2,115 3/4
+669,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,115 1/2,115 3/4
+670,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,115 3/4,116
+671,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,116,116 1/4
+672,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,116 2/3,116 11/12
+673,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,117,117 1/4
+674,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,117 1/2,117 3/4
+675,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,118,118 1/4
+676,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,119,119 1/4
+677,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,121,121 1/4
+678,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,122 3/4,123
+679,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,123,123 1/2
+680,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,123 1/2,124
+681,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,124,124 1/4
+682,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,124 1/3,124 7/12
+683,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,124 2/3,124 11/12
+684,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,125,125 1/2
+685,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,125 1/2,126
+686,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,126 3/4,127
+687,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,127,127 1/2
+688,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,127 1/2,128
+689,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,130,137 3/4
+690,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,138,140
+691,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,138,140
+692,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,140,143 3/4
+693,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,140,143 3/4
+694,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,144,146
+695,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,144,146
+696,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,146,148
+697,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,146,148
+698,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,148,150
+699,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,150,150 1/3
+700,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,150 1/3,150 7/12
+701,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,150 2/3,150 11/12
+702,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,151,151 1/4
+703,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,151 1/2,151 3/4
+704,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,152,155 3/4
+705,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,152,155 3/4
+706,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,156,159 3/4
+707,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,160,160 1/3
+708,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,160 1/3,160 7/12
+709,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,160 2/3,163 11/12
+710,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,164,165 3/4
+711,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,166,167 3/4
+712,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,168,168 1/4
+713,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,168 1/4,168 1/2
+714,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,0,1 1/3
+715,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,2,2 1/4
+716,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,2 1/4,3 1/2
+717,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,4,4 1/4
+718,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,4 1/4,4 3/4
+719,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,6,6 1/4
+720,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,6 1/4,6 3/4
+721,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,10,16
+722,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,16,18
+723,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,16,18
+724,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,18,22
+725,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,18,22
+726,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,22,24
+727,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,22,24
+728,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,24,26
+729,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,26,28
+730,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,28,32
+731,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,40 1/4,42
+732,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,48 1/4,50
+733,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,50 1/4,52
+734,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,52 1/4,55
+735,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,55 1/4,56
+736,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,56 1/4,59
+737,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,59 1/4,60
+738,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,69,69 1/2
+739,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,69,69 1/2
+740,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,69 1/2,70
+741,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,69 1/2,70
+742,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,70,70 1/3
+743,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,71,71 1/2
+744,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,71,71 1/2
+745,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,71 1/2,72
+746,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,82,83 1/3
+747,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,84,84 1/4
+748,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,84 1/4,85 1/2
+749,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,86,86 1/4
+750,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,86 1/4,86 3/4
+751,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,87,90
+752,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,87,90
+753,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,87,90
+754,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,90,92
+755,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,90,92
+756,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,90,92
+757,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,92 3/4,93
+758,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,93,93 1/4
+759,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,93 1/2,93 3/4
+760,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,94,94 3/4
+761,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,94 3/4,95
+762,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,95,95 1/4
+763,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,95 1/2,95 3/4
+764,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,96 3/4,97
+765,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,97,97 1/4
+766,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,97 1/2,97 3/4
+767,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,102,102 1/4
+768,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,102,102 1/4
+769,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,102 3/4,103
+770,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,102 3/4,103
+771,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,103,103 1/4
+772,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,103,103 1/4
+773,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,103 1/2,103 3/4
+774,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,103 1/2,103 3/4
+775,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,104 1/4,106
+776,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,106 1/4,108
+777,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,108,108 1/4
+778,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,108 3/4,109
+779,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,109,109 1/4
+780,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,109 1/2,109 3/4
+781,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,110,110 1/4
+782,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,110 3/4,111
+783,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,111,111 1/4
+784,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,111 1/2,111 3/4
+785,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,112,112 2/3
+786,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,112 2/3,113
+787,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,113,113 1/2
+788,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,113 1/2,114
+789,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,114 1/4,115 1/4
+790,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,115 1/4,115 1/2
+791,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F#,115 2/3,115 11/12
+792,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,116,116 1/4
+793,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,116,116 1/4
+794,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,116 3/4,117
+795,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,116 3/4,117
+796,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,117,117 1/4
+797,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,117,117 1/4
+798,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,117 1/2,117 3/4
+799,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,117 1/2,117 3/4
+800,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,118,119
+801,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,118,119
+802,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,119,121
+803,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,119,121
+804,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,121,121 3/4
+805,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,121,121 3/4
+806,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,130,134 3/4
+807,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,135,137
+808,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,137,138
+809,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,148 1/3,148 7/12
+810,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,148 2/3,148 11/12
+811,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,149,149 1/4
+812,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,149 1/2,149 3/4
+813,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,150,152
+814,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,156 1/4,159 11/12
+815,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,160,164
+816,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,164 1/4,166
+817,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,166 1/4,168
+818,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,168,168 1/4
+819,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,168 1/4,168 1/2
+820,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,24,25 3/4
+821,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,26,27 3/4
+822,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B,28,32
+823,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,40 1/4,42
+824,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,48 1/4,50
+825,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,50 1/4,52
+826,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,52 1/4,54 11/12
+827,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,55 1/4,56
+828,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,56 1/4,58 11/12
+829,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,59 1/4,60
+830,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,87 1/2,87 3/4
+831,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,88,88 3/4
+832,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,88 3/4,89
+833,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,89,89 1/4
+834,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,89 1/2,89 3/4
+835,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,156 1/4,159 11/12
+836,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E,164 1/4,166
+837,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,166 1/4,168
+838,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,168 1/3,178 7/12
+839,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,168 1/3,178 7/12
+840,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,168 1/3,178 7/12
+841,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,168 1/3,178 7/12
+842,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,40 1/4,41 11/12
+843,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,48 1/4,49 11/12
+844,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,F,50 1/4,51 11/12
+845,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,52 1/4,54 11/12
+846,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,55 1/4,55 11/12
+847,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,E-,56 1/4,58 11/12
+848,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,D,59 1/4,59 11/12
+849,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,156 1/4,159 3/4
+850,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,A,164 1/4,165 11/12
+851,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,166 1/4,167 11/12
+852,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,40 3/4,41
+853,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,41,41 1/4
+854,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,41 1/2,41 3/4
+855,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,165,165 1/4
+856,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C,167,167 1/4
+857,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,48 3/4,49
+858,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,49,49 1/4
+859,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,49 1/2,49 3/4
+860,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,50 3/4,51
+861,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,51,51 1/4
+862,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,51 1/2,51 3/4
+863,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,52 3/4,53
+864,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,53,53 1/4
+865,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,53 1/2,53 3/4
+866,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,54,54 1/2
+867,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,56 3/4,57
+868,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,57,57 1/4
+869,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,57 1/2,57 3/4
+870,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,58,58 1/2
+871,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,122,125 3/4
+872,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,126,128 2/3
+873,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G,128 3/4,129
+874,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,B-,129,129 1/2
+875,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,129 1/2,130
+876,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,130,130 3/4
+877,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,130 3/4,131
+878,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,131,131 1/4
+879,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,131 1/2,131 3/4
+880,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,132,132 3/4
+881,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,132 3/4,133
+882,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,133,133 1/4
+883,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,133 1/2,133 3/4
+884,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,134,134 3/4
+885,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,134 3/4,135
+886,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,135,135 1/4
+887,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,135 1/2,135 3/4
+888,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,136,136 3/4
+889,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,136 3/4,137
+890,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,137,137 1/4
+891,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,137 1/2,137 3/4
+892,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,138,138 3/4
+893,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,138 3/4,139
+894,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,139,139 1/4
+895,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,139 1/2,139 3/4
+896,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,140,140 3/4
+897,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,140 3/4,141
+898,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,141,141 1/4
+899,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,141 1/2,141 3/4
+900,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,142,142 3/4
+901,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,142 3/4,143
+902,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,143,143 1/4
+903,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,143 1/2,143 3/4
+904,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,144,144 3/4
+905,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,144 3/4,145
+906,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,145,145 1/4
+907,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,145 1/2,145 3/4
+908,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,146,146 3/4
+909,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,146 3/4,147
+910,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,147,147 1/4
+911,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,147 1/2,147 3/4
+912,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,148,148 3/4
+913,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,148 3/4,149
+914,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,149,149 1/4
+915,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,149 1/2,149 3/4
+916,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,150,150 3/4
+917,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,150 3/4,151
+918,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,151,151 1/4
+919,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,151 1/2,151 3/4
+920,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,152,152 3/4
+921,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,152 3/4,153
+922,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,153,153 1/4
+923,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,153 1/2,153 3/4
+924,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,154,154 3/4
+925,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,154 3/4,155
+926,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,155,155 1/4
+927,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,155 1/2,155 3/4
+928,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,156 3/4,157
+929,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,157,157 1/4
+930,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,157 1/2,157 3/4
+931,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,158,158 3/4
+932,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,158 3/4,159
+933,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,159,159 1/4
+934,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,159 1/2,159 3/4
+935,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,160,160 3/4
+936,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,160 3/4,161
+937,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,161,161 1/4
+938,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,161 1/2,161 3/4
+939,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,162,162 3/4
+940,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,162 3/4,163
+941,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,163,163 1/4
+942,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,163 1/2,163 3/4
+943,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,168 3/4,169
+944,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,169,169 1/4
+945,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,169 1/2,169 3/4
+946,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,170,170 3/4
+947,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,170 3/4,171
+948,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,171,171 1/4
+949,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,171 1/2,171 3/4
+950,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,172,172 1/2
+951,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,173,173 1/2
+952,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,174,174 1/2
+953,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,G#,175,175 1/2
+954,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,176,177
+955,Debussy_Prelude_Book_2_No_3_La_puerta_del_vino,C#,176,177

@@ -1,0 +1,686 @@
+﻿,score_name,pitch_name,pitch_onset,pitch_offset
+0,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,0,3
+1,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,0,3
+2,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,0,3
+3,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,0,3
+4,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,3,4 1/2
+5,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,3,4 1/2
+6,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,4 1/2,5
+7,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,4 1/2,5
+8,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,5,5 1/2
+9,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,5,5 1/2
+10,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,5 1/2,6
+11,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,5 1/2,6
+12,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,6,9
+13,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,6,9
+14,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,9 1/2,10
+15,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,10,10 1/4
+16,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,10 1/4,10 1/2
+17,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,10 1/2,11
+18,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,11,11 1/2
+19,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,11 1/2,12
+20,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,12,12 1/4
+21,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,12 1/4,12 1/2
+22,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,12 1/2,13
+23,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,13,13 1/2
+24,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,13 1/2,14
+25,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,14 1/2,15
+26,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,14 1/2,15
+27,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,14 1/2,15
+28,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,14 1/2,15
+29,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,15 1/2,15 3/4
+30,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,15 1/2,15 3/4
+31,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,15 1/2,15 3/4
+32,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,15 1/2,15 3/4
+33,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,16,17
+34,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,16,17
+35,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,16,17
+36,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,16,17
+37,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,17 1/2,17 3/4
+38,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,17 1/2,17 3/4
+39,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,17 1/2,17 3/4
+40,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,17 1/2,17 3/4
+41,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,17 3/4,20
+42,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,17 3/4,20
+43,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,17 3/4,20
+44,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,17 3/4,20
+45,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,20 1/2,21 1/2
+46,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,20 1/2,21 1/2
+47,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,20 1/2,21 1/2
+48,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,20 1/2,21 1/2
+49,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,21 1/2,22
+50,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,21 1/2,22
+51,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,21 1/2,22
+52,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,21 1/2,22
+53,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,22,22 3/4
+54,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,23,25
+55,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,23,25
+56,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,23,25
+57,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,23,25
+58,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,25,26
+59,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,25,26
+60,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,25,26
+61,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,25,26
+62,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,32 1/2,32 3/4
+63,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,33,34
+64,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,34 1/2,34 3/4
+65,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,35,36
+66,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,36 1/2,36 3/4
+67,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,37,38
+68,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,38,41
+69,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,38,41
+70,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,41,44
+71,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,41,44
+72,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,44 1/2,45
+73,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,45,45 1/4
+74,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,45 1/4,45 1/2
+75,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,45 1/2,46
+76,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,46,46 1/2
+77,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,46 1/2,47
+78,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,53,57
+79,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,53,57
+80,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,53,57
+81,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,53,57
+82,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,57,58
+83,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,57,58
+84,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,57,58
+85,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,58,59
+86,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,58,59
+87,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,58,59
+88,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,59,60
+89,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,59,60
+90,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,59,60
+91,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,60,61
+92,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,60,61
+93,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,60,61
+94,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,61,61 1/4
+95,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,61,61 1/4
+96,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,61,61 1/4
+97,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,61,61 1/4
+98,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,61 1/2,61 3/4
+99,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,61 1/2,61 3/4
+100,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,61 1/2,61 3/4
+101,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,61 1/2,61 3/4
+102,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,62,62 1/4
+103,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,62,62 1/4
+104,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,62,62 1/4
+105,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,62,62 1/4
+106,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,62 1/2,62 3/4
+107,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,62 1/2,62 3/4
+108,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,62 1/2,62 3/4
+109,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,62 1/2,62 3/4
+110,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,63,63 1/4
+111,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,63,63 1/4
+112,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,63,63 1/4
+113,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,63,63 1/4
+114,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,63 1/2,63 3/4
+115,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,63 1/2,63 3/4
+116,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,63 1/2,63 3/4
+117,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,63 1/2,63 3/4
+118,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,64,64 1/4
+119,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,64,64 1/4
+120,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,64,64 1/4
+121,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,64,64 1/4
+122,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,64 1/2,64 3/4
+123,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,64 1/2,64 3/4
+124,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,64 1/2,64 3/4
+125,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,64 1/2,64 3/4
+126,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,65,65 1/4
+127,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,65,65 1/4
+128,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,65,65 1/4
+129,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,65,65 1/4
+130,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,65 1/2,65 3/4
+131,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,65 1/2,65 3/4
+132,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,65 1/2,65 3/4
+133,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,65 1/2,65 3/4
+134,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,66,66 1/4
+135,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,66,66 1/4
+136,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,66,66 1/4
+137,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,66,66 1/4
+138,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,66 1/2,66 3/4
+139,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,66 1/2,66 3/4
+140,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,66 1/2,66 3/4
+141,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,66 1/2,66 3/4
+142,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,67,67 1/4
+143,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,67,67 1/4
+144,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,67,67 1/4
+145,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,67,67 1/4
+146,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,67 1/2,67 3/4
+147,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,67 1/2,67 3/4
+148,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,67 1/2,67 3/4
+149,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,67 1/2,67 3/4
+150,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,68,68 1/4
+151,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,68,68 1/4
+152,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,68,68 1/4
+153,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,68,68 1/4
+154,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,68 1/2,68 3/4
+155,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,68 1/2,68 3/4
+156,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,68 1/2,68 3/4
+157,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,68 1/2,68 3/4
+158,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,69,69 1/4
+159,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,69,69 1/4
+160,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,69,69 1/4
+161,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,69,69 1/4
+162,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,69 1/2,69 3/4
+163,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,69 1/2,69 3/4
+164,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,69 1/2,69 3/4
+165,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,69 1/2,69 3/4
+166,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,70,70 1/4
+167,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,70,70 1/4
+168,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,70,70 1/4
+169,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,70,70 1/4
+170,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,70 1/2,70 3/4
+171,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,70 1/2,70 3/4
+172,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,70 1/2,70 3/4
+173,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,70 1/2,70 3/4
+174,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,71,71 1/4
+175,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,71,71 1/4
+176,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,71,71 1/4
+177,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,71,71 1/4
+178,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,71 1/2,71 3/4
+179,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,71 1/2,71 3/4
+180,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,71 1/2,71 3/4
+181,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,71 1/2,71 3/4
+182,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,72,72 1/4
+183,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,72,72 1/4
+184,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,72,72 1/4
+185,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,72,72 1/4
+186,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,72 1/2,72 3/4
+187,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,72 1/2,72 3/4
+188,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,72 1/2,72 3/4
+189,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,72 1/2,72 3/4
+190,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,73,75
+191,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,73,75
+192,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,73,75
+193,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,77,79 1/2
+194,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,77,79 1/2
+195,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,77,79 1/2
+196,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,85,87
+197,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,87,87 1/4
+198,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,88 3/4,89
+199,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,89,89 1/4
+200,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,90 3/4,91
+201,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,91,91 1/4
+202,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,91 3/4,92
+203,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,92,92 1/4
+204,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,92 1/2,93
+205,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,96,99
+206,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,96,99
+207,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,96,99
+208,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,96,99
+209,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,99,100 1/2
+210,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,99,100 1/2
+211,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,100 1/2,101
+212,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,100 1/2,101
+213,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,101,101 1/2
+214,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,101,101 1/2
+215,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,101 1/2,102
+216,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,101 1/2,102
+217,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,102,104
+218,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,102,104
+219,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,102,104
+220,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,104,105 1/2
+221,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,105 1/2,106
+222,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,106,106 1/4
+223,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,106 1/4,106 1/2
+224,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,106 1/2,107
+225,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,107,107 1/2
+226,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,107 1/2,108
+227,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,108,108 1/4
+228,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,108 1/4,108 1/2
+229,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,108 1/2,109
+230,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,109,109 1/2
+231,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,109 1/2,110 1/2
+232,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,110 1/2,111 1/2
+233,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,111 1/2,112
+234,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,112,113 1/2
+235,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,112,113 1/2
+236,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,112,113 1/2
+237,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,112,113 1/2
+238,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,113 1/2,113 3/4
+239,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,113 1/2,113 3/4
+240,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,113 1/2,113 3/4
+241,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,113 1/2,113 3/4
+242,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,114,114 1/4
+243,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,114,114 1/4
+244,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,114,114 1/4
+245,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,114,114 1/4
+246,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,114 1/2,114 3/4
+247,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,114 1/2,114 3/4
+248,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,114 1/2,114 3/4
+249,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,114 1/2,114 3/4
+250,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,115,117 3/4
+251,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,115,117 3/4
+252,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,115,117 3/4
+253,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,115,117 3/4
+254,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,118,118 1/2
+255,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,118,118 1/2
+256,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,118 1/2,120
+257,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,118 1/2,120
+258,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,121,123
+259,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,121,123
+260,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,123,124
+261,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,123,124
+262,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,124,125
+263,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,124,125
+264,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,125,127 3/4
+265,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,125,127 3/4
+266,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,3,6
+267,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,6,8
+268,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,6,8
+269,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,8,9 1/2
+270,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,22,22 1/2
+271,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,22,22 1/2
+272,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,22,22 1/2
+273,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,22 1/2,23
+274,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,22 1/2,23
+275,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,22 1/2,23
+276,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,22 1/2,23
+277,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,33 1/2,33 3/4
+278,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,35 1/2,36
+279,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,37 1/2,37 3/4
+280,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,38,39 1/2
+281,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,39 1/2,40
+282,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,40,40 1/2
+283,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,40 1/2,41
+284,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,41,41 1/2
+285,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,43,44 1/2
+286,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,53,56 3/4
+287,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,56 3/4,57
+288,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,57,57 3/4
+289,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,57 3/4,58
+290,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,58,58 3/4
+291,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,58 3/4,59
+292,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,59,59 3/4
+293,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,59 3/4,60
+294,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,60,60 3/4
+295,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,60 3/4,61
+296,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,74,75 1/2
+297,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,74,75 1/2
+298,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,74,75 1/2
+299,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,74,75 1/2
+300,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,78,79 1/2
+301,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,78,79 1/2
+302,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,78,79 1/2
+303,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,78,79 1/2
+304,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,85,86 3/4
+305,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,86 3/4,87
+306,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,87,89
+307,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,89,91
+308,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,91,93
+309,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,102,105
+310,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,116,117 1/2
+311,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,116,117 1/2
+312,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,117 1/2,118
+313,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,117 1/2,118
+314,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,121,129 3/4
+315,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,3,5 1/2
+316,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,41,43
+317,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,86 3/4,87
+318,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,87,88 3/4
+319,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,88 3/4,89
+320,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,89,90 3/4
+321,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,90 3/4,91
+322,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,91,91 3/4
+323,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,91 3/4,92
+324,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,92,92 1/2
+325,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,104,105
+326,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,116,120
+327,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,0,3
+328,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,0,3
+329,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,0,3
+330,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,0,3
+331,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,3,6
+332,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,3,6
+333,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,3,6
+334,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,6,9
+335,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,6,9
+336,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,9 1/2,10
+337,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,10,10 1/4
+338,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,10 1/4,10 1/2
+339,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,10 1/2,11
+340,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,11,11 1/2
+341,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,11 1/2,12
+342,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,12,12 1/4
+343,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,12 1/4,12 1/2
+344,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,12 1/2,13
+345,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,13,13 1/2
+346,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,13 1/2,14
+347,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,14,16 1/2
+348,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,14,16 1/2
+349,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,16 1/2,17
+350,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,16 1/2,17
+351,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,17,19
+352,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,17,19
+353,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,19,21 1/2
+354,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,19,21 1/2
+355,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,21 1/2,22
+356,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,21 1/2,22
+357,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,21 1/2,22
+358,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,21 1/2,22
+359,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,22,22 3/4
+360,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,23,25
+361,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,23,25
+362,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,23,25
+363,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,23,25
+364,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,25,26
+365,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,25,26
+366,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,25,26
+367,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,25,26
+368,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,26,28
+369,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,26,28
+370,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,26,28
+371,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,26,28
+372,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,28,28 1/2
+373,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,28,28 1/2
+374,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,28,28 1/2
+375,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,28 1/2,29
+376,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,28 1/2,29
+377,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,28 1/2,29
+378,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,29,31
+379,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,29,31
+380,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,29,31
+381,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,29,31
+382,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,31,31 1/2
+383,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,31,31 1/2
+384,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,31,31 1/2
+385,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,31 1/2,32
+386,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,31 1/2,32
+387,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,31 1/2,32
+388,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,32,34
+389,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,32,34
+390,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,32,34
+391,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,34,36
+392,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,34,36
+393,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,36,38
+394,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,36,38
+395,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,36,38
+396,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,38,40 3/4
+397,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,38,40 3/4
+398,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,41,43 3/4
+399,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,41,43 3/4
+400,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,47,47 1/4
+401,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,47 1/4,47 1/2
+402,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,47 1/2,48
+403,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,48,48 1/2
+404,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,48 1/2,60 1/4
+405,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,61,62 1/2
+406,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,62 1/2,63
+407,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,63,63 1/2
+408,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,63 1/2,64 5/6
+409,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,66,68
+410,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,68,69 3/4
+411,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,69 3/4,70
+412,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,70,71 3/4
+413,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,71 3/4,72
+414,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,72,72 3/4
+415,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,72 3/4,73
+416,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,73,75 3/4
+417,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,73,75 3/4
+418,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,73,75 3/4
+419,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,75 3/4,76
+420,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,75 3/4,76
+421,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,75 3/4,76
+422,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,76,76 1/4
+423,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,76,76 1/4
+424,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,76,76 1/4
+425,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,76 3/4,77
+426,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,76 3/4,77
+427,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,76 3/4,77
+428,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,77,77 1/4
+429,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,77,77 1/4
+430,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,77,77 1/4
+431,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,79 3/4,80
+432,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,79 3/4,80
+433,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,79 3/4,80
+434,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,80,80 1/4
+435,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,80,80 1/4
+436,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,80,80 1/4
+437,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,80 3/4,81
+438,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,80 3/4,81
+439,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,80 3/4,81
+440,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,81,81 1/4
+441,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,81,81 1/4
+442,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,81,81 1/4
+443,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,83,84
+444,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,83,84
+445,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,83,84
+446,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,84 1/3,84 7/12
+447,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,84 1/3,84 7/12
+448,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,84 1/3,84 7/12
+449,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,84 2/3,84 11/12
+450,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,84 2/3,84 11/12
+451,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,84 2/3,84 11/12
+452,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,85,87
+453,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,85,87
+454,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,85,87
+455,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,87,89
+456,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,87,89
+457,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,87,89
+458,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,89,91
+459,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,89,91
+460,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,89,91
+461,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,91,93
+462,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,91,93
+463,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,91,93
+464,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,96,99
+465,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,96,99
+466,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,96,99
+467,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,96,99
+468,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,99,102
+469,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,99,102
+470,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,99,102
+471,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,102,105
+472,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,102,105
+473,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,105 1/2,106
+474,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,106,106 1/4
+475,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,106 1/4,106 1/2
+476,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,106 1/2,107
+477,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,107,107 1/2
+478,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,107 1/2,108
+479,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,108,108 1/4
+480,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,108 1/4,108 1/2
+481,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,108 1/2,109
+482,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,109,109 1/2
+483,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,109 1/2,110 1/2
+484,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,110 1/2,111 1/2
+485,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,111 1/2,112
+486,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,116,117 1/2
+487,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,117 1/2,118
+488,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,118,118 1/2
+489,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,118 1/2,120
+490,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,121,123
+491,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,123,124
+492,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,124,129 3/4
+493,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,124,129 3/4
+494,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,3,4 1/2
+495,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,6,8
+496,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,6,8
+497,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,8,9 1/2
+498,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,20 1/2,21 1/2
+499,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,20 1/2,21 1/2
+500,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,20 1/2,21 1/2
+501,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,20 1/2,21 1/2
+502,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,22,22 1/2
+503,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,22,22 1/2
+504,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,22,22 1/2
+505,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,22 1/2,23
+506,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,22 1/2,23
+507,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,22 1/2,23
+508,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,22 1/2,23
+509,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,24,26
+510,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,24,26
+511,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,28,29
+512,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,31,32
+513,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,32,33
+514,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,34,35 1/2
+515,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,36,37
+516,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,63 3/4,64
+517,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,64,64 1/2
+518,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,64 1/2,65
+519,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,75 3/4,76
+520,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,75 3/4,76
+521,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,75 3/4,76
+522,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,76,76 3/4
+523,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,76,76 3/4
+524,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,76,76 3/4
+525,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,76 3/4,77
+526,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,76 3/4,77
+527,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,76 3/4,77
+528,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,77,79 3/4
+529,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,77,79 3/4
+530,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,77,79 3/4
+531,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,79 3/4,80
+532,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,79 3/4,80
+533,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,79 3/4,80
+534,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,80,80 3/4
+535,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,80,80 3/4
+536,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,80,80 3/4
+537,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,80 3/4,81
+538,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,80 3/4,81
+539,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,80 3/4,81
+540,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,81,83
+541,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,81,83
+542,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,81,83
+543,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,99,100 1/2
+544,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,100 1/2,101
+545,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,101,101 1/2
+546,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,101 1/2,102
+547,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,102,104
+548,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,102,104
+549,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,104,105 1/2
+550,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,116,120
+551,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,116,120
+552,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,121,124
+553,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,124,125
+554,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,125,127 3/4
+555,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,34,35
+556,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,3 1/2,3 3/4
+557,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,4,4 1/4
+558,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,4 1/2,4 3/4
+559,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,5,5 1/2
+560,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,6 1/2,6 3/4
+561,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,7,7 1/4
+562,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,7 1/2,8
+563,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,8,9
+564,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,26,28
+565,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,26,28
+566,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,26,28
+567,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,26,28
+568,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,28,28 1/2
+569,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,28,28 1/2
+570,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,28,28 1/2
+571,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,28 1/2,29
+572,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,28 1/2,29
+573,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,28 1/2,29
+574,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,29,31
+575,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,29,31
+576,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,29,31
+577,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,29,31
+578,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,31,31 1/2
+579,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,31,31 1/2
+580,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,31,31 1/2
+581,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,31 1/2,32
+582,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,31 1/2,32
+583,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,31 1/2,32
+584,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,32,34
+585,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,32,34
+586,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,32,34
+587,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,32,34
+588,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,34,36
+589,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,34,36
+590,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B,34,36
+591,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,34,36
+592,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,36,38
+593,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,36,38
+594,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,A,36,38
+595,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,36,38
+596,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,38 1/2,38 3/4
+597,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,39,39 1/4
+598,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,41 1/2,43
+599,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,49,49 1/4
+600,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,49 1/4,49 1/2
+601,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,49 1/2,50
+602,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,50,50 1/4
+603,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,50 1/2,50 3/4
+604,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,51,51 1/4
+605,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,51 1/4,51 1/2
+606,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,51 1/2,52
+607,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,52,52 1/4
+608,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,52 1/2,52 3/4
+609,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,53,53 1/4
+610,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,53 1/4,53 1/2
+611,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,53 1/2,54
+612,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,54,54 1/4
+613,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,54 1/2,54 3/4
+614,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,55,55 1/4
+615,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,55 1/4,55 1/2
+616,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,55 1/2,56
+617,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,56,56 1/4
+618,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,56 1/2,56 3/4
+619,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,57,57 1/4
+620,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,57 1/4,57 1/2
+621,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,57 1/2,58
+622,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,58,58 1/4
+623,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,58 1/2,58 3/4
+624,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,59,59 1/4
+625,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E-,59 1/4,59 1/2
+626,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,59 1/2,60
+627,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C,60,60 1/4
+628,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,60 1/2,60 3/4
+629,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,61,63
+630,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,61,63
+631,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,61,63
+632,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,61,63
+633,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,63,65
+634,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,63,65
+635,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,63,65
+636,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,65,68 3/4
+637,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,65,68 3/4
+638,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,65,68 3/4
+639,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,65,68 3/4
+640,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,69,72 3/4
+641,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,69,72 3/4
+642,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,69,72 3/4
+643,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,69,72 3/4
+644,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,74,75 1/2
+645,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,74,75 1/2
+646,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,74,75 1/2
+647,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,78,79 1/2
+648,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,78,79 1/2
+649,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,78,79 1/2
+650,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,86,86 1/2
+651,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,88,88 1/2
+652,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,90,90 1/2
+653,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,92,92 1/2
+654,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,97,98 1/2
+655,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,100,101 1/2
+656,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,103,104 1/2
+657,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,112,113 1/2
+658,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,113 1/2,113 3/4
+659,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,D,114,114 1/4
+660,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F,114 1/2,114 3/4
+661,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,115,119 3/4
+662,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,122,123 1/2
+663,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,122,123 1/2
+664,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,122,123 1/2
+665,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,122,123 1/2
+666,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,27,29
+667,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,27,29
+668,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,30,32
+669,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,30,32
+670,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,33,33 1/2
+671,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,33,33 1/2
+672,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,35,35 1/2
+673,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,35,35 1/2
+674,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,37,37 1/2
+675,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,37,37 1/2
+676,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,F#,42,42 1/4
+677,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,C#,42 1/2,42 3/4
+678,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,62,62 1/2
+679,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,E,63,63 1/2
+680,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,67,67 1/2
+681,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G#,71,71 1/2
+682,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,B-,115 1/2,119 3/4
+683,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,28,29
+684,Debussy_Prelude_Book_2_No_2_Feuilles_mortes,G,31,32
