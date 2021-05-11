@@ -23,7 +23,7 @@ def predict_scale(score, hor_ratio=(0,1), ver_ratio=(0,1)):
     '''
     coeffs = []
     
-    arr1 = produce_pitch_class_matrix_from_filename(score, aw_size=1)
+    arr1 = produce_pitch_class_matrix_from_filename(score, aw_size=10)
     utm = np.abs(apply_dft_to_pitch_class_matrix(arr1))
     for i in range(utm.shape[0]):
         utm[i,:][utm[i,:] == 0] = np.mean(utm[i,:][utm[i,:] != 0])
@@ -32,7 +32,11 @@ def predict_scale(score, hor_ratio=(0,1), ver_ratio=(0,1)):
                                                   int(utm.shape[1] * ver_ratio[1])-1]
     coeffs = np.mean(np.mean(sel[1:], axis=1), axis=0)[1:] / np.max(np.abs(sel))
     sim = []
+    print('the most resonant coefficient is: ', np.argmax(coeffs) + 1)
     for scale in orig_coeffs:
-        sim_ = np.abs(coeffs - np.array(scale))
+        norm1 = np.linalg.norm(coeffs)
+        norm2 = np.linalg.norm(np.array(scale))
+        sim_ = np.abs(coeffs - np.array(scale)/norm2)
         sim.append(np.sum(sim_))
     print(score, 'is a', dic[np.argmin(sim[1:15]) + 1])
+    return np.argmax(coeffs) + 1, dic[np.argmin(sim[1:15]) + 1]
