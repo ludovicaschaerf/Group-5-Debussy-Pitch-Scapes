@@ -3,6 +3,11 @@ from wavescapes import *
 import numpy as np
 from scipy.signal import find_peaks
 
+def get_length_score(score, aw_size=4):
+    arr1 = produce_pitch_class_matrix_from_filename(score, aw_size=aw_size)
+    return arr1.shape[0]
+
+
 def compute_magnitude_entropy(score, ver_ratio=0.2, hor_ratio=(0,1), aw_size=4):
     arr1 = produce_pitch_class_matrix_from_filename(score, aw_size=aw_size)
     utm = np.abs(apply_dft_to_pitch_class_matrix(arr1))
@@ -33,12 +38,10 @@ def compute_peaks(score, ver_ratio=0.2, hor_ratio=(0,1), aw_size=4):
     return [len(find_peaks(list(magnitudes))[0]) for magnitudes in sel]
 
 
-def compute_entropy_phase(score, ver_ratio=0.2, aw_size=4):
+def compute_entropy_phase(score, ver_ratio=0.2, hor_ratio=(0,1), aw_size=4):
     arr1 = produce_pitch_class_matrix_from_filename(score, aw_size=aw_size)
     utm = np.round(np.angle(apply_dft_to_pitch_class_matrix(arr1)), 2)
-    vec = []
-    coeffs = []
     height = int(utm.shape[0] * ver_ratio)-1
-    sel = np.array(utm[height,:,:]).T
+    sel = np.array(utm[height,int(utm.shape[1] * hor_ratio[0]):int(utm.shape[1] * hor_ratio[1]),:]).T
     entr = ent.spectral_entropy(sel, 1, method='fft')
     return entr[1:]
