@@ -30,11 +30,11 @@ def predict_scale(score, hor_ratio=(0,1), ver_ratio=1):
     sel = utm[int(utm.shape[0] * ver_ratio)-1, int(utm.shape[1] * hor_ratio[0]):int(utm.shape[1] * hor_ratio[1]),:]
     coeffs = np.nanmean(sel, axis=0)[1:] / np.nanmean(sel, axis=0)[0]
     sim = []
-    print('the most resonant coefficient is: ', np.argmax(coeffs) + 1)
+    #print('the most resonant coefficient is: ', np.argmax(coeffs) + 1)
     for scale in orig_coeffs:
         norm1 = np.linalg.norm(coeffs)
         norm2 = np.linalg.norm(np.array(scale))
         sim_ = np.abs(coeffs - np.array(scale))
         sim.append(np.sum(sim_))
-    print(score, 'is a', dic[np.argmin(sim[1:15]) + 1])
+    #print(score, 'is a', dic[np.argmin(sim[1:15]) + 1])
     return np.argmax(coeffs) + 1, dic[np.argmin(sim[1:15]) + 1], coeffs
