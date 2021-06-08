@@ -15,7 +15,7 @@ def compute_magnitude_entropy(score, ver_ratio=0.2, hor_ratio=(0,1), aw_size=4):
     for i in range(7):
         vec.append(utm[int(utm.shape[0] * ver_ratio)-1,:,i][utm[int(utm.shape[0] * ver_ratio)-1,:,i] != 0])
     sel = np.array([ve[int(utm.shape[1] * hor_ratio[0]):int(utm.shape[1] * hor_ratio[1])] for ve in vec])
-    entr = ent.spectral_entropy(sel, 1, method='fft')
+    entr = ent.spectral_entropy(sel, 1, method='fft', normalize=True)
     return entr[1:]
 
 def compute_magnitude_5(score, ver_ratio=0.2, hor_ratio=(0,1), aw_size=4):
@@ -35,7 +35,7 @@ def compute_peaks(score, ver_ratio=0.2, hor_ratio=(0,1), aw_size=4):
     for i in range(7):
         vec.append(utm[int(utm.shape[0] * ver_ratio)-1,:,i][utm[int(utm.shape[0] * ver_ratio)-1,:,i] != 0])
     sel = [ve[int(utm.shape[1] * hor_ratio[0]):int(utm.shape[1] * hor_ratio[1])] for ve in vec]
-    return [len(find_peaks(list(magnitudes))[0]) for magnitudes in sel]
+    return [len(find_peaks(list(magnitudes))[0])/arr1.shape[0] for magnitudes in sel]
 
 
 def compute_entropy_phase(score, ver_ratio=0.2, hor_ratio=(0,1), aw_size=4):
@@ -43,5 +43,5 @@ def compute_entropy_phase(score, ver_ratio=0.2, hor_ratio=(0,1), aw_size=4):
     utm = np.round(np.angle(apply_dft_to_pitch_class_matrix(arr1)), 2)
     height = int(utm.shape[0] * ver_ratio)-1
     sel = np.array(utm[height,int(utm.shape[1] * hor_ratio[0]):int(utm.shape[1] * hor_ratio[1]),:]).T
-    entr = ent.spectral_entropy(sel, 1, method='fft')
+    entr = ent.spectral_entropy(sel, 1, method='fft', normalize=True)
     return entr[1:]
