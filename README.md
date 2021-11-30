@@ -1,2 +1,6 @@
 # Tonal ambiguity and harmonic structure in Debussy’s piano music
 By Ludovica Schaerf (ludovica.schaerf@epfl.ch), Sabrina Laneve (sabrina.laneve@epfl.ch), Yuanhui Lin (yuanhui.lin@epfl.ch), Raphael Levier (raphael.levier@epfl.ch).
+
+
+### Abstract
+Claude Debussy reformed the traditional paradigm of the functional tonality. He achieved a feat of floating and elusive vagueness in his compositions, that this paper refers to as ambiguous tonality. Debussy’s piano music evolved from tonal clarity to a tonally ambiguous harmony in his later pieces. The aim of this paper is to study this shift using computational methods. We hypothesize that the shift is characterized by increased use of symmetric structures, fragmented forms, and pentatonic rather than diatonic scales. Wavescapes, a method based on Discrete Fourier Transform (DFT), is the central tool of this project to visualize and analyze tonal hierarchies in musical pieces. The harmonic structure of several piano pieces of Debussy is analyzed using wavescapes, acknowledging their strengths and limitations. We propose a number of statistical methods that are designed specifically for the task, to validate and problematize our hypotheses. The results are in line with the initial hypotheses, allowing us to computationally define Debussy’s tonal ambiguity and visualize its development in time.
